@@ -7,7 +7,8 @@ We also pulled additional data from OMDBApi.com prior to graphing the data with 
 
 The PowerPoint presentation summarizes our analysis.
 
-# This repo contains the collaborative work for Team 2. You will find the following:
+# This repo contains the collaborative work for Team 2. 
+# You will find the following:
 ### Resources Folder
    * contains each team member's Jupyter Notebook that contains code used for later parts of the project 
    * csv files - output from gillian_notebook.ipynb and Sarah_notebook.ipynb
@@ -15,7 +16,7 @@ The PowerPoint presentation summarizes our analysis.
       * clean_movie_list.csv - cleaned up data that contains the movies that were used in the analysis 
       * movie_counts.csv - contains the count of each of the 11 bad words found in each of the movie scripts. 
 
-# What files to look at 
+### What files to look at 
    * 
 
 #
