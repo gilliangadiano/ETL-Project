@@ -1,6 +1,6 @@
 # Bad Words the SQL (ETL-Project)
 The purpose of this project is to determine if there is a correlation between the frequency(count) of bad words and the rating of the movie. 
-We're asking: "Do people like movies with that have a s---ton of f----ng bad words?"   =)
+We're asking: "Do people like movies that have a s---ton of f----ng bad words?"   =)
  
 We analyzed all the available scripts from the IMSDB website and focused on counting the frequency of 11 of the most common 'bad words' appearing in each movie script. 
 We also pulled additional data from OMDBApi.com prior to graphing the data with MatPlotLib 
