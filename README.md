@@ -17,7 +17,8 @@ Types of transformation needed for the data: Cleaning, Merging, Filtering, Aggre
    * Convert DataFrame to .csv file
    * Cleaning up non-movie links from movie URLs
    * Merging DataFrames to pull all values in one .csv file 
-   * cleaning up Null values from MySQL Database (relational) 
+   * cleaning up Null values from data
+   * importing data to MySQL Database (relational) 
    
 **Load:**
    * from MySQL database- import tables & plot using MatPlotLib
@@ -30,7 +31,6 @@ Contains each team member's Jupyter Notebook that contains code used for later p
    * `sarah_notebook.ipynb` - code to pull the word count of each 11 bad words and add data to DataFrame
    * `safwan_new.ipynb` - code to pull genre, release date, run time, MPAA rating, and IMDB review score from OMDBApi website 
    * `zach_notebook.ipynb` - code that pushes data into MySQL database 
-   * `droppingNullRows.sql` - SQL code that cleans up Null values from database. 
 
 ### Output Folder
 Contains output CSV files from Jupyter notebooks
