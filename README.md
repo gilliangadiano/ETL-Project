@@ -7,14 +7,14 @@ We also pulled additional data from OMDBApi.com prior to graphing the data with 
 
 **Extract:**
 Original Data Sources include: 
- * Web Scraping: [IMSDB] (https://www.imsdb.com/)
+ * Web Scraping: `HTML` [IMSDB] (https://www.imsdb.com/)
  
- * API pull: [OMDBApi] (http://www.omdbapi.com)
+ * API pull: `JSON` [OMDBApi] (http://www.omdbapi.com)
    
 **Transform: (Data Cleanup & Analysis)**
 
 Types of transformation needed for the data: Cleaning, Merging, Filtering, Aggregating 
-   * Convert DataFrame to `.csv` file
+   * Convert DataFrame to .csv file
    * Cleaning up non-movie links from movie URLs
    * Merging DataFrames to pull all values in one .csv file 
    * cleaning up Null values from MySQL Database (relational) 
@@ -39,8 +39,8 @@ Contains output CSV files from Jupyter notebooks
    * `movie_counts.csv` - contains the count of each of the 11 bad words found in each of the movie scripts. 
    * `result.csv` - added genre, release date, run time, MPAA rating, and IMDB review score 
 
-#### PowerPoint presentation 
-Summarizes the project: contains problems statment, challenges/limitations, graphs, and ways to improve the analysis. This includes speaker notes to elaborate on each slide.
+#### PowerPoint presentation : `ETL Presentation.pptx` 
+ *Summarizes the project: contains problems statment, challenges/limitations, graphs, and ways to improve the analysis. This includes speaker notes to elaborate on each slide.
  
 #### Project Statement.docx 
  * Word document submitted prior to starting project - containing initial project statement, goals, data sources 
