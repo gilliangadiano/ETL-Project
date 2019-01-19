@@ -6,9 +6,10 @@ We analyzed all the available scripts from the IMSDB website and focused on coun
 We also pulled additional data from OMDBApi.com prior to graphing the data with MatPlotLib 
 
 **Extract:**
-Original Data Sources include: IMSDB.com (HTML), OMBDApi.com (JSON)
-   * Web Scraping - HTML to DataFrame (.ipynb file)
-   * API pull - JSON to DataFrame (.ipynb file)
+Original Data Sources include: 
+ * Web Scraping: [IMSDB] (https://www.imsdb.com/)
+ 
+ * API pull: [OMDBApi] (http://www.omdbapi.com)
    
 **Transform: (Data Cleanup & Analysis)**
 
