@@ -7,9 +7,9 @@ We also pulled additional data from OMDBApi.com prior to graphing the data with 
 
 **Extract:**
 Original Data Sources include: 
- * Web Scraping: `HTML` [IMSDB] (https://www.imsdb.com/)
+ * Web Scraping: `HTML` [IMSDB](https://www.imsdb.com/)
  
- * API pull: `JSON` [OMDBApi] (http://www.omdbapi.com)
+ * API pull: `JSON` [OMDBApi](http://www.omdbapi.com)
    
 **Transform: (Data Cleanup & Analysis)**
 
@@ -25,7 +25,7 @@ Types of transformation needed for the data: Cleaning, Merging, Filtering, Aggre
 # This repo contains the collaborative work for Team 2. 
 ## You will find the following:
 ### Resources Folder
-Contains each team member's Jupyter Notebook that contains code used for later parts of the project
+Contains each team member's Jupyter Notebook that contains code used for later parts of the project (in sequential order):
    * `gillian_notebook.ipynb` - web scraping code to pull movie titles and URLs from IMSDB website and convert to DataFrame
    * `sarah_notebook.ipynb` - code to pull the word count of each 11 bad words and add data to DataFrame
    * `safwan_new.ipynb` - code to pull genre, release date, run time, MPAA rating, and IMDB review score from OMDBApi website 
