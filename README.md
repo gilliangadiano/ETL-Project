@@ -40,7 +40,7 @@ Contains output CSV files from Jupyter notebooks
    * `result.csv` - added genre, release date, run time, MPAA rating, and IMDB review score 
 
 #### PowerPoint presentation : `ETL Presentation.pptx` 
- *Summarizes the project: contains problems statment, challenges/limitations, graphs, and ways to improve the analysis. This includes speaker notes to elaborate on each slide.
+ * Summarizes the project: contains problems statment, challenges/limitations, graphs, and ways to improve the analysis. This includes speaker notes to elaborate on each slide.
  
 #### Project Statement.docx 
  * Word document submitted prior to starting project - containing initial project statement, goals, data sources 
