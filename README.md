@@ -1,12 +1,28 @@
 # Bad Words the SQL (ETL-Project)
 The purpose of this project is to determine if there is a correlation between the frequency(count) of bad words and the rating of the movie. 
 We're asking: "Do people like movies that have a s---ton of f----ng bad words?"   =)
- 
+
 We analyzed all the available scripts from the IMSDB website and focused on counting the frequency of 11 of the most common 'bad words' appearing in each movie script. 
 We also pulled additional data from OMDBApi.com prior to graphing the data with MatPlotLib 
 
+**Extract:**
+Original Data Sources include: IMSDB.com (HTML), OMBDApi.com (JSON)
+   * Web Scraping - HTML to DataFrame (.ipynb file)
+   * API pull - JSON to DataFrame (.ipynb file)
+   
+**Transform: (Data Cleanup & Analysis)**
+
+Types of transformation needed for the data: Cleaning, Merging, Filtering, Aggregating 
+   * Convert DataFrame to `.csv` file
+   * Cleaning up non-movie links from movie URLs
+   * Merging DataFrames to pull all values in one .csv file 
+   * cleaning up Null values from MySQL Database (relational) 
+   
+**Load:**
+   * from MySQL database- import tables & plot using MatPlotLib
+
 # This repo contains the collaborative work for Team 2. 
-# You will find the following:
+## You will find the following:
 ### Resources Folder
 Contains each team member's Jupyter Notebook that contains code used for later parts of the project
    * `gillian_notebook.ipynb` - web scraping code to pull movie titles and URLs from IMSDB website and convert to DataFrame
