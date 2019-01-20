@@ -7,9 +7,9 @@ We also pulled additional data from OMDBApi.com prior to graphing the data with 
 
 **Extract:**
 Original Data Sources include: 
- * Web Scraping: `HTML` [IMSDB](https://www.imsdb.com/)
+ * Web Scraping: `HTML` from [IMSDB](https://www.imsdb.com/)
  
- * API pull: `JSON` [OMDBApi](http://www.omdbapi.com)
+ * API pull: `JSON` from [OMDBApi](http://www.omdbapi.com)
    
 **Transform: (Data Cleanup & Analysis)**
 
@@ -31,13 +31,16 @@ Contains each team member's Jupyter Notebook that contains code used for later p
    * `sarah_notebook.ipynb` - code to pull the word count of each 11 bad words and add data to DataFrame
    * `safwan_new.ipynb` - code to pull genre, release date, run time, MPAA rating, and IMDB review score from OMDBApi website 
    * `zach_notebook.ipynb` - code that pushes data into MySQL database 
+   * `droppingNullRows.sql` - SQL code to remove null values from database
+   * `Sarah_visualization.ipynb` - MatPlotLib graphs used for analysis
 
 ### Output Folder
 Contains output CSV files from Jupyter notebooks
    * `movie_list.csv` - raw data scraped from IMSBD
    * `clean_movie_list.csv` - cleaned up data that contains the movies that were used in the analysis 
    * `movie_counts.csv` - contains the count of each of the 11 bad words found in each of the movie scripts. 
-   * `result.csv` - added genre, release date, run time, MPAA rating, and IMDB review score 
+   * `result.csv` - added genre, release date, run time, MPAA rating, and IMDB review score `
+   * `result2.csv` - cleaned up result file 
 
 #### PowerPoint presentation : `ETL Presentation.pptx` 
  * Summarizes the project: contains problems statment, challenges/limitations, graphs, and ways to improve the analysis. This includes speaker notes to elaborate on each slide.
