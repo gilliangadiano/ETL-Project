@@ -30,8 +30,7 @@ Contains each team member's Jupyter Notebook that contains code used for later p
    * `gillian_notebook.ipynb` - web scraping code to pull movie titles and URLs from IMSDB website and convert to DataFrame
    * `sarah_notebook.ipynb` - code to pull the word count of each 11 bad words and add data to DataFrame
    * `safwan_new.ipynb` - code to pull genre, release date, run time, MPAA rating, and IMDB review score from OMDBApi website 
-   * `zach_notebook.ipynb` - code that pushes data into MySQL database 
-   * `droppingNullRows.sql` - SQL code to remove null values from database
+   * `zach_notebook.ipynb` - code that plots pie chart and pushes final combined csv file (with no nulls) into MySQL database 
    * `Sarah_visualization.ipynb` - MatPlotLib graphs used for analysis
 
 ### Output Folder
@@ -44,8 +43,9 @@ Contains output CSV files from Jupyter notebooks
 
 #### PowerPoint presentation : 
 `ETL Presentation.pptx` 
- * Summarizes the project: contains problems statment, challenges/limitations, graphs, and ways to improve the analysis. This includes speaker notes to elaborate on each slide.
- 
+ * Summarizes the project: contains problems statement, challenges/limitations, graphs, and ways to improve the analysis. This includes speaker notes to elaborate on each slide.
+
 #### Project Statement.docx 
  * Word document submitted prior to starting project - containing initial project statement, goals, data sources 
+
 
