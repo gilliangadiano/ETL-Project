@@ -13,12 +13,12 @@ Original Data Sources include:
    
 **Transform: (Data Cleanup & Analysis)**
 
-Types of transformation needed for the data: Cleaning, Merging, Filtering, Aggregating 
+Types of transformation needed for the data: Cleaning, Filtering, Aggregating 
    * Convert DataFrame to .csv file
    * Cleaning up non-movie links from movie URLs
-   * Merging DataFrames to pull all values in one .csv file 
-   * cleaning up Null values from data
-   * importing data to MySQL Database (relational) 
+   * Aggregating DataFrames to pull all values in one .csv file 
+   * Filtering out Null values from data
+   * Importing data to MySQL Database (relational) 
    
 **Load:**
    * from MySQL database- import tables & plot using MatPlotLib
@@ -42,7 +42,8 @@ Contains output CSV files from Jupyter notebooks
    * `result.csv` - added genre, release date, run time, MPAA rating, and IMDB review score `
    * `result2.csv` - cleaned up result file 
 
-#### PowerPoint presentation : `ETL Presentation.pptx` 
+#### PowerPoint presentation : 
+`ETL Presentation.pptx` 
  * Summarizes the project: contains problems statment, challenges/limitations, graphs, and ways to improve the analysis. This includes speaker notes to elaborate on each slide.
  
 #### Project Statement.docx 
