@@ -1,0 +1,878 @@
+,Unnamed: 0,Movie_Title,IMDB,Film Rating,Released,Runtime,Genre,Movie_Links,shit,fuck,damn,bitch,asshole,ass,dick,pussy,cock,bastard,douche,total_words,total_bad_words,Runtime_minutes,bad_word_frequency,Year
+0,0,10 Things I Hate About You,0.73,PG-13,31 Mar 1999,97 min,"Comedy, Drama, Romance",/10-Things-I-Hate-About-You.html,8.0,2.0,3.0,5.0,3.0,7.0,2.0,1.0,0.0,0.0,0.0,19152.0,31.0,97.0,3.13,1999
+1,1,12,0.77,PG-13,20 Sep 2007,159 min,"Crime, Drama, Thriller, War",/12.html,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,2.0,0.0,14144.0,6.0,159.0,26.5,2007
+2,2,12 and Holding,0.76,R,07 Jul 2006,94 min,Drama,/12-and-Holding.html,10.0,4.0,3.0,1.0,5.0,4.0,0.0,7.0,0.0,1.0,0.0,18999.0,35.0,94.0,2.69,2006
+3,3,12 Monkeys,0.77,TV-14,16 Jan 2015,42 min,"Adventure, Drama, Mystery, Sci-Fi, Thriller",/12-Monkeys.html,4.0,5.0,2.0,2.0,1.0,3.0,0.0,1.0,0.0,2.0,0.0,32272.0,20.0,42.0,2.1,2015
+4,4,12 Years a Slave,0.81,R,08 Nov 2013,134 min,"Biography, Drama, History",/12-Years-a-Slave.html,0.0,0.0,12.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,31014.0,16.0,134.0,8.38,2013
+5,5,127 Hours,0.76,R,28 Jan 2011,94 min,"Adventure, Biography, Drama, Thriller",/127-Hours.html,10.0,10.0,1.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,18959.0,24.0,94.0,3.92,2011
+6,6,15 Minutes,0.61,R,09 Mar 2001,120 min,"Action, Crime, Drama, Thriller",/15-Minutes.html,15.0,1.0,1.0,0.0,2.0,1.0,0.0,0.0,0.0,3.0,0.0,26049.0,23.0,120.0,5.22,2001
+7,7,17 Again,0.64,PG-13,17 Apr 2009,102 min,"Comedy, Drama, Fantasy",/17-Again.html,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,19103.0,6.0,102.0,17.0,2009
+8,8,2012,0.58,PG-13,13 Nov 2009,158 min,"Action, Adventure, Sci-Fi",/2012.html,6.0,0.0,5.0,0.0,0.0,4.0,0.0,0.0,0.0,4.0,0.0,26650.0,19.0,158.0,8.32,2009
+9,9,30 Minutes or Less,0.61,R,12 Aug 2011,83 min,"Action, Comedy, Crime",/30-Minutes-or-Less.html,61.0,92.0,5.0,10.0,9.0,6.0,4.0,4.0,3.0,0.0,0.0,24500.0,194.0,83.0,0.43,2011
+10,10,42,0.75,PG-13,12 Apr 2013,128 min,"Biography, Drama, Sport",/42.html,3.0,0.0,4.0,2.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,28607.0,12.0,128.0,10.67,2013
+11,11,44 Inch Chest,0.58,R,15 Jan 2010,95 min,"Crime, Drama",/44-Inch-Chest.html,6.0,34.0,0.0,4.0,0.0,0.0,0.0,0.0,4.0,6.0,0.0,21746.0,54.0,95.0,1.76,2010
+12,12,48 Hrs.,0.69,R,08 Dec 1982,96 min,"Action, Comedy, Crime, Drama, Thriller",/48-Hrs..html,29.0,13.0,7.0,7.0,9.0,22.0,1.0,3.0,1.0,3.0,0.0,21550.0,95.0,96.0,1.01,1982
+14,14,500 Days of Summer,0.77,PG-13,07 Aug 2009,95 min,"Comedy, Drama, Romance",/500-Days-of-Summer.html,20.0,2.0,3.0,3.0,1.0,3.0,0.0,1.0,1.0,0.0,16.0,18698.0,50.0,95.0,1.9,2009
+15,15,8MM,0.65,R,26 Feb 1999,123 min,"Mystery, Thriller",/8MM.html,6.0,23.0,0.0,1.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,32332.0,34.0,123.0,3.62,1999
+16,16,9,0.71,PG-13,09 Sep 2009,79 min,"Animation, Action, Adventure, Drama, Mystery, Sci-Fi, Thriller",/9.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17521.0,0.0,79.0,inf,2009
+17,17,A Few Good Men,0.77,R,11 Dec 1992,138 min,"Drama, Thriller",/A-Few-Good-Men.html,12.0,5.0,7.0,0.0,1.0,4.0,0.0,0.0,0.0,1.0,0.0,28546.0,30.0,138.0,4.6,1992
+18,18,A Most Violent Year,0.7,R,30 Jan 2015,125 min,"Crime, Drama, Thriller",/A-Most-Violent-Year.html,7.0,12.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,27272.0,22.0,125.0,5.68,2015
+19,19,A Scanner Darkly,0.71,R,28 Jul 2006,100 min,"Animation, Crime, Drama, Mystery, Sci-Fi, Thriller",/A-Scanner-Darkly.html,25.0,44.0,1.0,0.0,1.0,3.0,1.0,0.0,1.0,3.0,0.0,28460.0,79.0,100.0,1.27,2006
+20,20,A Serious Man,0.71,R,06 Nov 2009,106 min,"Comedy, Drama",/A-Serious-Man.html,5.0,1.0,0.0,0.0,3.0,1.0,6.0,0.0,0.0,1.0,0.0,22459.0,17.0,106.0,6.24,2009
+21,21,Above the Law,0.6,R,22 Apr 1988,99 min,"Action, Crime, Drama, Mystery, Thriller",/Above-the-Law.html,5.0,11.0,1.0,0.0,3.0,11.0,1.0,2.0,0.0,2.0,0.0,28233.0,36.0,99.0,2.75,1988
+22,22,Absolute Power,0.67,R,14 Feb 1997,121 min,"Action, Crime, Drama, Thriller",/Absolute-Power.html,9.0,3.0,4.0,1.0,4.0,1.0,0.0,0.0,0.0,3.0,0.0,25497.0,25.0,121.0,4.84,1997
+23,23,Affliction,0.7,R,19 Feb 1999,114 min,"Drama, Mystery, Thriller",/Affliction.html,17.0,18.0,4.0,0.0,5.0,3.0,0.0,0.0,0.0,4.0,0.0,16881.0,51.0,114.0,2.24,1999
+24,24,After School Special,0.25,TV-MA,27 Jun 2017,78 min,"Adventure, Comedy, Crime",/After-School-Special.html,14.0,1.0,1.0,0.0,4.0,4.0,3.0,2.0,0.0,1.0,0.0,23453.0,30.0,78.0,2.6,2017
+25,25,After.Life,0.59,R,26 Aug 2010,104 min,"Drama, Horror, Mystery, Thriller",/After.Life.html,6.0,9.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22177.0,16.0,104.0,6.5,2010
+26,26,Agnes of God,0.66,PG-13,27 Sep 1985,98 min,"Drama, Mystery",/Agnes-of-God.html,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14493.0,2.0,98.0,49.0,1985
+27,27,Air Force One,0.65,R,25 Jul 1997,124 min,"Action, Drama, Thriller",/Air-Force-One.html,8.0,7.0,1.0,1.0,4.0,2.0,0.0,0.0,0.0,2.0,0.0,27003.0,25.0,124.0,4.96,1997
+28,28,Airplane!,0.78,PG,02 Jul 1980,88 min,Comedy,float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,88.0,88.0,1980
+29,29,Aladdin,0.8,G,25 Nov 1992,90 min,"Animation, Adventure, Comedy, Family, Fantasy, Musical, Romance",/Aladdin.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17926.0,0.0,90.0,inf,1992
+30,30,Ali,0.68,R,25 Dec 2001,157 min,"Biography, Drama, Sport",/Ali.html,1.0,5.0,4.0,0.0,0.0,3.0,8.0,0.0,0.0,0.0,0.0,33431.0,21.0,157.0,7.48,2001
+31,31,Alien,0.85,R,22 Jun 1979,116 min,"Horror, Sci-Fi",/Alien.html,4.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,22776.0,14.0,116.0,8.29,1979
+33,33,Alien Nation,0.63,R,07 Oct 1988,91 min,"Action, Sci-Fi",/Alien-Nation.html,17.0,2.0,5.0,5.0,2.0,6.0,1.0,0.0,0.0,0.0,0.0,26090.0,38.0,91.0,2.39,1988
+34,34,AVP: Alien vs. Predator,0.56,PG-13,13 Aug 2004,101 min,"Action, Horror, Sci-Fi, Thriller",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,101.0,101.0,2004
+35,35,Aliens,0.84,R,18 Jul 1986,137 min,"Action, Adventure, Sci-Fi, Thriller",/Aliens.html,10.0,11.0,1.0,3.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,28743.0,29.0,137.0,4.72,1986
+36,36,All About Eve,0.83,NOT RATED,27 Oct 1950,138 min,Drama,/All-About-Eve.html,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30500.0,1.0,138.0,138.0,1950
+37,37,All About Steve,0.48,PG-13,04 Sep 2009,99 min,"Comedy, Romance",/All-About-Steve.html,1.0,0.0,2.0,1.0,7.0,1.0,0.0,0.0,0.0,1.0,0.0,23620.0,13.0,99.0,7.62,2009
+38,38,All the King's Men,0.62,PG-13,22 Sep 2006,128 min,"Drama, Thriller",/All-the-King's-Men.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,23469.0,0.0,128.0,inf,2006
+39,39,All the President's Men,0.8,PG,09 Apr 1976,138 min,"Biography, Drama, History, Thriller",/All-the-President's-Men.html,9.0,11.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,25148.0,26.0,138.0,5.31,1976
+40,40,Almost Famous,0.79,R,22 Sep 2000,122 min,"Adventure, Comedy, Drama, Music",/Almost-Famous.html,3.0,10.0,4.0,0.0,2.0,3.0,100.0,0.0,0.0,0.0,0.0,36396.0,122.0,122.0,1.0,2000
+41,41,Alone in the Dark,0.23,R,28 Jan 2005,96 min,"Action, Horror, Sci-Fi",/Alone-in-the-Dark.html,1.0,1.0,1.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,24987.0,6.0,96.0,16.0,2005
+42,42,Amadeus,0.83,R,19 Sep 1984,160 min,"Biography, Drama, History, Music",/Amadeus.html,6.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,36645.0,11.0,160.0,14.55,1984
+43,43,Amelia,0.58,PG,23 Oct 2009,111 min,"Adventure, Biography, Drama, Romance",/Amelia.html,1.0,0.0,4.0,0.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,27090.0,9.0,111.0,12.33,2009
+44,44,American Beauty,0.84,R,01 Oct 1999,122 min,Drama,/American-Beauty.html,10.0,13.0,2.0,2.0,4.0,1.0,6.0,2.0,0.0,1.0,0.0,21334.0,41.0,122.0,2.98,1999
+45,45,American Gangster,0.78,R,02 Nov 2007,157 min,"Biography, Crime, Drama, Thriller",/American-Gangster.html,6.0,31.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,31545.0,42.0,157.0,3.74,2007
+46,46,American Graffiti,0.75,PG,11 Aug 1973,110 min,"Comedy, Drama",/American-Graffiti.html,10.0,0.0,5.0,1.0,1.0,6.0,1.0,0.0,0.0,0.0,0.0,28091.0,24.0,110.0,4.58,1973
+47,47,American History X,0.85,R,20 Nov 1998,119 min,"Crime, Drama",/American-History-X.html,50.0,38.0,3.0,10.0,9.0,16.0,6.0,7.0,0.0,1.0,0.0,20868.0,140.0,119.0,0.85,1998
+48,48,American Hustle,0.73,R,20 Dec 2013,138 min,"Crime, Drama",/American-Hustle.html,18.0,23.0,2.0,5.0,0.0,4.0,10.0,0.0,0.0,0.0,0.0,32053.0,62.0,138.0,2.23,2013
+49,49,American Madness,0.75,PASSED,15 Aug 1932,75 min,Drama,/American-Madness.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24822.0,0.0,75.0,inf,1932
+50,50,American Milkshake,0.47,R,20 Jan 2013,83 min,Comedy,/American-Milkshake.html,22.0,10.0,9.0,0.0,4.0,6.0,2.0,0.0,0.0,0.0,0.0,18064.0,53.0,83.0,1.57,2013
+51,51,American Outlaws,0.6,PG-13,17 Aug 2001,94 min,"Action, Western",/American-Outlaws.html,2.0,0.0,10.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,21763.0,15.0,94.0,6.27,2001
+52,52,American Pie,0.7,R,09 Jul 1999,95 min,Comedy,/American-Pie.html,26.0,16.0,9.0,0.0,2.0,4.0,0.0,1.0,0.0,0.0,0.0,21482.0,58.0,95.0,1.64,1999
+53,53,American Psycho,0.76,R,14 Apr 2000,101 min,"Crime, Drama",/American-Psycho.html,5.0,7.0,0.0,10.0,5.0,3.0,0.0,1.0,0.0,8.0,0.0,21294.0,39.0,101.0,2.59,2000
+54,54,American Sniper,0.73,R,16 Jan 2015,133 min,"Action, Biography, Drama, History, Thriller, War",/American-Sniper.html,26.0,29.0,3.0,1.0,1.0,20.0,3.0,0.0,0.0,1.0,0.0,23830.0,84.0,133.0,1.58,2015
+55,55,American Splendor,0.75,R,12 Sep 2003,101 min,"Biography, Comedy, Drama",/American-Splendor.html,14.0,0.0,7.0,1.0,2.0,4.0,0.0,0.0,0.0,1.0,0.0,20210.0,29.0,101.0,3.48,2003
+56,56,An American Werewolf in London,0.76,R,21 Aug 1981,97 min,"Comedy, Horror",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,97.0,97.0,1981
+57,57,American: The Bill Hicks Story,0.78,NOT RATED,08 Apr 2011,102 min,"Documentary, Animation, Biography, Comedy",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,102.0,102.0,2011
+58,58,Amour,0.79,PG-13,20 Sep 2012,127 min,"Drama, Romance",/Amour.html,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14391.0,1.0,127.0,127.0,2012
+59,59,An Education,0.73,PG-13,05 Feb 2010,100 min,Drama,/An-Education.html,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,23256.0,2.0,100.0,50.0,2010
+60,60,Analyze That,0.59,R,06 Dec 2002,96 min,"Comedy, Crime",/Analyze-That.html,20.0,14.0,1.0,3.0,7.0,1.0,0.0,5.0,1.0,0.0,0.0,22828.0,52.0,96.0,1.85,2002
+61,61,Analyze This,0.67,R,05 Mar 1999,103 min,"Comedy, Crime",/Analyze-This.html,14.0,15.0,2.0,2.0,2.0,6.0,1.0,0.0,0.0,4.0,0.0,23765.0,46.0,103.0,2.24,1999
+62,62,Anastasia,0.71,G,21 Nov 1997,94 min,"Animation, Adventure, Drama, Family, Fantasy, Musical, Mystery, Romance",/Anastasia.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21265.0,0.0,94.0,inf,1997
+63,63,Angel Eyes,0.56,R,18 May 2001,102 min,"Drama, Romance",/Angel-Eyes.html,9.0,0.0,8.0,3.0,2.0,7.0,0.0,0.0,0.0,2.0,0.0,28212.0,31.0,102.0,3.29,2001
+64,64,Angels & Demons,0.67,PG-13,15 May 2009,138 min,"Mystery, Thriller",/Angels-&-Demons.html,1.0,0.0,5.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,30054.0,9.0,138.0,15.33,2009
+65,65,Anna Karenina,0.66,R,07 Sep 2012,129 min,"Drama, Romance",/Anna-Karenina.html,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,28583.0,2.0,129.0,64.5,2012
+66,66,Annie Hall,0.8,PG,20 Apr 1977,93 min,"Comedy, Romance",/Annie-Hall.html,0.0,0.0,0.0,0.0,1.0,1.0,4.0,0.0,0.0,0.0,0.0,28560.0,6.0,93.0,15.5,1977
+67,67,Anonymous,0.69,PG-13,28 Oct 2011,130 min,"Drama, Thriller",/Anonymous.html,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,27996.0,4.0,130.0,32.5,2011
+68,68,Antitrust,0.61,PG-13,12 Jan 2001,105 min,"Action, Crime, Drama, Thriller",/Antitrust.html,4.0,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,26022.0,8.0,105.0,13.12,2001
+69,69,Antz,0.66,PG,02 Oct 1998,83 min,"Animation, Adventure, Comedy, Family",/Antz.html,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,18345.0,3.0,83.0,27.67,1998
+70,70,Apocalypse Now,0.85,R,15 Aug 1979,147 min,"Drama, War",/Apocalypse-Now.html,14.0,5.0,11.0,8.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,30121.0,43.0,147.0,3.42,1979
+71,71,April Fool's Day,0.62,R,28 Mar 1986,89 min,"Horror, Mystery",/April-Fool's-Day.html,12.0,13.0,0.0,0.0,2.0,3.0,0.0,0.0,0.0,1.0,0.0,21396.0,31.0,89.0,2.87,1986
+72,72,Apt Pupil,0.67,R,23 Oct 1998,111 min,"Crime, Drama, Thriller",/Apt-Pupil.html,4.0,22.0,2.0,1.0,0.0,0.0,95.0,0.0,0.0,1.0,0.0,30395.0,125.0,111.0,0.89,1998
+73,73,Arbitrage,0.66,R,14 Sep 2012,107 min,"Drama, Thriller",/Arbitrage.html,2.0,22.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,18864.0,29.0,107.0,3.69,2012
+74,74,Arcade,0.53,R,30 Mar 1994,85 min,"Horror, Sci-Fi",/Arcade.html,14.0,7.0,0.0,2.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,22926.0,26.0,85.0,3.27,1994
+76,76,Argo,0.77,R,12 Oct 2012,120 min,"Biography, Drama, Thriller",/Argo.html,2.0,11.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,24189.0,16.0,120.0,7.5,2012
+77,77,Armageddon,0.67,PG-13,01 Jul 1998,151 min,"Action, Adventure, Sci-Fi, Thriller",/Armageddon.html,12.0,2.0,2.0,3.0,0.0,15.0,1.0,1.0,0.0,1.0,0.0,28440.0,37.0,151.0,4.08,1998
+78,78,Army of Darkness,0.76,R,19 Feb 1993,81 min,"Comedy, Horror",/Army-of-Darkness.html,1.0,0.0,6.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,16184.0,9.0,81.0,9.0,1993
+79,79,Arsenic and Old Lace,0.8,NOT RATED,23 Sep 1944,118 min,"Comedy, Crime, Thriller",/Arsenic-and-Old-Lace.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,33407.0,0.0,118.0,inf,1944
+80,80,Arthur,0.57,PG-13,08 Apr 2011,110 min,"Comedy, Romance",/Arthur.html,12.0,5.0,1.0,2.0,0.0,4.0,0.0,0.0,0.0,1.0,0.0,22411.0,25.0,110.0,4.4,2011
+81,81,A Portrait of an Artist: The Making of 'Get Rich or Die Tryin',0.7,float(0),28 Mar 2006,29 min,"Documentary, Short",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,29.0,29.0,2006
+82,82,As Good as It Gets,0.77,PG-13,25 Dec 1997,139 min,"Comedy, Drama, Romance",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,139.0,139.0,1997
+83,83,Assassins,0.63,R,06 Oct 1995,132 min,"Action, Crime, Thriller",/Assassins.html,25.0,21.0,2.0,5.0,0.0,5.0,0.0,1.0,0.0,0.0,0.0,23561.0,59.0,132.0,2.24,1995
+84,84,At First Sight,0.59,PG-13,15 Jan 1999,128 min,"Drama, Romance",/At-First-Sight.html,4.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,27557.0,8.0,128.0,16.0,1999
+85,85,Austin Powers: International Man of Mystery,0.7,PG-13,02 May 1997,89 min,"Adventure, Comedy",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,89.0,89.0,1997
+86,86,Austin Powers: The Spy Who Shagged Me,0.66,PG-13,11 Jun 1999,95 min,"Action, Adventure, Comedy, Crime",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,95.0,95.0,1999
+87,87,Authors Anonymous,0.43,PG-13,18 Mar 2014,92 min,Comedy,/Authors-Anonymous.html,3.0,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,21745.0,8.0,92.0,11.5,2014
+88,88,Autumn in New York,0.56,PG-13,11 Aug 2000,103 min,"Drama, Romance",/Autumn-in-New-York.html,4.0,1.0,8.0,2.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,24333.0,19.0,103.0,5.42,2000
+89,89,Avatar,0.78,PG-13,18 Dec 2009,162 min,"Action, Adventure, Fantasy, Sci-Fi",/Avatar.html,13.0,0.0,8.0,8.0,1.0,9.0,0.0,1.0,1.0,0.0,0.0,35757.0,41.0,162.0,3.95,2009
+90,90,Awakenings,0.78,PG-13,11 Jan 1991,121 min,"Biography, Drama",/Awakenings.html,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,32071.0,1.0,121.0,121.0,1991
+91,91,Babel,0.75,R,10 Nov 2006,143 min,Drama,/Babel.html,4.0,9.0,7.0,1.0,4.0,3.0,0.0,1.0,0.0,0.0,0.0,27169.0,29.0,143.0,4.93,2006
+92,92,Bachelor Party,0.63,R,29 Jun 1984,105 min,Comedy,/Bachelor-Party.html,21.0,2.0,2.0,1.0,5.0,6.0,4.0,0.0,0.0,0.0,0.0,22948.0,41.0,105.0,2.56,1984
+93,93,Back to the Future,0.85,PG,03 Jul 1985,116 min,"Adventure, Comedy, Sci-Fi",/Back-to-the-Future.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,23.0,0.0,116.0,inf,1985
+95,95,Backdraft,0.67,R,24 May 1991,137 min,"Action, Crime, Drama, Mystery, Thriller",/Backdraft.html,17.0,9.0,5.0,13.0,3.0,10.0,0.0,2.0,0.0,1.0,0.0,27934.0,60.0,137.0,2.28,1991
+96,96,Bad Boys,0.69,R,07 Apr 1995,119 min,"Action, Comedy, Crime, Thriller",/Bad-Boys.html,29.0,27.0,5.0,1.0,3.0,17.0,8.0,3.0,0.0,0.0,0.0,27096.0,93.0,119.0,1.28,1995
+97,97,Bad Country,0.58,R,29 Apr 2014,95 min,"Action, Crime, Drama, Mystery, Thriller",/Bad-Country.html,19.0,43.0,10.0,1.0,0.0,7.0,1.0,0.0,0.0,0.0,0.0,23423.0,81.0,95.0,1.17,2014
+98,98,Bad Day at Black Rock,0.78,NOT RATED,15 May 1955,81 min,"Crime, Drama, Mystery",/Bad-Day-at-Black-Rock.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22482.0,0.0,81.0,inf,1955
+99,99,Bad Dreams,0.56,R,08 Apr 1988,80 min,"Horror, Thriller",/Bad-Dreams.html,17.0,9.0,7.0,0.0,1.0,2.0,1.0,0.0,0.0,1.0,0.0,24130.0,38.0,80.0,2.11,1988
+100,100,Bad Lieutenant,0.71,NC-17,17 Dec 1992,96 min,"Crime, Drama, Thriller",/Bad-Lieutenant.html,18.0,17.0,0.0,0.0,2.0,1.0,0.0,1.0,0.0,1.0,0.0,15354.0,40.0,96.0,2.4,1992
+101,101,Bad Santa,0.71,R,26 Nov 2003,91 min,"Comedy, Crime, Drama",/Bad-Santa.html,41.0,62.0,0.0,9.0,3.0,21.0,5.0,4.0,0.0,1.0,0.0,16368.0,146.0,91.0,0.62,2003
+102,102,Bad Teacher,0.56,R,24 Jun 2011,92 min,"Comedy, Romance",/Bad-Teacher.html,10.0,15.0,2.0,2.0,0.0,7.0,1.0,0.0,0.0,0.0,0.0,21724.0,37.0,92.0,2.49,2011
+103,103,Badlands,0.79,PG,05 Jan 1974,94 min,"Crime, Drama",/Badlands.html,0.0,0.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,14790.0,4.0,94.0,23.5,1974
+104,104,Bamboozled,0.65,R,20 Oct 2000,135 min,"Comedy, Drama, Music",/Bamboozled.html,1.0,1.0,9.0,1.0,0.0,13.0,0.0,0.0,0.0,1.0,0.0,24967.0,26.0,135.0,5.19,2000
+105,105,Barry Lyndon,0.81,PG,18 Dec 1975,185 min,"Adventure, Drama, History, War",/Barry-Lyndon.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,33449.0,1.0,185.0,185.0,1975
+106,106,Barton Fink,0.77,R,21 Aug 1991,116 min,"Comedy, Drama, Thriller",/Barton-Fink.html,4.0,1.0,6.0,3.0,0.0,6.0,1.0,0.0,0.0,1.0,0.0,22274.0,22.0,116.0,5.27,1991
+107,107,Basic,0.65,R,28 Mar 2003,98 min,"Action, Crime, Drama, Mystery, Thriller",/Basic.html,10.0,33.0,1.0,3.0,0.0,6.0,2.0,0.0,0.0,0.0,0.0,22961.0,55.0,98.0,1.78,2003
+108,108,Basic Instinct,0.69,R,20 Mar 1992,127 min,"Drama, Mystery, Thriller",/Basic-Instinct.html,2.0,20.0,2.0,1.0,0.0,3.0,0.0,2.0,0.0,0.0,0.0,20608.0,30.0,127.0,4.23,1992
+109,109,Basquiat,0.69,R,09 Aug 1996,107 min,"Biography, Drama",/Basquiat.html,13.0,10.0,3.0,0.0,2.0,0.0,1.0,1.0,0.0,0.0,0.0,19459.0,30.0,107.0,3.57,1996
+110,110,Batman,0.75,PG-13,23 Jun 1989,126 min,"Action, Adventure",/Batman.html,6.0,1.0,0.0,1.0,0.0,1.0,51.0,0.0,0.0,0.0,0.0,32586.0,60.0,126.0,2.1,1989
+111,111,Laguna Beach: The Real Orange County,0.48,float(0),28 Sep 2004,30 min,"Drama, Reality-TV",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,30.0,30.0,2004
+112,112,Bean,0.64,PG-13,07 Nov 1997,89 min,"Adventure, Comedy, Family",/Bean.html,1.0,0.0,9.0,1.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,29971.0,15.0,89.0,5.93,1997
+113,113,Beasts of No Nation,0.78,NOT RATED,16 Oct 2015,137 min,"Drama, War",/Beasts-of-No-Nation.html,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,25506.0,1.0,137.0,137.0,2015
+114,114,Beasts of the Southern Wild,0.73,PG-13,05 Jul 2012,93 min,"Adventure, Drama, Fantasy",/Beasts-of-the-Southern-Wild.html,2.0,1.0,5.0,1.0,0.0,4.0,0.0,0.0,1.0,1.0,0.0,16335.0,15.0,93.0,6.2,2012
+115,115,Beauty and the Beast,0.8,G,22 Nov 1991,84 min,"Animation, Family, Fantasy, Musical, Romance",/Beauty-and-the-Beast.html,0.0,0.0,0.0,0.0,0.0,0.0,11.0,0.0,0.0,0.0,0.0,23948.0,11.0,84.0,7.64,1991
+116,116,Beavis and Butt-Head Do America,0.68,PG-13,20 Dec 1996,81 min,"Animation, Adventure, Comedy, Crime, Music",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,81.0,81.0,1996
+117,117,Beginners,0.72,R,09 Jun 2011,105 min,"Comedy, Drama, Romance",/Beginners.html,0.0,4.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,18842.0,5.0,105.0,21.0,2011
+118,118,Being Human,0.75,TV-14,17 Jan 2011,44 min,"Drama, Fantasy, Horror",/Being-Human.html,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40255.0,4.0,44.0,11.0,2011
+119,119,Being John Malkovich,0.78,R,03 Dec 1999,113 min,"Comedy, Drama, Fantasy",/Being-John-Malkovich.html,12.0,7.0,6.0,2.0,0.0,1.0,2.0,0.0,0.0,9.0,0.0,21187.0,39.0,113.0,2.9,1999
+120,120,Being There,0.8,PG,26 May 1980,130 min,"Comedy, Drama",/Being-There.html,0.0,1.0,6.0,3.0,2.0,5.0,0.0,0.0,0.0,1.0,0.0,25507.0,18.0,130.0,7.22,1980
+121,121,Belle,0.74,PG,13 Jun 2014,100 min,"Biography, Drama, Romance",/Belle.html,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21597.0,1.0,100.0,100.0,2014
+122,122,Beloved,0.59,R,16 Oct 1998,172 min,"Drama, History, Horror",/Beloved.html,1.0,0.0,8.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,34617.0,11.0,172.0,15.64,1998
+123,123,Big,0.73,PG,03 Jun 1988,104 min,"Comedy, Drama, Family, Fantasy, Romance",/Big.html,1.0,1.0,3.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,8608.0,8.0,104.0,13.0,1988
+124,124,Big Eyes,0.7,PG-13,25 Dec 2014,106 min,"Biography, Crime, Drama, Romance",/Big-Eyes.html,4.0,1.0,1.0,2.0,0.0,2.0,45.0,0.0,0.0,0.0,0.0,23266.0,55.0,106.0,1.93,2014
+125,125,Big Fish,0.8,PG-13,09 Jan 2004,125 min,"Adventure, Drama, Fantasy, Romance",/Big-Fish.html,4.0,0.0,3.0,1.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,26804.0,11.0,125.0,11.36,2004
+126,126,Birdman,0.69,TV-G,09 Sep 1967,30 min,"Animation, Action, Adventure",/Birdman.html,30.0,49.0,0.0,2.0,6.0,11.0,4.0,0.0,0.0,1.0,0.0,23295.0,103.0,30.0,0.29,1967
+127,127,"The Birds, the Bees and the Italians",0.77,float(0),10 Feb 1966,115 min,Comedy,float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,115.0,115.0,1966
+128,128,Birthday Girl,0.61,R,01 Feb 2002,93 min,"Comedy, Crime, Thriller",/Birthday-Girl.html,1.0,7.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,17887.0,10.0,93.0,9.3,2002
+129,129,Black Rain,0.66,R,22 Sep 1989,125 min,"Action, Crime, Thriller",/Black-Rain.html,9.0,1.0,1.0,2.0,0.0,8.0,0.0,1.0,0.0,4.0,0.0,22116.0,26.0,125.0,4.81,1989
+130,130,Black Snake Moan,0.7,R,02 Mar 2007,116 min,"Drama, Music",/Black-Snake-Moan.html,44.0,16.0,2.0,4.0,0.0,10.0,3.0,2.0,1.0,0.0,0.0,25238.0,82.0,116.0,1.41,2007
+131,131,Black Swan,0.8,R,17 Dec 2010,108 min,"Drama, Thriller",/Black-Swan.html,1.0,5.0,1.0,0.0,0.0,2.0,1.0,1.0,1.0,0.0,0.0,18832.0,12.0,108.0,9.0,2010
+132,132,Blade,0.71,R,21 Aug 1998,120 min,"Action, Horror, Sci-Fi",/Blade.html,4.0,5.0,0.0,0.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,25143.0,14.0,120.0,8.57,1998
+133,133,Blade II,0.67,R,22 Mar 2002,117 min,"Action, Horror, Sci-Fi, Thriller",/Blade-II.html,14.0,15.0,1.0,4.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0,25350.0,39.0,117.0,3.0,2002
+134,134,Blade Runner,0.82,R,25 Jun 1982,117 min,"Sci-Fi, Thriller",/Blade-Runner.html,4.0,5.0,1.0,0.0,1.0,3.0,0.0,0.0,0.0,2.0,0.0,24551.0,16.0,117.0,7.31,1982
+135,135,Blood and Wine,0.6,R,21 Feb 1997,101 min,"Crime, Drama, Thriller",/Blood-and-Wine.html,6.0,6.0,2.0,0.0,1.0,5.0,1.0,0.0,0.0,1.0,0.0,23025.0,22.0,101.0,4.59,1997
+136,136,Blow,0.76,R,06 Apr 2001,124 min,"Biography, Crime, Drama",/Blow.html,20.0,27.0,2.0,2.0,0.0,6.0,1.0,3.0,0.0,0.0,0.0,23498.0,61.0,124.0,2.03,2001
+137,137,Blue Valentine,0.74,R,28 Jan 2011,112 min,"Drama, Romance",/Blue-Valentine.html,11.0,6.0,0.0,1.0,1.0,5.0,0.0,0.0,0.0,0.0,0.0,22582.0,24.0,112.0,4.67,2011
+138,138,Blue Velvet,0.78,R,23 Oct 1986,120 min,"Drama, Mystery, Thriller",/Blue-Velvet.html,12.0,20.0,3.0,3.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,27359.0,41.0,120.0,2.93,1986
+139,139,"Bodies, Rest & Motion",0.56,R,09 Apr 1993,95 min,Drama,"/Bodies,-Rest-&-Motion.html",19.0,6.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,16165.0,28.0,95.0,3.39,1993
+140,140,Body Heat,0.74,R,28 Aug 1981,113 min,"Crime, Drama, Romance, Thriller",/Body-Heat.html,6.0,3.0,4.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,30886.0,16.0,113.0,7.06,1981
+141,141,Body of Evidence,0.44,R,15 Jan 1993,99 min,"Drama, Thriller",/Body-of-Evidence.html,1.0,3.0,0.0,3.0,0.0,2.0,0.0,1.0,0.0,3.0,0.0,21615.0,13.0,99.0,7.62,1993
+142,142,Bodyguard,0.82,float(0),26 Aug 2018,60 min,"Crime, Drama, Thriller",/Bodyguard.html,4.0,13.0,1.0,6.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,35372.0,27.0,60.0,2.22,2018
+143,143,Bones,0.79,TV-14,13 Sep 2005,40 min,"Comedy, Crime, Drama, Mystery, Romance",/Bones.html,26.0,11.0,16.0,6.0,0.0,8.0,1.0,0.0,0.0,0.0,0.0,29132.0,68.0,40.0,0.59,2005
+144,144,The Bonfire of the Vanities,0.55,R,21 Dec 1990,125 min,"Comedy, Drama, Romance",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,125.0,125.0,1990
+145,145,Bonnie and Clyde,0.79,R,01 Sep 1967,111 min,"Action, Biography, Crime, Drama",/Bonnie-and-Clyde.html,0.0,1.0,18.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,30502.0,23.0,111.0,4.83,1967
+146,146,Boogie Nights,0.79,R,31 Oct 1997,155 min,Drama,/Boogie-Nights.html,27.0,69.0,2.0,4.0,3.0,17.0,15.0,8.0,27.0,1.0,0.0,29904.0,173.0,155.0,0.9,1997
+147,147,Bottle Rocket,0.7,R,21 Feb 1996,91 min,"Comedy, Crime, Drama",/Bottle-Rocket.html,21.0,21.0,2.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,20796.0,48.0,91.0,1.9,1996
+148,148,Bound,0.74,R,04 Oct 1996,109 min,"Crime, Romance, Thriller",/Bound.html,24.0,44.0,0.0,6.0,2.0,5.0,1.0,0.0,0.0,0.0,0.0,19404.0,82.0,109.0,1.33,1996
+149,149,The Bourne Ultimatum: The Evolution of Nicky,0.78,float(0),11 Dec 2007,10 min,"Short, Action",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,10.0,10.0,2007
+150,150,"Fractured Fairy Tales: The Phox, the Box, & the Lox",0.69,G,27 Aug 1999,6 min,"Family, Animation, Comedy",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,6.0,6.0,1999
+151,151,Boyhood,0.79,R,15 Aug 2014,165 min,Drama,/Boyhood.html,18.0,15.0,2.0,7.0,3.0,8.0,1.0,2.0,1.0,0.0,0.0,31186.0,57.0,165.0,2.89,2014
+152,152,Braveheart,0.84,R,24 May 1995,178 min,"Biography, Drama, History, War",/Braveheart.html,0.0,0.0,0.0,1.0,0.0,4.0,0.0,0.0,0.0,1.0,0.0,27714.0,6.0,178.0,29.67,1995
+153,153,Brazil,0.8,R,18 Dec 1985,132 min,"Drama, Sci-Fi",/Brazil.html,7.0,0.0,4.0,1.0,0.0,1.0,0.0,0.0,0.0,4.0,0.0,34631.0,17.0,132.0,7.76,1985
+154,154,Break,0.4,NOT RATED,01 Jun 2008,83 min,"Action, Crime, Drama",/Break.html,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,26818.0,4.0,83.0,20.75,2008
+155,155,Breakdown,0.69,R,02 May 1997,93 min,"Action, Crime, Drama, Mystery, Thriller",/Breakdown.html,9.0,12.0,3.0,1.0,4.0,3.0,0.0,0.0,0.0,1.0,0.0,23420.0,33.0,93.0,2.82,1997
+156,156,Breaking Away,0.77,PG,20 Jul 1979,101 min,"Comedy, Drama, Romance, Sport",/Breaking-Away.html,3.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,23702.0,14.0,101.0,7.21,1979
+157,157,Brick,0.74,R,14 Apr 2006,110 min,"Action, Crime, Drama, Mystery, Thriller",/Brick.html,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22231.0,2.0,110.0,55.0,2006
+158,158,Bridesmaids,0.68,R,13 May 2011,125 min,"Comedy, Romance",/Bridesmaids.html,19.0,2.0,1.0,3.0,1.0,6.0,1.0,0.0,0.0,0.0,0.0,25823.0,33.0,125.0,3.79,2011
+159,159,Bringing Out the Dead,0.68,R,22 Oct 1999,121 min,"Drama, Thriller",/Bringing-Out-the-Dead.html,10.0,3.0,1.0,1.0,0.0,3.0,0.0,1.0,0.0,2.0,0.0,19232.0,21.0,121.0,5.76,1999
+160,160,Broadcast News,0.72,R,25 Dec 1987,133 min,"Comedy, Drama, Romance",/Broadcast-News.html,7.0,3.0,6.0,0.0,1.0,4.0,1.0,0.0,0.0,1.0,0.0,29197.0,23.0,133.0,5.78,1987
+161,161,Broken Arrow,0.6,R,09 Feb 1996,108 min,"Action, Adventure, Thriller",/Broken-Arrow.html,6.0,1.0,0.0,1.0,2.0,2.0,1.0,2.0,0.0,1.0,0.0,19085.0,16.0,108.0,6.75,1996
+162,162,Broken Embraces,0.72,R,15 Jan 2010,127 min,"Drama, Romance, Thriller",/Broken-Embraces.html,2.0,6.0,2.0,3.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,40037.0,17.0,127.0,7.47,2010
+163,163,Bruce Almighty,0.67,PG-13,23 May 2003,101 min,"Comedy, Drama, Fantasy",/Bruce-Almighty.html,1.0,0.0,5.0,0.0,3.0,7.0,0.0,0.0,0.0,0.0,0.0,23221.0,16.0,101.0,6.31,2003
+164,164,Buffy the Vampire Slayer,0.82,TV-14,10 Mar 1997,44 min,"Action, Drama, Fantasy, Romance",/Buffy-the-Vampire-Slayer.html,4.0,1.0,1.0,4.0,0.0,1.0,2.0,2.0,0.0,0.0,0.0,23643.0,15.0,44.0,2.93,1997
+165,165,Bull Durham,0.71,R,15 Jun 1988,108 min,"Comedy, Romance, Sport",/Bull-Durham.html,22.0,14.0,29.0,4.0,1.0,16.0,3.0,4.0,2.0,0.0,0.0,24271.0,95.0,108.0,1.14,1988
+166,166,Buried,0.7,R,15 Oct 2010,95 min,"Drama, Mystery, Thriller",/Buried.html,7.0,3.0,2.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,18586.0,15.0,95.0,6.33,2010
+167,167,Burlesque,0.64,PG-13,24 Nov 2010,119 min,"Drama, Music, Musical, Romance",/Burlesque.html,17.0,0.0,21.0,7.0,2.0,19.0,0.0,0.0,0.0,0.0,0.0,27723.0,66.0,119.0,1.8,2010
+168,168,Burn After Reading,0.7,R,12 Sep 2008,96 min,"Comedy, Crime, Drama, Thriller",/Burn-After-Reading.html,20.0,27.0,1.0,4.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,21363.0,62.0,96.0,1.55,2008
+169,169,Burning Annie,0.56,float(0),08 Mar 2003,95 min,"Comedy, Drama, Romance",/Burning-Annie.html,28.0,4.0,2.0,1.0,1.0,4.0,2.0,1.0,0.0,0.0,0.0,21433.0,43.0,95.0,2.21,2003
+170,170,Butterfly Effect: The Creative Process,0.62,float(0),06 Jul 2004,float(0),"Documentary, Short",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,1.0,1.0,2004
+171,171,The Cable Guy,0.61,PG-13,14 Jun 1996,96 min,"Comedy, Drama, Thriller",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,96.0,96.0,1996
+172,172,Candle to Water,0.46,float(0),01 Nov 2012,110 min,Drama,/Candle-to-Water.html,14.0,39.0,2.0,12.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,19749.0,70.0,110.0,1.57,2012
+173,173,Capote,0.74,R,03 Feb 2006,114 min,"Biography, Crime, Drama, History",/Capote.html,0.0,0.0,0.0,0.0,0.0,0.0,37.0,0.0,0.0,0.0,0.0,21051.0,37.0,114.0,3.08,2006
+174,174,Carrie,0.74,R,16 Nov 1976,98 min,Horror,/Carrie.html,11.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,23006.0,16.0,98.0,6.12,1976
+175,175,Cars 2,0.62,G,24 Jun 2011,106 min,"Animation, Adventure, Comedy, Family, Sport",/Cars-2.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25013.0,0.0,106.0,inf,2011
+176,176,Case 39,0.62,R,01 Oct 2010,109 min,"Horror, Mystery, Thriller",/Case-39.html,2.0,2.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,24553.0,6.0,109.0,18.17,2010
+177,177,Casino,0.82,R,22 Nov 1995,178 min,"Crime, Drama",/Casino.html,37.0,111.0,6.0,8.0,3.0,14.0,1.0,0.0,0.0,2.0,0.0,53918.0,182.0,178.0,0.98,1995
+178,178,Cast Away,0.78,PG-13,22 Dec 2000,143 min,"Adventure, Drama, Romance",/Cast-Away.html,14.0,5.0,24.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,0.0,27423.0,48.0,143.0,2.98,2000
+179,179,Catch Me If You Can,0.81,PG-13,25 Dec 2002,141 min,"Biography, Crime, Drama",/Catch-Me-If-You-Can.html,9.0,4.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,29088.0,19.0,141.0,7.42,2002
+180,180,Cecil B. DeMented,0.62,R,01 Sep 2000,87 min,"Comedy, Crime, Thriller",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,87.0,87.0,2000
+181,181,Cedar Rapids,0.63,R,18 Mar 2011,87 min,Comedy,/Cedar-Rapids.html,32.0,24.0,1.0,0.0,3.0,8.0,3.0,3.0,0.0,0.0,0.0,25949.0,74.0,87.0,1.18,2011
+182,182,Celeste,0.69,float(0),11 Mar 1991,60 min,"Drama, Mystery, Romance",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,60.0,60.0,1991
+183,183,WWE: Hell in a Cell - The Greatest Hell in a Cell Matches of All Time,0.8,float(0),14 Oct 2008,float(0),"Action, Sport",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,1.0,1.0,2008
+184,184,Cellular,0.65,PG-13,10 Sep 2004,94 min,"Action, Crime, Thriller",/Cellular.html,28.0,2.0,13.0,7.0,9.0,17.0,0.0,1.0,0.0,4.0,0.0,26456.0,81.0,94.0,1.16,2004
+185,185,Changeling,0.77,R,31 Oct 2008,141 min,"Biography, Crime, Drama, History, Mystery, Thriller",/Changeling.html,3.0,3.0,3.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,0.0,34053.0,13.0,141.0,10.85,2008
+186,186,Chaos,0.65,R,15 Dec 2005,106 min,"Action, Crime, Drama, Thriller",/Chaos.html,21.0,6.0,1.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0,0.0,21409.0,35.0,106.0,3.03,2005
+187,187,Charade,0.8,NOT RATED,05 Dec 1963,113 min,"Comedy, Mystery, Romance, Thriller",/Charade.html,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,31141.0,1.0,113.0,113.0,1963
+188,188,Charlie's Angels,0.55,PG-13,03 Nov 2000,98 min,"Action, Adventure, Comedy, Crime, Thriller",/Charlie's-Angels.html,8.0,2.0,7.0,5.0,3.0,6.0,0.0,0.0,0.0,1.0,0.0,23927.0,32.0,98.0,3.06,2000
+189,189,Chasing Amy,0.73,R,18 Apr 1997,113 min,"Comedy, Drama, Romance",/Chasing-Amy.html,51.0,43.0,2.0,22.0,5.0,11.0,13.0,3.0,6.0,1.0,0.0,24636.0,157.0,113.0,0.72,1997
+190,190,Chasing Sleep,0.64,R,16 May 2001,104 min,"Horror, Mystery, Thriller",/Chasing-Sleep.html,4.0,5.0,7.0,6.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,19546.0,25.0,104.0,4.16,2001
+191,191,Cherry Falls,0.51,R,25 Aug 2000,92 min,"Horror, Mystery, Thriller",/Cherry-Falls.html,8.0,17.0,2.0,0.0,0.0,2.0,2.0,0.0,1.0,2.0,0.0,20299.0,34.0,92.0,2.71,2000
+192,192,Chinatown,0.82,R,20 Jun 1974,130 min,"Drama, Mystery, Thriller",/Chinatown.html,2.0,1.0,2.0,8.0,0.0,3.0,0.0,0.0,1.0,2.0,0.0,26058.0,19.0,130.0,6.84,1974
+193,193,Christ Complex,0.65,NOT RATED,06 Oct 2012,76 min,"Comedy, Fantasy",/Christ-Complex.html,1.0,11.0,0.0,0.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,12871.0,17.0,76.0,4.47,2012
+194,194,Chronicle,0.71,PG-13,03 Feb 2012,84 min,"Drama, Sci-Fi, Thriller",/Chronicle.html,43.0,34.0,2.0,4.0,9.0,4.0,1.0,0.0,0.0,0.0,0.0,19549.0,97.0,84.0,0.87,2012
+196,196,Cinema Paradiso,0.85,R,23 Feb 1990,155 min,Drama,/Cinema-Paradiso.html,1.0,6.0,6.0,0.0,0.0,6.0,0.0,0.0,0.0,4.0,0.0,33848.0,23.0,155.0,6.74,1990
+197,197,Citizen Kane,0.84,PG,05 Sep 1941,119 min,"Drama, Mystery",/Citizen-Kane.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,35392.0,0.0,119.0,inf,1941
+198,198,City of Joy,0.64,PG-13,17 Apr 1992,132 min,Drama,/City-of-Joy.html,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,30804.0,4.0,132.0,33.0,1992
+199,199,Clash of the Titans,0.58,PG-13,02 Apr 2010,106 min,"Action, Adventure, Fantasy",/Clash-of-the-Titans.html,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,24014.0,3.0,106.0,35.33,2010
+200,200,Clerks,0.78,R,09 Nov 1994,92 min,Comedy,/Clerks.html,36.0,34.0,7.0,6.0,7.0,10.0,10.0,4.0,10.0,0.0,0.0,24770.0,124.0,92.0,0.74,1994
+201,201,Cliffhanger,0.64,R,28 May 1993,113 min,"Action, Adventure, Thriller",/Cliffhanger.html,5.0,12.0,2.0,3.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,31844.0,25.0,113.0,4.52,1993
+202,202,Clueless,0.68,PG-13,19 Jul 1995,97 min,"Comedy, Romance",/Clueless.html,10.0,0.0,1.0,0.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,13439.0,15.0,97.0,6.47,1995
+203,203,Cobb,0.65,R,02 Dec 1994,128 min,"Biography, Drama, Sport",/Cobb.html,15.0,22.0,37.0,8.0,1.0,15.0,2.0,0.0,0.0,8.0,0.0,28165.0,108.0,128.0,1.19,1994
+204,204,Coco,0.84,PG,22 Nov 2017,105 min,"Animation, Adventure, Comedy, Family, Fantasy, Music, Mystery",/Coco.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,23336.0,0.0,105.0,inf,2017
+205,205,Code of Silence,0.6,R,03 May 1985,101 min,"Action, Crime, Drama, Thriller",/Code-of-Silence.html,14.0,9.0,2.0,0.0,4.0,9.0,0.0,0.0,0.0,1.0,0.0,18275.0,39.0,101.0,2.59,1985
+206,206,Cold Mountain,0.72,R,25 Dec 2003,154 min,"Adventure, Drama, History, Romance, War",/Cold-Mountain.html,6.0,0.0,8.0,1.0,3.0,3.0,0.0,0.0,0.0,3.0,0.0,30702.0,24.0,154.0,6.42,2003
+207,207,Collateral Damage,0.55,R,08 Feb 2002,108 min,"Action, Drama, Thriller",/Collateral-Damage.html,12.0,3.0,0.0,5.0,3.0,2.0,0.0,0.0,0.0,2.0,0.0,29986.0,27.0,108.0,4.0,2002
+208,208,Colombiana,0.64,PG-13,26 Aug 2011,108 min,"Action, Drama, Thriller",/Colombiana.html,6.0,11.0,0.0,8.0,1.0,5.0,0.0,0.0,0.0,2.0,0.0,26024.0,33.0,108.0,3.27,2011
+209,209,Color of Night,0.51,R,19 Aug 1994,121 min,"Mystery, Romance, Thriller",/Color-of-Night.html,19.0,21.0,3.0,6.0,5.0,2.0,3.0,0.0,2.0,3.0,0.0,28988.0,64.0,121.0,1.89,1994
+210,210,Commando,0.67,R,04 Oct 1985,90 min,"Action, Adventure, Thriller",/Commando.html,6.0,7.0,0.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,17305.0,18.0,90.0,5.0,1985
+211,211,Conan the Barbarian,0.69,R,14 May 1982,129 min,"Adventure, Fantasy",/Conan-the-Barbarian.html,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,23744.0,3.0,129.0,43.0,1982
+212,212,Confessions of a Dangerous Mind,0.71,R,24 Jan 2003,113 min,"Biography, Comedy, Crime, Drama, Romance, Thriller",/Confessions-of-a-Dangerous-Mind.html,9.0,35.0,4.0,2.0,7.0,7.0,15.0,3.0,1.0,0.0,0.0,24953.0,83.0,113.0,1.36,2003
+213,213,Confidence,0.67,R,25 Apr 2003,97 min,"Crime, Thriller",/Confidence.html,26.0,12.0,0.0,2.0,7.0,8.0,4.0,1.0,0.0,1.0,0.0,25206.0,61.0,97.0,1.59,2003
+214,214,Constantine,0.7,R,18 Feb 2005,121 min,"Action, Fantasy, Horror, Mystery",/Constantine.html,17.0,0.0,5.0,2.0,2.0,5.0,0.0,0.0,0.0,2.0,0.0,24834.0,33.0,121.0,3.67,2005
+215,215,Copycat,0.66,R,27 Oct 1995,123 min,"Drama, Mystery, Thriller",/Copycat.html,6.0,10.0,9.0,11.0,2.0,6.0,0.0,1.0,0.0,6.0,0.0,31558.0,51.0,123.0,2.41,1995
+216,216,Coraline,0.77,PG,06 Feb 2009,100 min,"Animation, Drama, Fantasy, Thriller",/Coraline.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24952.0,0.0,100.0,inf,2009
+217,217,Coriolanus,0.61,R,20 Jan 2012,123 min,"Drama, Thriller, War",/Coriolanus.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21087.0,0.0,123.0,inf,2012
+218,218,Courage Under Fire,0.66,R,12 Jul 1996,116 min,"Action, Drama, Mystery, Thriller, War",/Courage-Under-Fire.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0,0.0,116.0,inf,1996
+219,219,Cowboys,0.72,float(0),10 Oct 2013,107 min,"Comedy, Drama",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,107.0,107.0,2013
+220,220,Cradle 2 the Grave,0.58,R,28 Feb 2003,101 min,"Action, Crime, Drama, Thriller",/Cradle-2-the-Grave.html,20.0,10.0,0.0,5.0,1.0,7.0,0.0,0.0,0.0,0.0,0.0,18953.0,43.0,101.0,2.35,2003
+221,221,Crank,0.7,R,01 Sep 2006,88 min,"Action, Crime, Thriller",/Crank.html,40.0,8.0,4.0,15.0,8.0,16.0,1.0,0.0,0.0,2.0,0.0,22657.0,94.0,88.0,0.94,2006
+222,222,Crash,0.78,R,06 May 2005,112 min,"Crime, Drama, Thriller",/Crash.html,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,17357.0,4.0,112.0,28.0,2005
+223,223,"Crazy, Stupid, Love.",0.74,PG-13,29 Jul 2011,118 min,"Comedy, Drama, Romance",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,118.0,118.0,2011
+225,225,Creation,0.67,PG-13,25 Sep 2009,108 min,"Biography, Drama, Romance",/Creation.html,3.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,19578.0,7.0,108.0,15.43,2009
+226,226,Crime Spree,0.66,R,16 Apr 2003,105 min,"Action, Comedy, Crime",/Crime-Spree.html,11.0,10.0,2.0,1.0,1.0,8.0,2.0,0.0,0.0,1.0,0.0,25250.0,36.0,105.0,2.92,2003
+227,227,"Crouching Tiger, Hidden Dragon",0.79,PG-13,12 Jan 2001,120 min,"Action, Adventure, Fantasy, Romance","/Crouching-Tiger,-Hidden-Dragon.html",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11938.0,0.0,120.0,inf,2001
+228,228,Croupier,0.72,NOT RATED,28 Jul 2000,94 min,"Crime, Drama",/Croupier.html,10.0,9.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,19421.0,22.0,94.0,4.27,2000
+229,229,The Very Best of Sheryl Crow: The Videos,0.71,float(0),30 Mar 2004,55 min,Music,float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,55.0,55.0,2004
+230,230,Cruel Intentions,0.68,R,05 Mar 1999,97 min,"Drama, Romance",/Cruel-Intentions.html,16.0,12.0,0.0,5.0,1.0,9.0,1.0,1.0,1.0,1.0,1.0,18476.0,48.0,97.0,2.02,1999
+231,231,The Crying Game,0.73,R,19 Feb 1993,112 min,"Crime, Drama, Romance, Thriller",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,112.0,112.0,1993
+232,232,Cube,0.73,R,11 Jul 1998,90 min,"Drama, Mystery, Sci-Fi, Thriller",/Cube.html,1.0,7.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,8866.0,10.0,90.0,9.0,1998
+233,233,Custody,0.76,float(0),07 Feb 2018,93 min,Drama,/Custody.html,2.0,0.0,0.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,15628.0,6.0,93.0,15.5,2018
+234,234,Dallas Buyers Club,0.8,R,22 Nov 2013,117 min,"Biography, Drama",/Dallas-Buyers-Club.html,31.0,27.0,5.0,3.0,1.0,10.0,1.0,4.0,2.0,0.0,0.0,22128.0,84.0,117.0,1.39,2013
+235,235,Dances with Wolves,0.8,PG-13,21 Nov 1990,181 min,"Adventure, Drama, Western",/Dances-with-Wolves.html,0.0,0.0,4.0,1.0,0.0,3.0,0.0,0.0,0.0,2.0,0.0,37121.0,10.0,181.0,18.1,1990
+236,236,Dark City,0.77,R,27 Feb 1998,100 min,"Mystery, Sci-Fi, Thriller",/Dark-City.html,4.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,27401.0,11.0,100.0,9.09,1998
+237,237,Dark Star,0.64,G,09 Feb 1979,83 min,"Comedy, Sci-Fi",/Dark-Star.html,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6914.0,4.0,83.0,20.75,1979
+238,238,Darkman,0.64,R,24 Aug 1990,96 min,"Action, Crime, Sci-Fi, Thriller",/Darkman.html,2.0,3.0,1.0,4.0,1.0,4.0,0.0,0.0,0.0,1.0,0.0,27215.0,16.0,96.0,6.0,1990
+239,239,Date Night,0.63,PG-13,09 Apr 2010,88 min,"Comedy, Crime, Romance, Thriller",/Date-Night.html,9.0,1.0,1.0,3.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,21886.0,16.0,88.0,5.5,2010
+240,240,Dawn of the Dead,0.73,R,19 Mar 2004,101 min,"Action, Horror, Thriller",/Dawn-of-the-Dead.html,13.0,0.0,9.0,2.0,0.0,7.0,1.0,0.0,0.0,3.0,0.0,41562.0,35.0,101.0,2.89,2004
+241,241,Day of the Dead,0.72,NOT RATED,19 Jul 1985,96 min,"Horror, Thriller",/Day-of-the-Dead.html,14.0,4.0,7.0,0.0,0.0,13.0,0.0,0.0,0.0,2.0,0.0,28403.0,40.0,96.0,2.4,1985
+242,242,Days of Heaven,0.79,PG,06 Oct 1978,94 min,"Drama, Romance",/Days-of-Heaven.html,5.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,2.0,0.0,30120.0,10.0,94.0,9.4,1978
+243,243,Dead Poets Society,0.81,PG,09 Jun 1989,128 min,"Comedy, Drama",/Dead-Poets-Society.html,2.0,0.0,4.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,20860.0,8.0,128.0,16.0,1989
+244,244,Deadpool,0.8,R,12 Feb 2016,108 min,"Action, Adventure, Comedy, Sci-Fi",/Deadpool.html,23.0,21.0,0.0,2.0,3.0,5.0,1.0,0.0,1.0,0.0,2.0,27974.0,58.0,108.0,1.86,2016
+245,245,Dear White People,0.61,R,04 Dec 2014,108 min,"Comedy, Drama, Romance",/Dear-White-People.html,15.0,15.0,7.0,7.0,0.0,8.0,3.0,0.0,1.0,0.0,0.0,22030.0,56.0,108.0,1.93,2014
+246,246,Death at a Funeral,0.74,R,07 Sep 2007,90 min,Comedy,/Death-at-a-Funeral.html,20.0,2.0,18.0,0.0,0.0,5.0,0.0,0.0,0.0,4.0,0.0,20988.0,49.0,90.0,1.84,2007
+247,247,Death to Smoochy,0.64,R,29 Mar 2002,109 min,"Comedy, Crime, Drama, Thriller",/Death-to-Smoochy.html,11.0,3.0,3.0,5.0,6.0,9.0,1.0,0.0,5.0,1.0,0.0,24751.0,44.0,109.0,2.48,2002
+248,248,Deception,0.61,R,25 Apr 2008,107 min,"Crime, Drama, Mystery, Thriller",/Deception.html,3.0,3.0,3.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,28179.0,11.0,107.0,9.73,2008
+249,249,Deep Cover,0.69,R,15 Apr 1992,107 min,"Action, Crime, Thriller",/Deep-Cover.html,24.0,14.0,3.0,6.0,5.0,4.0,3.0,1.0,0.0,2.0,0.0,21744.0,62.0,107.0,1.73,1992
+250,250,Deep Rising,0.6,R,30 Jan 1998,106 min,"Action, Adventure, Horror, Sci-Fi",/Deep-Rising.html,25.0,0.0,6.0,3.0,2.0,13.0,1.0,0.0,0.0,2.0,0.0,23618.0,52.0,106.0,2.04,1998
+251,251,Defiance,0.72,R,16 Jan 2009,137 min,"Action, Drama, History, Thriller, War",/Defiance.html,16.0,2.0,1.0,2.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,24712.0,25.0,137.0,5.48,2009
+252,252,Despicable Me 2,0.74,PG,03 Jul 2013,98 min,"Animation, Adventure, Comedy, Family, Fantasy, Sci-Fi",/Despicable-Me-2.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21036.0,0.0,98.0,inf,2013
+253,253,Detroit Rock City,0.69,R,13 Aug 1999,95 min,"Comedy, Music",/Detroit-Rock-City.html,29.0,13.0,3.0,4.0,2.0,26.0,7.0,0.0,0.0,0.0,0.0,27439.0,84.0,95.0,1.13,1999
+254,254,Devil in a Blue Dress,0.67,R,29 Sep 1995,102 min,"Crime, Drama, Mystery, Thriller",/Devil-in-a-Blue-Dress.html,10.0,0.0,21.0,5.0,0.0,8.0,0.0,0.0,2.0,2.0,0.0,25280.0,48.0,102.0,2.12,1995
+255,255,The Devil's Advocate,0.75,R,17 Oct 1997,144 min,"Drama, Mystery, Thriller",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,144.0,144.0,1997
+256,256,Die Hard,0.82,R,20 Jul 1988,132 min,"Action, Thriller",/Die-Hard.html,16.0,9.0,6.0,2.0,4.0,9.0,2.0,0.0,1.0,2.0,0.0,27201.0,51.0,132.0,2.59,1988
+257,257,Die Hard 2,0.71,R,03 Jul 1990,124 min,"Action, Thriller",/Die-Hard-2.html,19.0,16.0,8.0,4.0,9.0,14.0,5.0,0.0,1.0,2.0,0.0,25615.0,78.0,124.0,1.59,1990
+258,258,Diner,0.72,R,21 May 1982,110 min,"Comedy, Drama",/Diner.html,8.0,2.0,1.0,4.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,20316.0,20.0,110.0,5.5,1982
+259,259,Disturbia,0.69,PG-13,13 Apr 2007,105 min,"Crime, Drama, Mystery, Thriller",/Disturbia.html,29.0,2.0,3.0,2.0,2.0,8.0,1.0,0.0,0.0,2.0,0.0,26773.0,49.0,105.0,2.14,2007
+260,260,Django Unchained,0.84,R,25 Dec 2012,165 min,"Drama, Western",/Django-Unchained.html,13.0,8.0,19.0,7.0,0.0,52.0,0.0,0.0,1.0,4.0,0.0,40225.0,104.0,165.0,1.59,2012
+261,261,Do the Right Thing,0.79,R,21 Jul 1989,120 min,"Comedy, Drama",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,120.0,120.0,1989
+262,262,Dog Day Afternoon,0.8,R,25 Dec 1975,125 min,"Biography, Crime, Drama, Thriller",/Dog-Day-Afternoon.html,22.0,22.0,8.0,2.0,3.0,1.0,0.0,0.0,0.0,2.0,0.0,28319.0,60.0,125.0,2.08,1975
+263,263,Dogma,0.73,R,12 Nov 1999,130 min,"Adventure, Comedy, Drama, Fantasy",/Dogma.html,53.0,36.0,4.0,12.0,4.0,15.0,3.0,1.0,0.0,4.0,0.0,32356.0,132.0,130.0,0.98,1999
+264,264,Donnie Brasco,0.78,R,28 Feb 1997,127 min,"Biography, Crime, Drama",/Donnie-Brasco.html,7.0,38.0,0.0,2.0,1.0,8.0,0.0,0.0,1.0,1.0,0.0,25223.0,58.0,127.0,2.19,1997
+266,266,Double Indemnity,0.83,PASSED,06 Jul 1944,107 min,"Crime, Drama, Film-Noir, Mystery, Thriller",/Double-Indemnity.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32380.0,0.0,107.0,inf,1944
+267,267,Drag Me to Hell,0.66,PG-13,29 May 2009,99 min,"Horror, Thriller",/Drag-Me-to-Hell.html,0.0,2.0,1.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,18223.0,7.0,99.0,14.14,2009
+268,268,Dragonslayer,0.67,PG,26 Jun 1981,109 min,"Action, Adventure, Fantasy",/Dragonslayer.html,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,20076.0,4.0,109.0,27.25,1981
+269,269,Drive,0.78,R,16 Sep 2011,100 min,"Crime, Drama",/Drive.html,2.0,13.0,0.0,0.0,4.0,0.0,0.0,1.0,0.0,0.0,0.0,22740.0,20.0,100.0,5.0,2011
+270,270,Drive Angry,0.54,R,25 Feb 2011,104 min,"Action, Fantasy, Thriller",/Drive-Angry.html,14.0,33.0,4.0,8.0,1.0,7.0,1.0,0.0,1.0,1.0,0.0,19085.0,70.0,104.0,1.49,2011
+271,271,Drop Dead Gorgeous,0.66,PG-13,23 Jul 1999,97 min,"Comedy, Romance, Thriller",/Drop-Dead-Gorgeous.html,7.0,2.0,10.0,8.0,0.0,21.0,0.0,0.0,0.0,1.0,0.0,19254.0,49.0,97.0,1.98,1999
+272,272,Duck Soup,0.8,NOT RATED,17 Nov 1933,68 min,"Comedy, Musical, War",/Duck-Soup.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19711.0,0.0,68.0,inf,1933
+273,273,Dumb and Dumber,0.73,PG-13,16 Dec 1994,107 min,Comedy,/Dumb-and-Dumber.html,10.0,3.0,7.0,4.0,2.0,3.0,0.0,0.0,0.0,2.0,0.0,24013.0,31.0,107.0,3.45,1994
+274,274,Dune,0.66,PG-13,14 Dec 1984,137 min,"Action, Adventure, Sci-Fi",/Dune.html,0.0,0.0,4.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,24070.0,5.0,137.0,27.4,1984
+275,275,E.T. The Extra-Terrestrial,0.79,PG,11 Jun 1982,115 min,"Family, Sci-Fi",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,115.0,115.0,1982
+276,276,Eagle Eye,0.66,PG-13,26 Sep 2008,118 min,"Action, Mystery, Thriller",/Eagle-Eye.html,37.0,14.0,0.0,0.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,31425.0,61.0,118.0,1.93,2008
+277,277,Eastern Promises,0.77,R,21 Sep 2007,100 min,"Crime, Drama, Thriller",/Eastern-Promises.html,1.0,12.0,1.0,6.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,22515.0,21.0,100.0,4.76,2007
+278,278,Easy A,0.71,PG-13,17 Sep 2010,92 min,"Comedy, Drama, Romance",/Easy-A.html,5.0,18.0,1.0,6.0,1.0,9.0,0.0,0.0,0.0,0.0,0.0,21455.0,40.0,92.0,2.3,2010
+279,279,Ed Wood,0.79,R,07 Oct 1994,127 min,"Biography, Comedy, Drama",/Ed-Wood.html,8.0,6.0,3.0,2.0,2.0,3.0,2.0,0.0,0.0,1.0,0.0,29023.0,27.0,127.0,4.7,1994
+280,280,Edward Scissorhands,0.79,PG-13,14 Dec 1990,105 min,"Drama, Fantasy, Romance",/Edward-Scissorhands.html,1.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,8143.0,6.0,105.0,17.5,1990
+281,281,Eight Legged Freaks,0.54,PG-13,17 Jul 2002,99 min,"Action, Comedy, Horror, Sci-Fi, Thriller",/Eight-Legged-Freaks.html,3.0,1.0,4.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,19000.0,10.0,99.0,9.9,2002
+282,282,Election,0.73,R,07 May 1999,103 min,"Comedy, Drama, Romance",/Election.html,1.0,6.0,1.0,3.0,0.0,2.0,17.0,1.0,0.0,0.0,0.0,25131.0,31.0,103.0,3.32,1999
+283,283,Enemy of the State,0.73,R,20 Nov 1998,132 min,"Action, Crime, Mystery, Thriller",/Enemy-of-the-State.html,9.0,17.0,4.0,0.0,3.0,2.0,2.0,0.0,0.0,0.0,1.0,23211.0,38.0,132.0,3.47,1998
+284,284,Enough,0.57,PG-13,24 May 2002,115 min,"Crime, Drama, Thriller",/Enough.html,4.0,2.0,1.0,1.0,2.0,3.0,2.0,0.0,0.0,0.0,0.0,22492.0,15.0,115.0,7.67,2002
+285,285,Entrapment,0.63,PG-13,30 Apr 1999,113 min,"Action, Crime, Romance, Thriller",/Entrapment.html,16.0,5.0,0.0,2.0,1.0,5.0,0.0,0.0,0.0,0.0,0.0,29860.0,29.0,113.0,3.9,1999
+286,286,Equilibrium,0.75,R,06 Dec 2002,107 min,"Action, Drama, Sci-Fi, Thriller",/Equilibrium.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,0.0,107.0,inf,2002
+287,287,Erik the Viking,0.62,PG-13,22 Sep 1989,107 min,"Comedy, Adventure, Fantasy",/Erik-the-Viking.html,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,21921.0,3.0,107.0,35.67,1989
+288,288,Erin Brockovich,0.73,R,17 Mar 2000,131 min,"Biography, Drama",/Erin-Brockovich.html,27.0,16.0,30.0,5.0,4.0,9.0,0.0,0.0,0.0,0.0,0.0,30254.0,91.0,131.0,1.44,2000
+289,289,Escape from L.A.,0.57,R,09 Aug 1996,101 min,"Action, Adventure, Sci-Fi, Thriller",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,101.0,101.0,1996
+290,290,Escape from New York,0.72,R,10 Jul 1981,99 min,"Action, Sci-Fi",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,99.0,99.0,1981
+291,291,Eternal Sunshine of the Spotless Mind,0.83,R,19 Mar 2004,108 min,"Drama, Romance, Sci-Fi",/Eternal-Sunshine-of-the-Spotless-Mind.html,15.0,11.0,4.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,24562.0,33.0,108.0,3.27,2004
+292,292,Even Cowgirls Get the Blues,0.43,R,20 May 1994,95 min,"Comedy, Drama, Romance",/Even-Cowgirls-Get-the-Blues.html,7.0,0.0,1.0,0.0,0.0,2.0,1.0,1.0,0.0,1.0,2.0,19235.0,15.0,95.0,6.33,1994
+293,293,Event Horizon,0.67,R,15 Aug 1997,96 min,"Horror, Sci-Fi, Thriller",/Event-Horizon.html,7.0,6.0,4.0,1.0,0.0,3.0,2.0,0.0,0.0,0.0,0.0,22033.0,23.0,96.0,4.17,1997
+294,294,Evil Dead,0.65,R,05 Apr 2013,91 min,"Fantasy, Horror, Thriller",/Evil-Dead.html,2.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11829.0,5.0,91.0,18.2,2013
+295,295,Ex Machina,0.77,R,24 Apr 2015,108 min,"Drama, Mystery, Sci-Fi, Thriller",/Ex-Machina.html,6.0,12.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,20742.0,21.0,108.0,5.14,2015
+296,296,Excalibur,0.74,PG,10 Apr 1981,140 min,"Adventure, Drama, Fantasy, Romance",/Excalibur.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,26992.0,0.0,140.0,inf,1981
+297,297,eXistenZ,0.68,R,23 Apr 1999,97 min,"Horror, Sci-Fi, Thriller",/eXistenZ.html,1.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,21524.0,6.0,97.0,16.17,1999
+298,298,Extract,0.62,R,04 Sep 2009,92 min,"Comedy, Crime, Romance",/Extract.html,26.0,0.0,6.0,0.0,4.0,14.0,2.0,1.0,1.0,0.0,0.0,20299.0,54.0,92.0,1.7,2009
+299,299,Face Off,0.82,TV-PG,26 Jan 2011,44 min,"Game-Show, Reality-TV",/Face-Off.html,8.0,6.0,6.0,1.0,1.0,3.0,0.0,0.0,1.0,2.0,0.0,23433.0,28.0,44.0,1.57,2011
+300,300,Fair Game,0.68,PG-13,03 Dec 2010,108 min,"Biography, Drama, Thriller",/Fair-Game.html,2.0,9.0,0.0,1.0,2.0,0.0,1.0,1.0,0.0,1.0,0.0,24040.0,17.0,108.0,6.35,2010
+301,301,Fantastic Four,0.57,PG-13,08 Jul 2005,106 min,"Action, Adventure, Fantasy, Sci-Fi",/Fantastic-Four.html,1.0,0.0,5.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,28309.0,7.0,106.0,15.14,2005
+302,302,Fantastic Mr Fox: T4 Movie Special,0.78,float(0),24 Oct 2009,float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,1.0,1.0,2009
+303,303,Fargo,0.81,R,05 Apr 1996,98 min,"Crime, Drama, Thriller",/Fargo.html,4.0,12.0,6.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,17469.0,23.0,98.0,4.26,1996
+304,304,Fast Times at Ridgemont High,0.72,R,13 Aug 1982,90 min,"Comedy, Drama",/Fast-Times-at-Ridgemont-High.html,10.0,7.0,0.0,0.0,2.0,1.0,4.0,2.0,0.0,0.0,0.0,24543.0,26.0,90.0,3.46,1982
+305,305,Fatal Instinct,0.57,PG-13,29 Oct 1993,91 min,"Comedy, Crime, Thriller",/Fatal-Instinct.html,3.0,0.0,7.0,2.0,0.0,1.0,2.0,0.0,0.0,1.0,0.0,28240.0,16.0,91.0,5.69,1993
+306,306,The Fault in Our Stars: The Stars Align,0.79,float(0),16 Sep 2014,float(0),"Documentary, Short",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,1.0,1.0,2014
+307,307,Fear and Loathing in Las Vegas,0.77,R,22 May 1998,118 min,"Adventure, Comedy, Drama",/Fear-and-Loathing-in-Las-Vegas.html,28.0,18.0,9.0,4.0,1.0,3.0,0.0,0.0,0.0,20.0,0.0,23214.0,83.0,118.0,1.42,1998
+308,308,Feast,0.63,R,18 Jan 2007,95 min,"Action, Comedy, Horror, Thriller",/Feast.html,19.0,13.0,6.0,3.0,1.0,9.0,2.0,0.0,0.0,0.0,1.0,17973.0,54.0,95.0,1.76,2007
+309,309,Ferris Bueller's Day Off,0.78,PG-13,11 Jun 1986,103 min,Comedy,/Ferris-Bueller's-Day-Off.html,25.0,0.0,0.0,1.0,11.0,8.0,0.0,0.0,0.0,0.0,0.0,24328.0,45.0,103.0,2.29,1986
+310,310,Field of Dreams,0.75,PG,05 May 1989,107 min,"Drama, Family, Fantasy, Sport",/Field-of-Dreams.html,6.0,4.0,5.0,1.0,2.0,2.0,1.0,0.0,0.0,0.0,0.0,23822.0,21.0,107.0,5.1,1989
+311,311,Fight Club,0.88,R,15 Oct 1999,139 min,Drama,/Fight-Club.html,11.0,18.0,2.0,5.0,2.0,5.0,0.0,1.0,1.0,0.0,0.0,28941.0,45.0,139.0,3.09,1999
+312,312,Street Fighter: The Legend of Chun-Li,0.37,PG-13,27 Feb 2009,96 min,"Action, Crime, Thriller",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,96.0,96.0,2009
+313,313,Final Destination,0.67,R,17 Mar 2000,98 min,"Horror, Thriller",/Final-Destination.html,5.0,13.0,0.0,0.0,2.0,2.0,1.0,0.0,0.0,0.0,0.0,25379.0,23.0,98.0,4.26,2000
+314,314,Final Destination 2,0.62,R,31 Jan 2003,90 min,"Horror, Thriller",/Final-Destination-2.html,16.0,8.0,11.0,2.0,1.0,4.0,2.0,0.0,0.0,1.0,0.0,24024.0,45.0,90.0,2.0,2003
+315,315,Finding Nemo,0.81,G,30 May 2003,100 min,"Animation, Adventure, Comedy, Family",/Finding-Nemo.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13651.0,0.0,100.0,inf,2003
+316,316,Five Easy Pieces,0.75,R,19 Feb 1971,98 min,Drama,/Five-Easy-Pieces.html,12.0,0.0,9.0,3.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,18812.0,27.0,98.0,3.63,1971
+317,317,Flash Gordon,0.65,PG,05 Dec 1980,111 min,"Action, Adventure, Sci-Fi",/Flash-Gordon.html,0.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,19149.0,7.0,111.0,15.86,1980
+318,318,Fletch,0.69,PG,31 May 1985,98 min,"Comedy, Crime, Mystery",/Fletch.html,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,18518.0,5.0,98.0,19.6,1985
+319,319,Flight,0.73,R,02 Nov 2012,138 min,"Drama, Thriller",/Flight.html,22.0,25.0,2.0,4.0,1.0,9.0,1.0,0.0,0.0,1.0,0.0,33143.0,65.0,138.0,2.12,2012
+320,320,Forrest Gump,0.88,PG-13,06 Jul 1994,142 min,"Drama, Romance",/Forrest-Gump.html,8.0,0.0,2.0,6.0,1.0,7.0,14.0,0.0,0.0,0.0,0.0,26109.0,38.0,142.0,3.74,1994
+321,321,Four Feathers,0.73,float(0),24 May 1915,float(0),Drama,/Four-Feathers.html,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,33678.0,7.0,1.0,0.14,1915
+322,322,Four Rooms,0.67,R,25 Dec 1995,98 min,Comedy,/Four-Rooms.html,13.0,17.0,1.0,4.0,2.0,8.0,1.0,2.0,5.0,1.0,0.0,24992.0,54.0,98.0,1.81,1995
+323,323,Foxcatcher,0.7,R,16 Jan 2015,134 min,"Biography, Drama, Sport",/Foxcatcher.html,4.0,2.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,21959.0,8.0,134.0,16.75,2015
+324,324,Fracture,0.72,R,20 Apr 2007,113 min,"Crime, Drama, Mystery, Thriller",/Fracture.html,4.0,0.0,1.0,2.0,2.0,1.0,4.0,0.0,0.0,2.0,0.0,23290.0,16.0,113.0,7.06,2007
+325,325,Frances,0.74,R,03 Feb 1983,140 min,"Biography, Drama, Romance",/Frances.html,3.0,2.0,12.0,5.0,0.0,2.0,36.0,0.0,0.0,3.0,0.0,27693.0,63.0,140.0,2.22,1983
+326,326,Frankenstein,0.79,PASSED,21 Nov 1931,70 min,"Drama, Horror, Sci-Fi",/Frankenstein.html,1.0,0.0,6.0,1.0,0.0,2.0,0.0,0.0,0.0,5.0,0.0,30450.0,15.0,70.0,4.67,1931
+327,327,Frankenweenie,0.7,PG,05 Oct 2012,87 min,"Animation, Comedy, Family, Horror, Sci-Fi",/Frankenweenie.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14676.0,0.0,87.0,inf,2012
+328,328,Freaked,0.63,PG-13,31 Mar 1994,80 min,"Comedy, Sci-Fi",/Freaked.html,14.0,2.0,12.0,0.0,2.0,5.0,1.0,0.0,0.0,1.0,0.0,22742.0,37.0,80.0,2.16,1994
+329,329,Freddy vs. Jason,0.58,R,15 Aug 2003,97 min,"Action, Horror",/Freddy-vs.-Jason.html,6.0,3.0,5.0,33.0,1.0,7.0,0.0,2.0,1.0,3.0,0.0,26085.0,61.0,97.0,1.59,2003
+330,330,Frequency,0.74,PG-13,28 Apr 2000,118 min,"Crime, Drama, Mystery, Sci-Fi, Thriller",/Frequency.html,6.0,8.0,4.0,0.0,3.0,3.0,0.0,0.0,0.0,3.0,0.0,28522.0,27.0,118.0,4.37,2000
+331,331,Friday the 13th,0.65,R,09 May 1980,95 min,"Horror, Mystery, Thriller",/Friday-the-13th.html,4.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,17896.0,8.0,95.0,11.88,1980
+332,332,Fright Night,0.64,R,19 Aug 2011,106 min,"Comedy, Horror",/Fright-Night.html,21.0,12.0,1.0,1.0,0.0,2.0,2.0,1.0,0.0,0.0,1.0,21820.0,41.0,106.0,2.59,2011
+333,333,From Dusk Till Dawn,0.73,R,19 Jan 1996,108 min,"Action, Crime, Horror",/From-Dusk-Till-Dawn.html,40.0,29.0,2.0,8.0,4.0,13.0,2.0,42.0,0.0,9.0,0.0,23902.0,149.0,108.0,0.72,1996
+334,334,From Here to Eternity,0.77,NOT RATED,28 Aug 1953,118 min,"Drama, Romance, War",/From-Here-to-Eternity.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,37289.0,0.0,118.0,inf,1953
+335,335,Frozen,0.75,PG,27 Nov 2013,102 min,"Animation, Adventure, Comedy, Family, Fantasy, Musical",/Frozen.html,30.0,9.0,2.0,1.0,6.0,7.0,3.0,2.0,0.0,0.0,0.0,19010.0,60.0,102.0,1.7,2013
+336,336,Frozen River,0.72,R,05 Sep 2008,97 min,"Crime, Drama",/Frozen-River.html,6.0,2.0,2.0,4.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,20185.0,17.0,97.0,5.71,2008
+337,337,Fruitvale Station,0.75,R,26 Jul 2013,85 min,"Biography, Drama, Romance",/Fruitvale-Station.html,40.0,41.0,1.0,12.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,19953.0,108.0,85.0,0.79,2013
+338,338,American Fugitive: The Truth About Hassan,0.72,float(0),29 Apr 2007,75 min,Documentary,float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,75.0,75.0,2007
+339,339,Funny People,0.63,R,31 Jul 2009,146 min,"Comedy, Drama",/Funny-People.html,54.0,40.0,1.0,4.0,3.0,6.0,4.0,0.0,1.0,0.0,2.0,28357.0,115.0,146.0,1.27,2009
+340,340,G.I. Jane,0.59,R,22 Aug 1997,125 min,"Action, Drama, War",/G.I.-Jane.html,13.0,6.0,2.0,1.0,1.0,10.0,2.0,0.0,1.0,0.0,0.0,23508.0,36.0,125.0,3.47,1997
+341,341,Game 6,0.59,R,01 Jan 2005,87 min,"Comedy, Drama, Sport",/Game-6.html,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16323.0,2.0,87.0,43.5,2005
+342,342,Indie Game: The Movie,0.77,NOT RATED,15 Sep 2012,103 min,"Documentary, Drama",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,103.0,103.0,2012
+343,343,Gamer,0.58,R,04 Sep 2009,95 min,"Action, Sci-Fi, Thriller",/Gamer.html,36.0,13.0,12.0,5.0,1.0,13.0,1.0,1.0,1.0,0.0,0.0,25840.0,83.0,95.0,1.14,2009
+344,344,Gandhi,0.81,PG,25 Feb 1983,191 min,"Biography, Drama, History",/Gandhi.html,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,50128.0,10.0,191.0,19.1,1983
+345,345,Gang Related,0.65,R,08 Oct 1997,111 min,"Action, Crime, Drama, Romance, Thriller",/Gang-Related.html,45.0,24.0,0.0,1.0,9.0,3.0,1.0,0.0,1.0,0.0,0.0,24874.0,84.0,111.0,1.32,1997
+346,346,Gangs of New York,0.75,R,20 Dec 2002,167 min,"Crime, Drama",/Gangs-of-New-York.html,1.0,0.0,10.0,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,39449.0,16.0,167.0,10.44,2002
+347,347,Garden State,0.75,R,20 Aug 2004,102 min,"Comedy, Drama, Romance",/Garden-State.html,29.0,33.0,1.0,5.0,3.0,5.0,3.0,0.0,0.0,0.0,0.0,25510.0,79.0,102.0,1.29,2004
+348,348,Gattaca,0.78,PG-13,24 Oct 1997,106 min,"Drama, Sci-Fi, Thriller",/Gattaca.html,1.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,26558.0,7.0,106.0,15.14,1997
+349,349,Get Carter,0.51,R,06 Oct 2000,102 min,"Action, Crime, Drama, Thriller",/Get-Carter.html,5.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,1.0,7.0,0.0,15880.0,17.0,102.0,6.0,2000
+350,350,Get Low,0.71,PG-13,27 Aug 2010,103 min,"Drama, Mystery",/Get-Low.html,2.0,0.0,7.0,4.0,0.0,4.0,0.0,0.0,1.0,1.0,0.0,20908.0,19.0,103.0,5.42,2010
+351,351,Get on Up,0.69,PG-13,01 Aug 2014,139 min,"Biography, Drama, Music",/Get-on-Up.html,18.0,2.0,4.0,0.0,0.0,6.0,1.0,0.0,0.0,0.0,0.0,28218.0,31.0,139.0,4.48,2014
+352,352,Get Out,0.77,R,24 Feb 2017,104 min,"Horror, Mystery, Thriller",/Get-Out.html,32.0,19.0,8.0,2.0,0.0,3.0,2.0,0.0,1.0,0.0,1.0,19047.0,68.0,104.0,1.53,2017
+353,353,Ghost,0.7,PG-13,13 Jul 1990,127 min,"Drama, Fantasy, Romance, Thriller",/Ghost.html,4.0,1.0,8.0,2.0,1.0,2.0,0.0,0.0,0.0,7.0,0.0,26563.0,25.0,127.0,5.08,1990
+354,354,Ghost Rider,0.52,PG-13,16 Feb 2007,114 min,"Action, Adventure, Fantasy, Horror, Thriller",/Ghost-Rider.html,9.0,26.0,0.0,2.0,0.0,10.0,2.0,0.0,0.0,0.0,0.0,26752.0,49.0,114.0,2.33,2007
+355,355,Ghost Ship,0.55,R,25 Oct 2002,91 min,Horror,/Ghost-Ship.html,7.0,6.0,11.0,3.0,0.0,6.0,0.0,0.0,6.0,0.0,0.0,25592.0,39.0,91.0,2.33,2002
+356,356,Ghost World,0.74,R,21 Sep 2001,111 min,"Comedy, Drama",/Ghost-World.html,6.0,20.0,0.0,5.0,7.0,0.0,1.0,1.0,0.0,0.0,0.0,23521.0,40.0,111.0,2.78,2001
+357,357,Ghostbusters,0.78,PG,08 Jun 1984,105 min,"Action, Comedy, Fantasy",/Ghostbusters.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6812.0,0.0,105.0,inf,1984
+358,358,Ginger Snaps,0.68,NOT RATED,11 May 2001,108 min,"Drama, Fantasy, Horror",/Ginger-Snaps.html,17.0,25.0,0.0,4.0,1.0,9.0,0.0,2.0,1.0,0.0,0.0,22470.0,59.0,108.0,1.83,2001
+359,359,Gladiator,0.85,R,05 May 2000,155 min,"Action, Adventure, Drama",/Gladiator.html,1.0,0.0,4.0,0.0,0.0,1.0,0.0,0.0,0.0,4.0,0.0,24397.0,10.0,155.0,15.5,2000
+360,360,Go,0.73,R,09 Apr 1999,102 min,"Comedy, Crime",/Go.html,30.0,30.0,1.0,4.0,1.0,13.0,7.0,2.0,0.0,0.0,0.0,25578.0,88.0,102.0,1.16,1999
+361,361,Godfather,0.85,float(0),15 Nov 1991,150 min,"Comedy, Drama, Romance",/Godfather.html,0.0,0.0,1.0,4.0,0.0,2.0,1.0,0.0,0.0,8.0,0.0,33387.0,16.0,150.0,9.38,1991
+362,362,The Godfather: Part II,0.9,R,20 Dec 1974,202 min,"Crime, Drama",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,202.0,202.0,1974
+363,363,Gods and Monsters,0.75,R,04 Nov 1998,105 min,"Biography, Drama",/Gods-and-Monsters.html,5.0,7.0,7.0,2.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,23483.0,25.0,105.0,4.2,1998
+364,364,Godzilla,0.64,PG-13,16 May 2014,123 min,"Action, Adventure, Sci-Fi, Thriller",/Godzilla.html,2.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,27251.0,7.0,123.0,17.57,2014
+365,365,Gone Baby Gone,0.77,R,19 Oct 2007,114 min,"Crime, Drama, Mystery, Thriller",/Gone-Baby-Gone.html,22.0,36.0,2.0,4.0,2.0,4.0,3.0,1.0,3.0,0.0,1.0,26855.0,78.0,114.0,1.46,2007
+366,366,Gone in 60 Seconds,0.65,PG,28 Jul 1974,105 min,"Action, Crime, Drama",/Gone-in-60-Seconds.html,33.0,4.0,11.0,2.0,4.0,10.0,0.0,0.0,1.0,2.0,0.0,28025.0,67.0,105.0,1.57,1974
+367,367,Good Will Hunting,0.83,R,09 Jan 1998,126 min,"Drama, Romance",/Good-Will-Hunting.html,20.0,33.0,3.0,4.0,2.0,11.0,1.0,2.0,2.0,0.0,0.0,24620.0,78.0,126.0,1.62,1998
+368,368,Gothika,0.58,R,21 Nov 2003,98 min,"Horror, Mystery, Thriller",/Gothika.html,6.0,3.0,2.0,2.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,26233.0,15.0,98.0,6.53,2003
+369,369,Grabbers,0.63,NOT RATED,10 Aug 2012,94 min,"Comedy, Horror, Sci-Fi, Thriller",/Grabbers.html,9.0,8.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,3.0,0.0,20085.0,23.0,94.0,4.09,2012
+370,370,Gran Torino,0.81,R,09 Jan 2009,116 min,Drama,/Gran-Torino.html,13.0,13.0,5.0,17.0,2.0,5.0,0.0,4.0,0.0,2.0,0.0,23144.0,61.0,116.0,1.9,2009
+371,371,Grand Hotel,0.75,NOT RATED,11 Sep 1932,112 min,"Drama, Romance",/Grand-Hotel.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,26282.0,0.0,112.0,inf,1932
+372,372,Grand Theft Parsons,0.61,PG-13,18 Jun 2004,88 min,"Adventure, Comedy, Drama",/Grand-Theft-Parsons.html,8.0,0.0,9.0,4.0,2.0,1.0,0.0,0.0,0.0,4.0,0.0,19961.0,28.0,88.0,3.14,2004
+373,373,Gravity,0.77,PG-13,04 Oct 2013,91 min,"Drama, Sci-Fi, Thriller",/Gravity.html,7.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20030.0,10.0,91.0,9.1,2013
+374,374,F. Scott Fitzgerald's 'The Great Gatsby': The Making of a Classic,0.55,float(0),01 Dec 2000,float(0),Documentary,float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,1.0,1.0,2000
+375,375,Gremlins,0.72,PG,08 Jun 1984,106 min,"Comedy, Fantasy, Horror",/Gremlins.html,1.0,0.0,6.0,1.0,1.0,2.0,0.0,0.0,0.0,4.0,0.0,18784.0,15.0,106.0,7.07,1984
+376,376,Gremlins 2: The New Batch,0.63,PG-13,15 Jun 1990,106 min,"Comedy, Fantasy, Horror",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,106.0,106.0,1990
+377,377,Groundhog Day,0.8,PG,12 Feb 1993,101 min,"Comedy, Fantasy, Romance",/Groundhog-Day.html,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,23990.0,4.0,101.0,25.25,1993
+378,378,Guardians of the Galaxy Vol. 2,0.77,PG-13,05 May 2017,136 min,"Action, Adventure, Comedy, Sci-Fi",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,136.0,136.0,2017
+379,379,Hackers,0.62,PG-13,15 Sep 1995,107 min,"Comedy, Crime, Drama, Thriller",/Hackers.html,21.0,0.0,1.0,2.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,14550.0,28.0,107.0,3.82,1995
+380,380,Hall Pass,0.59,R,25 Feb 2011,105 min,"Comedy, Romance",/Hall-Pass.html,10.0,1.0,0.0,0.0,0.0,12.0,1.0,0.0,3.0,1.0,0.0,27786.0,28.0,105.0,3.75,2011
+381,381,Hancock,0.64,PG-13,02 Jul 2008,92 min,"Action, Drama, Fantasy",/Hancock.html,21.0,23.0,5.0,3.0,2.0,11.0,1.0,1.0,1.0,4.0,0.0,24094.0,72.0,92.0,1.28,2008
+382,382,Hanna,0.68,PG-13,08 Apr 2011,111 min,"Action, Drama, Thriller",/Hanna.html,7.0,7.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,25907.0,18.0,111.0,6.17,2011
+383,383,Hannah and Her Sisters,0.79,PG-13,14 Mar 1986,107 min,"Comedy, Drama",/Hannah-and-Her-Sisters.html,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,40977.0,3.0,107.0,35.67,1986
+384,384,Hannibal,0.68,R,09 Feb 2001,131 min,"Crime, Drama, Thriller",/Hannibal.html,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,31623.0,4.0,131.0,32.75,2001
+385,385,"Happy Birthday, Wanda June",0.61,R,09 Dec 1971,105 min,"Comedy, Drama","/Happy-Birthday,-Wanda-June.html",11.0,5.0,4.0,7.0,0.0,4.0,0.0,0.0,1.0,3.0,0.0,20351.0,35.0,105.0,3.0,1971
+386,386,Happy Feet,0.65,PG,17 Nov 2006,108 min,"Animation, Adventure, Comedy, Family, Music, Musical, Romance",/Happy-Feet.html,2.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,15251.0,4.0,108.0,27.0,2006
+387,387,Hard Rain,0.58,R,16 Jan 1998,97 min,"Action, Crime, Drama, Thriller",/Hard-Rain.html,13.0,2.0,5.0,2.0,0.0,3.0,0.0,0.0,0.0,1.0,0.0,20796.0,26.0,97.0,3.73,1998
+388,388,Hard to Kill,0.58,R,09 Feb 1990,96 min,"Action, Crime, Drama, Thriller",/Hard-to-Kill.html,10.0,8.0,0.0,1.0,1.0,6.0,0.0,0.0,0.0,0.0,0.0,23916.0,26.0,96.0,3.69,1990
+389,389,Paranormal Haunting: The Curse of the Blue Moon Inn,0.2,NOT RATED,01 Jan 2012,90 min,Horror,float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,90.0,90.0,2012
+390,390,He's Just Not That Into You,0.64,PG-13,06 Feb 2009,129 min,"Comedy, Drama, Romance",/He's-Just-Not-That-Into-You.html,18.0,1.0,0.0,0.0,5.0,4.0,1.0,0.0,0.0,0.0,0.0,24824.0,29.0,129.0,4.45,2009
+391,391,Heat,0.82,R,15 Dec 1995,170 min,"Crime, Drama, Thriller",/Heat.html,7.0,24.0,0.0,4.0,2.0,6.0,0.0,0.0,0.0,1.0,0.0,30247.0,44.0,170.0,3.86,1995
+392,392,Heathers,0.73,R,31 Mar 1989,103 min,Comedy,/Heathers.html,28.0,13.0,13.0,8.0,4.0,8.0,3.0,2.0,0.0,0.0,0.0,25483.0,79.0,103.0,1.3,1989
+393,393,Heavenly Creatures,0.74,R,14 Oct 1994,99 min,"Biography, Crime, Drama, Thriller",/Heavenly-Creatures.html,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,27256.0,4.0,99.0,24.75,1994
+394,394,Heavy Metal,0.67,R,07 Aug 1981,86 min,"Animation, Adventure, Fantasy, Sci-Fi",/Heavy-Metal.html,4.0,0.0,1.0,2.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,16287.0,10.0,86.0,8.6,1981
+395,395,Heist,0.65,R,09 Nov 2001,109 min,"Action, Crime, Drama, Thriller",/Heist.html,4.0,7.0,1.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,27306.0,15.0,109.0,7.27,2001
+396,396,Hellboy,0.69,PG-13,02 Apr 2004,122 min,"Action, Fantasy, Horror, Sci-Fi",/Hellboy.html,0.0,0.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,22754.0,4.0,122.0,30.5,2004
+397,397,Hellraiser,0.7,R,18 Sep 1987,94 min,"Horror, Thriller",/Hellraiser.html,8.0,1.0,10.0,2.0,0.0,2.0,0.0,0.0,0.0,2.0,0.0,18211.0,25.0,94.0,3.76,1987
+398,398,God Help the Girl,0.64,UNRATED,05 Sep 2014,112 min,"Drama, Musical, Romance",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,112.0,112.0,2014
+399,399,Henry Fool,0.73,R,19 Jun 1998,137 min,"Comedy, Drama",/Henry-Fool.html,11.0,9.0,1.0,0.0,0.0,5.0,0.0,0.0,1.0,1.0,0.0,25882.0,28.0,137.0,4.89,1998
+400,400,Henry's Crime,0.6,R,14 Jan 2011,108 min,"Comedy, Crime, Drama, Romance",/Henry's-Crime.html,10.0,6.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,20280.0,20.0,108.0,5.4,2011
+401,401,Her,0.8,R,10 Jan 2014,126 min,"Drama, Romance, Sci-Fi",/Her.html,5.0,20.0,0.0,1.0,1.0,2.0,1.0,2.0,0.0,0.0,0.0,19593.0,32.0,126.0,3.94,2014
+402,402,Hesher,0.7,R,25 Jun 2011,106 min,"Comedy, Drama",/Hesher.html,23.0,46.0,0.0,2.0,2.0,3.0,2.0,1.0,7.0,0.0,0.0,24740.0,86.0,106.0,1.23,2011
+403,403,High Fidelity,0.75,R,31 Mar 2000,113 min,"Comedy, Drama, Music, Romance",/High-Fidelity.html,10.0,23.0,1.0,1.0,7.0,7.0,130.0,0.0,0.0,4.0,0.0,27181.0,183.0,113.0,0.62,2000
+404,404,Highlander,0.72,R,07 Mar 1986,116 min,"Action, Adventure, Fantasy",/Highlander.html,1.0,0.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,18602.0,8.0,116.0,14.5,1986
+405,405,His Girl Friday,0.8,PASSED,18 Jan 1940,92 min,"Comedy, Drama, Romance",/His-Girl-Friday.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,33110.0,1.0,92.0,92.0,1940
+406,406,Hitchcock,0.68,PG-13,14 Dec 2012,98 min,"Biography, Drama",/Hitchcock.html,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,23521.0,2.0,98.0,49.0,2012
+407,407,Hollow Man,0.57,R,04 Aug 2000,112 min,"Action, Horror, Sci-Fi, Thriller",/Hollow-Man.html,18.0,8.0,2.0,0.0,2.0,2.0,0.0,0.0,0.0,2.0,0.0,25499.0,34.0,112.0,3.29,2000
+408,408,Honeydripper,0.67,PG-13,09 May 2008,124 min,"Crime, Drama, History, Music, Musical",/Honeydripper.html,1.0,0.0,13.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,21757.0,20.0,124.0,6.2,2008
+409,409,Horrible Bosses,0.69,R,08 Jul 2011,98 min,"Comedy, Crime",/Horrible-Bosses.html,23.0,25.0,8.0,4.0,0.0,9.0,4.0,6.0,5.0,5.0,0.0,21710.0,89.0,98.0,1.1,2011
+410,410,The Black Forest Hospital: The Next Generation,0.49,float(0),20 Feb 2005,100 min,Drama,float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,100.0,100.0,2005
+411,411,Hostage,0.66,R,11 Mar 2005,113 min,"Action, Crime, Drama, Mystery, Thriller",/Hostage.html,20.0,26.0,1.0,1.0,7.0,8.0,1.0,2.0,0.0,2.0,0.0,25384.0,68.0,113.0,1.66,2005
+412,412,Hot Tub Time Machine,0.64,R,26 Mar 2010,101 min,"Comedy, Sci-Fi",/Hot-Tub-Time-Machine.html,21.0,33.0,3.0,1.0,8.0,6.0,5.0,0.0,0.0,0.0,4.0,20284.0,81.0,101.0,1.25,2010
+413,413,Hotel Rwanda,0.81,PG-13,04 Feb 2005,121 min,"Biography, Drama, History, War",/Hotel-Rwanda.html,2.0,4.0,0.0,0.0,1.0,2.0,0.0,0.0,1.0,0.0,0.0,24668.0,10.0,121.0,12.1,2005
+414,414,House of 1000 Corpses,0.61,R,11 Apr 2003,89 min,Horror,/House-of-1000-Corpses.html,36.0,30.0,11.0,10.0,3.0,12.0,3.0,9.0,0.0,2.0,0.0,21323.0,116.0,89.0,0.77,2003
+415,415,How to Lose Friends & Alienate People,0.64,R,03 Oct 2008,110 min,"Biography, Comedy, Drama, Romance",/How-to-Lose-Friends-&-Alienate-People.html,9.0,12.0,0.0,2.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,23655.0,28.0,110.0,3.93,2008
+416,416,How to Train Your Dragon,0.81,PG,26 Mar 2010,98 min,"Animation, Action, Adventure, Comedy, Family, Fantasy",/How-to-Train-Your-Dragon.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22675.0,0.0,98.0,inf,2010
+417,417,How to Train Your Dragon 2,0.78,PG,13 Jun 2014,102 min,"Animation, Action, Adventure, Comedy, Family, Fantasy",/How-to-Train-Your-Dragon-2.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21255.0,0.0,102.0,inf,2014
+418,418,Hudson Hawk,0.58,R,24 May 1991,100 min,"Action, Adventure, Comedy",/Hudson-Hawk.html,13.0,5.0,10.0,3.0,3.0,2.0,0.0,0.0,0.0,5.0,0.0,24556.0,41.0,100.0,2.44,1991
+419,419,Human Nature,0.64,R,12 Apr 2002,96 min,"Comedy, Drama",/Human-Nature.html,7.0,6.0,2.0,5.0,0.0,2.0,3.0,0.0,0.0,3.0,0.0,20811.0,28.0,96.0,3.43,2002
+420,420,I Am Number Four,0.61,PG-13,18 Feb 2011,111 min,"Action, Adventure, Sci-Fi, Thriller",/I-Am-Number-Four.html,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,23692.0,4.0,111.0,27.75,2011
+421,421,I Am Sam,0.76,PG-13,25 Jan 2002,132 min,Drama,float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,132.0,132.0,2002
+422,422,I Love You Phillip Morris,0.66,R,07 Jan 2011,98 min,"Biography, Comedy, Crime, Drama, Romance",/I-Love-You-Phillip-Morris.html,10.0,15.0,5.0,5.0,3.0,10.0,5.0,1.0,1.0,0.0,0.0,24237.0,55.0,98.0,1.78,2011
+423,423,I Spit on Your Grave,0.63,R,20 Jan 2011,108 min,"Horror, Thriller",/I-Spit-on-Your-Grave.html,22.0,12.0,5.0,10.0,0.0,19.0,0.0,2.0,1.0,2.0,0.0,22410.0,73.0,108.0,1.48,2011
+424,424,I Still Know What You Did Last Summer,0.46,R,13 Nov 1998,100 min,"Horror, Mystery",/I-Still-Know-What-You-Did-Last-Summer.html,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21185.0,6.0,100.0,16.67,1998
+425,425,I'll Do Anything,0.56,PG-13,04 Feb 1994,115 min,"Comedy, Drama",/I'll-Do-Anything.html,11.0,8.0,3.0,2.0,0.0,0.0,2.0,0.0,0.0,2.0,0.0,25887.0,28.0,115.0,4.11,1994
+426,426,"I, Robot",0.71,PG-13,16 Jul 2004,115 min,"Action, Crime, Drama, Mystery, Sci-Fi, Thriller","/I,-Robot.html",4.0,0.0,1.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,22505.0,8.0,115.0,14.38,2004
+427,427,Ice Storm: The SalÃ© and Pelletier Affair,0.71,float(0),07 Jan 2006,44 min,Documentary,float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,44.0,44.0,2006
+428,428,In the Bedroom,0.74,R,08 Feb 2002,130 min,"Crime, Drama",/In-the-Bedroom.html,3.0,2.0,0.0,3.0,1.0,1.0,0.0,1.0,1.0,2.0,0.0,24847.0,14.0,130.0,9.29,2002
+429,429,In the Loop,0.75,NOT RATED,04 Sep 2009,106 min,Comedy,/In-the-Loop.html,24.0,42.0,0.0,2.0,0.0,2.0,3.0,2.0,5.0,1.0,0.0,25946.0,81.0,106.0,1.31,2009
+430,430,Inception,0.88,PG-13,16 Jul 2010,148 min,"Action, Adventure, Sci-Fi, Thriller",/Inception.html,1.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,28816.0,5.0,148.0,29.6,2010
+431,431,Independence Day,0.7,PG-13,03 Jul 1996,145 min,"Action, Adventure, Sci-Fi",/Independence-Day.html,5.0,2.0,7.0,2.0,0.0,4.0,3.0,0.0,0.0,0.0,0.0,27373.0,23.0,145.0,6.3,1996
+432,432,Indiana Jones and the Last Crusade,0.82,PG-13,24 May 1989,127 min,"Action, Adventure, Fantasy",/Indiana-Jones-and-the-Last-Crusade.html,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25241.0,4.0,127.0,31.75,1989
+433,433,Indiana Jones and the Temple of Doom,0.76,PG,23 May 1984,118 min,"Action, Adventure",/Indiana-Jones-and-the-Temple-of-Doom.html,1.0,0.0,8.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,33593.0,11.0,118.0,10.73,1984
+434,434,Inglourious Basterds,0.83,R,21 Aug 2009,153 min,"Adventure, Drama, War",/Inglourious-Basterds.html,6.0,15.0,10.0,3.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,34696.0,43.0,153.0,3.56,2009
+435,435,Auction Insider: The John Zimmer Collection,0.9,float(0),06 Dec 2014,float(0),Reality-TV,float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,1.0,1.0,2014
+436,436,Insidious,0.68,PG-13,01 Apr 2011,103 min,"Horror, Mystery, Thriller",/Insidious.html,3.0,3.0,1.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,22558.0,11.0,103.0,9.36,2011
+437,437,Insomnia,0.72,R,24 May 2002,118 min,"Drama, Mystery, Thriller",/Insomnia.html,11.0,9.0,0.0,4.0,2.0,4.0,0.0,0.0,0.0,3.0,0.0,25390.0,33.0,118.0,3.58,2002
+438,438,Interstellar,0.86,PG-13,07 Nov 2014,169 min,"Adventure, Drama, Sci-Fi",/Interstellar.html,0.0,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,36012.0,4.0,169.0,42.25,2014
+439,439,Interview with the Vampire: The Vampire Chronicles,0.76,R,11 Nov 1994,123 min,"Drama, Horror",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,123.0,123.0,1994
+440,440,Into the Wild,0.81,R,19 Oct 2007,148 min,"Adventure, Biography, Drama",/Into-the-Wild.html,6.0,1.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,1.0,0.0,31705.0,12.0,148.0,12.33,2007
+441,441,Into the Woods,0.6,PG,25 Dec 2014,125 min,"Adventure, Comedy, Drama, Fantasy, Musical",/Into-the-Woods.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24033.0,0.0,125.0,inf,2014
+442,442,Intolerable Cruelty,0.63,PG-13,10 Oct 2003,100 min,"Comedy, Crime, Romance",/Intolerable-Cruelty.html,4.0,2.0,2.0,1.0,0.0,12.0,0.0,0.0,0.0,0.0,0.0,17596.0,21.0,100.0,4.76,2003
+443,443,Inventing the Abbotts,0.64,R,04 Apr 1997,110 min,"Drama, Romance",/Inventing-the-Abbotts.html,21.0,9.0,6.0,1.0,3.0,3.0,3.0,0.0,0.0,1.0,0.0,23851.0,47.0,110.0,2.34,1997
+444,444,Invictus,0.73,PG-13,11 Dec 2009,134 min,"Biography, Drama, History, Sport",/Invictus.html,4.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,28453.0,9.0,134.0,14.89,2009
+445,445,Surviving Gilligan's Island: The Incredibly True Story of the Longest Three Hour Tour in History,0.73,float(0),14 Oct 2001,100 min,"Comedy, Drama",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,100.0,100.0,2001
+446,446,It,0.74,R,08 Sep 2017,135 min,"Horror, Thriller",/It.html,20.0,6.0,3.0,0.0,1.0,7.0,6.0,3.0,1.0,0.0,0.0,28250.0,47.0,135.0,2.87,2017
+447,447,It Happened One Night,0.81,NOT RATED,22 Feb 1934,105 min,"Comedy, Romance",/It-Happened-One-Night.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,35338.0,0.0,105.0,inf,1934
+448,448,It Happened One Night,0.81,NOT RATED,22 Feb 1934,105 min,"Comedy, Romance",/It-Happened-One-Night.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,35338.0,0.0,105.0,inf,1934
+449,449,It's a Wonderful Life,0.86,PG,07 Jan 1947,130 min,"Drama, Family, Fantasy",/It's-a-Wonderful-Life.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,34379.0,0.0,130.0,inf,1947
+450,450,It's Complicated,0.66,R,25 Dec 2009,120 min,"Comedy, Drama, Romance",/It's-Complicated.html,1.0,0.0,0.0,1.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,21525.0,5.0,120.0,24.0,2009
+451,451,Jackie Brown,0.75,R,25 Dec 1997,154 min,"Crime, Drama, Thriller",/Jackie-Brown.html,60.0,42.0,10.0,7.0,2.0,49.0,1.0,0.0,0.0,0.0,0.0,33492.0,171.0,154.0,0.9,1997
+452,452,Jacob's Ladder,0.75,R,02 Nov 1990,113 min,"Drama, Horror, Mystery",/Jacob's-Ladder.html,16.0,5.0,6.0,6.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,35102.0,37.0,113.0,3.05,1990
+453,453,Jade,0.52,R,13 Oct 1995,95 min,"Crime, Drama, Thriller",/Jade.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0,0.0,95.0,inf,1995
+454,454,Jane Eyre,0.74,PG-13,22 Apr 2011,120 min,"Drama, Romance",/Jane-Eyre.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,28137.0,0.0,120.0,inf,2011
+455,455,Jason X,0.44,R,26 Apr 2002,91 min,"Action, Horror, Sci-Fi, Thriller",/Jason-X.html,39.0,7.0,8.0,9.0,7.0,18.0,2.0,0.0,1.0,1.0,0.0,22744.0,92.0,91.0,0.99,2002
+456,456,Jaws,0.8,PG,20 Jun 1975,124 min,"Adventure, Drama, Thriller",/Jaws.html,1.0,0.0,7.0,2.0,0.0,4.0,0.0,0.0,0.0,2.0,0.0,28686.0,16.0,124.0,7.75,1975
+457,457,Jaws 2,0.57,PG,16 Jun 1978,116 min,"Adventure, Drama, Horror, Thriller",/Jaws-2.html,14.0,0.0,7.0,4.0,0.0,6.0,0.0,0.0,0.0,4.0,0.0,25080.0,35.0,116.0,3.31,1978
+458,458,Jay and Silent Bob Strike Back,0.69,R,24 Aug 2001,104 min,Comedy,/Jay-and-Silent-Bob-Strike-Back.html,84.0,112.0,6.0,31.0,5.0,32.0,13.0,6.0,31.0,1.0,0.0,25713.0,321.0,104.0,0.32,2001
+459,459,Jennifer's Body,0.52,R,18 Sep 2009,102 min,"Comedy, Horror",/Jennifer's-Body.html,13.0,6.0,1.0,4.0,0.0,9.0,2.0,0.0,1.0,1.0,0.0,23733.0,37.0,102.0,2.76,2009
+460,460,Jerry Maguire,0.73,R,13 Dec 1996,139 min,"Comedy, Drama, Romance, Sport",/Jerry-Maguire.html,8.0,6.0,3.0,1.0,1.0,3.0,3.0,0.0,0.0,0.0,0.0,27981.0,25.0,139.0,5.56,1996
+461,461,JFK,0.8,R,20 Dec 1991,189 min,"Drama, History, Thriller",/JFK.html,11.0,12.0,4.0,3.0,1.0,5.0,2.0,0.0,1.0,3.0,0.0,54482.0,42.0,189.0,4.5,1991
+462,462,Jimmy and Judy,0.62,R,05 Feb 2006,99 min,"Crime, Drama, Thriller",/Jimmy-and-Judy.html,33.0,36.0,6.0,8.0,1.0,14.0,1.0,0.0,0.0,0.0,2.0,27122.0,101.0,99.0,0.98,2006
+463,463,John Q,0.71,PG-13,15 Feb 2002,116 min,"Crime, Drama, Thriller",/John-Q.html,12.0,0.0,5.0,4.0,4.0,8.0,0.0,0.0,0.0,1.0,0.0,25163.0,34.0,116.0,3.41,2002
+464,464,John Wick,0.73,R,24 Oct 2014,101 min,"Action, Crime, Thriller",/John-Wick.html,9.0,21.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,1.0,1.0,18903.0,35.0,101.0,2.89,2014
+465,465,Judge Dredd,0.55,R,30 Jun 1995,96 min,"Action, Crime, Sci-Fi, Thriller",/Judge-Dredd.html,1.0,3.0,2.0,3.0,1.0,9.0,0.0,0.0,0.0,0.0,0.0,24168.0,19.0,96.0,5.05,1995
+466,466,Juno,0.75,PG-13,25 Dec 2007,96 min,"Comedy, Drama",/Juno.html,8.0,1.0,2.0,1.0,1.0,7.0,1.0,0.0,0.0,1.0,1.0,18968.0,23.0,96.0,4.17,2007
+467,467,Jurassic Park,0.81,PG-13,11 Jun 1993,127 min,"Adventure, Sci-Fi, Thriller",/Jurassic-Park.html,12.0,0.0,11.0,1.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,31471.0,27.0,127.0,4.7,1993
+468,468,Jurassic Park III,0.59,PG-13,18 Jul 2001,92 min,"Action, Adventure, Sci-Fi, Thriller",/Jurassic-Park-III.html,2.0,0.0,7.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,19941.0,10.0,92.0,9.2,2001
+469,469,Kafka,0.69,PG-13,15 Nov 1991,98 min,"Drama, Mystery, Sci-Fi, Thriller",/Kafka.html,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22346.0,1.0,98.0,98.0,1991
+470,470,Kalifornia,0.67,R,03 Sep 1993,117 min,"Crime, Drama, Thriller",/Kalifornia.html,12.0,10.0,5.0,6.0,1.0,6.0,0.0,0.0,0.0,0.0,0.0,26838.0,40.0,117.0,2.92,1993
+471,471,Kate & Leopold,0.64,PG-13,25 Dec 2001,118 min,"Comedy, Fantasy, Romance",/Kate-&-Leopold.html,6.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,21043.0,10.0,118.0,11.8,2001
+472,472,Kids,0.7,UNRATED,01 Sep 1995,91 min,Drama,/Kids.html,38.0,35.0,2.0,11.0,1.0,8.0,16.0,3.0,0.0,2.0,0.0,17627.0,116.0,91.0,0.78,1995
+473,473,Kill Your Darlings,0.65,R,19 Sep 2013,104 min,"Biography, Drama, Romance, Thriller",/Kill-Your-Darlings.html,4.0,7.0,2.0,2.0,1.0,0.0,0.0,0.0,1.0,2.0,0.0,17733.0,19.0,104.0,5.47,2013
+474,474,Killing Zoe,0.65,R,01 Sep 1994,96 min,"Crime, Thriller",/Killing-Zoe.html,21.0,31.0,7.0,5.0,4.0,4.0,1.0,5.0,0.0,3.0,0.0,18707.0,81.0,96.0,1.19,1994
+475,475,King Kong,0.72,PG-13,14 Dec 2005,187 min,"Action, Adventure, Drama, Romance",/King-Kong.html,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30566.0,1.0,187.0,187.0,2005
+477,477,Kiss of the Spider Woman,0.74,R,26 Jul 1985,120 min,Drama,/Kiss-of-the-Spider-Woman.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0,0.0,120.0,inf,1985
+478,478,Klute,0.72,R,25 Jun 1971,114 min,"Crime, Mystery, Thriller",/Klute.html,0.0,0.0,2.0,3.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,25009.0,8.0,114.0,14.25,1971
+479,479,Knocked Up,0.7,R,01 Jun 2007,129 min,"Comedy, Drama, Romance",/Knocked-Up.html,52.0,53.0,2.0,4.0,11.0,11.0,12.0,2.0,1.0,1.0,0.0,26765.0,149.0,129.0,0.87,2007
+480,480,Kramer vs. Kramer,0.78,PG,19 Dec 1979,105 min,Drama,float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,105.0,105.0,1979
+481,481,Kundun,0.7,PG-13,16 Jan 1998,134 min,"Biography, Drama, History",/Kundun.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,23870.0,1.0,134.0,134.0,1998
+482,482,Kung Fu Panda,0.76,PG,06 Jun 2008,92 min,"Animation, Action, Adventure, Comedy, Family",/Kung-Fu-Panda.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15396.0,0.0,92.0,inf,2008
+483,483,L.A. Confidential,0.83,R,19 Sep 1997,138 min,"Crime, Drama, Mystery, Thriller",/L.A.-Confidential.html,11.0,17.0,1.0,0.0,0.0,4.0,10.0,0.0,0.0,2.0,0.0,26711.0,45.0,138.0,3.07,1997
+484,484,La La Land,0.8,PG-13,25 Dec 2016,128 min,"Comedy, Drama, Music, Musical, Romance",/La-La-Land.html,5.0,3.0,2.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,18915.0,13.0,128.0,9.85,2016
+485,485,Labor of Love,0.56,float(0),04 May 1998,96 min,float(0),/Labor-of-Love.html,10.0,1.0,5.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,27020.0,20.0,96.0,4.8,1998
+486,486,Labyrinth,0.74,PG,27 Jun 1986,101 min,"Adventure, Family, Fantasy, Musical",/Labyrinth.html,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20712.0,5.0,101.0,20.2,1986
+487,487,Lake Placid,0.57,R,16 Jul 1999,82 min,"Action, Comedy, Horror",/Lake-Placid.html,11.0,3.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,15744.0,17.0,82.0,4.82,1999
+488,488,Land of the Dead,0.62,R,24 Jun 2005,93 min,"Horror, Sci-Fi, Thriller",/Land-of-the-Dead.html,9.0,12.0,3.0,0.0,0.0,5.0,2.0,0.0,1.0,4.0,0.0,21735.0,36.0,93.0,2.58,2005
+489,489,Larry Crowne,0.61,PG-13,01 Jul 2011,98 min,"Comedy, Drama, Romance",/Larry-Crowne.html,1.0,1.0,3.0,1.0,2.0,3.0,4.0,0.0,1.0,0.0,0.0,21128.0,16.0,98.0,6.12,2011
+490,490,Last Chance Harvey,0.67,PG-13,16 Jan 2009,93 min,"Drama, Romance",/Last-Chance-Harvey.html,4.0,3.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,15852.0,9.0,93.0,10.33,2009
+491,491,Last Tango in Paris,0.71,NC-17,07 Feb 1973,129 min,"Drama, Romance",/Last-Tango-in-Paris.html,10.0,8.0,1.0,0.0,2.0,16.0,0.0,0.0,1.0,2.0,0.0,18338.0,40.0,129.0,3.22,1973
+492,492,Law Abiding Citizen,0.74,R,16 Oct 2009,109 min,"Crime, Drama, Thriller",/Law-Abiding-Citizen.html,28.0,25.0,1.0,5.0,5.0,10.0,0.0,0.0,0.0,0.0,0.0,27800.0,74.0,109.0,1.47,2009
+493,493,Leaving Las Vegas,0.75,R,09 Feb 1996,111 min,"Drama, Romance",/Leaving-Las-Vegas.html,3.0,29.0,1.0,0.0,2.0,3.0,0.0,1.0,0.0,0.0,0.0,20487.0,39.0,111.0,2.85,1996
+494,494,Legally Blonde,0.63,PG-13,13 Jul 2001,96 min,"Comedy, Romance",/Legally-Blonde.html,1.0,2.0,2.0,4.0,1.0,11.0,5.0,0.0,2.0,2.0,0.0,22713.0,30.0,96.0,3.2,2001
+495,495,Legend,0.7,R,20 Nov 2015,132 min,"Biography, Crime, Drama, Thriller",/Legend.html,1.0,0.0,2.0,0.0,0.0,2.0,1.0,0.0,1.0,1.0,0.0,26406.0,8.0,132.0,16.5,2015
+496,496,Legion,0.52,R,22 Jan 2010,100 min,"Action, Fantasy, Horror",/Legion.html,10.0,22.0,4.0,4.0,1.0,3.0,0.0,0.0,1.0,0.0,0.0,23093.0,45.0,100.0,2.22,2010
+497,497,Les Miserables,0.73,NOT RATED,27 Dec 1978,150 min,"Drama, History",/Les-Miserables.html,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,29716.0,5.0,150.0,30.0,1978
+498,498,Leviathan,0.76,R,05 Feb 2015,140 min,"Crime, Drama",/Leviathan.html,17.0,10.0,4.0,3.0,1.0,6.0,0.0,2.0,0.0,0.0,0.0,22093.0,43.0,140.0,3.26,2015
+499,499,Liar Liar,0.69,PG-13,21 Mar 1997,86 min,"Comedy, Fantasy",/Liar-Liar.html,9.0,0.0,4.0,1.0,0.0,4.0,3.0,0.0,0.0,4.0,0.0,18722.0,25.0,86.0,3.44,1997
+500,500,Life,0.66,R,24 Mar 2017,104 min,"Horror, Sci-Fi, Thriller",/Life.html,14.0,12.0,24.0,8.0,1.0,12.0,1.0,0.0,0.0,0.0,0.0,27318.0,72.0,104.0,1.44,2017
+501,501,Life as a House,0.75,R,09 Nov 2001,125 min,Drama,float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,125.0,125.0,2001
+502,502,Life of Pi,0.79,PG,21 Nov 2012,127 min,"Adventure, Drama, Fantasy",/Life-of-Pi.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19478.0,0.0,127.0,inf,2012
+503,503,Light Sleeper,0.69,R,13 Mar 1992,103 min,"Crime, Drama",/Light-Sleeper.html,7.0,13.0,1.0,1.0,0.0,4.0,1.0,0.0,0.0,0.0,1.0,14165.0,28.0,103.0,3.68,1992
+504,504,Limitless,0.74,PG-13,18 Mar 2011,105 min,"Mystery, Sci-Fi, Thriller",/Limitless.html,15.0,14.0,0.0,0.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,24460.0,34.0,105.0,3.09,2011
+505,505,Lincoln,0.74,PG-13,16 Nov 2012,150 min,"Biography, Drama, History, War",/Lincoln.html,3.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,27766.0,13.0,150.0,11.54,2012
+506,506,Little Athens,0.56,R,01 Jun 2005,103 min,"Comedy, Crime, Drama",/Little-Athens.html,79.0,51.0,1.0,9.0,18.0,22.0,1.0,1.0,4.0,2.0,0.0,27712.0,188.0,103.0,0.55,2005
+507,507,Little Nicky,0.53,PG-13,10 Nov 2000,90 min,"Comedy, Fantasy",/Little-Nicky.html,9.0,0.0,4.0,1.0,0.0,13.0,0.0,0.0,0.0,0.0,0.0,18966.0,27.0,90.0,3.33,2000
+508,508,Living in Oblivion,0.75,R,21 Jul 1995,90 min,"Comedy, Drama",/Living-in-Oblivion.html,11.0,10.0,4.0,0.0,2.0,6.0,0.0,0.0,1.0,1.0,0.0,18156.0,35.0,90.0,2.57,1995
+509,509,"Lock, Stock and Two Smoking Barrels",0.82,R,28 Aug 1998,107 min,"Comedy, Crime","/Lock,-Stock-and-Two-Smoking-Barrels.html",16.0,18.0,0.0,0.0,0.0,0.0,2.0,2.0,3.0,3.0,0.0,20422.0,44.0,107.0,2.43,1998
+510,510,Logan,0.81,R,03 Mar 2017,137 min,"Action, Drama, Sci-Fi, Thriller",/Logan.html,17.0,19.0,1.0,1.0,6.0,4.0,1.0,0.0,1.0,0.0,0.0,31020.0,50.0,137.0,2.74,2017
+511,511,Logan's Run,0.68,PG,23 Jun 1976,119 min,"Action, Sci-Fi",/Logan's-Run.html,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24691.0,4.0,119.0,29.75,1976
+512,512,Lone Star,0.75,R,21 Jun 1996,135 min,"Drama, Mystery",/Lone-Star.html,4.0,3.0,10.0,0.0,2.0,2.0,0.0,1.0,0.0,0.0,0.0,24546.0,22.0,135.0,6.14,1996
+513,513,Looper,0.74,R,28 Sep 2012,113 min,"Action, Crime, Drama, Sci-Fi, Thriller",/Looper.html,13.0,17.0,0.0,0.0,0.0,2.0,1.0,1.0,0.0,1.0,0.0,27058.0,35.0,113.0,3.23,2012
+514,514,Lord of Illusions,0.61,R,25 Aug 1995,109 min,"Horror, Mystery, Thriller",/Lord-of-Illusions.html,18.0,19.0,4.0,1.0,3.0,1.0,0.0,0.0,0.0,2.0,0.0,21351.0,48.0,109.0,2.27,1995
+515,515,Lord of War,0.76,R,16 Sep 2005,122 min,"Crime, Drama, Thriller",/Lord-of-War.html,2.0,27.0,2.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,26446.0,34.0,122.0,3.59,2005
+516,516,Lost Highway,0.76,R,15 Jan 1997,134 min,"Mystery, Thriller",/Lost-Highway.html,7.0,7.0,4.0,2.0,1.0,2.0,8.0,1.0,0.0,0.0,0.0,24423.0,32.0,134.0,4.19,1997
+517,517,Lost Horizon,0.78,APPROVED,01 Sep 1937,132 min,"Adventure, Drama, Fantasy, Mystery",/Lost-Horizon.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,27395.0,0.0,132.0,inf,1937
+518,518,Lost in Space,0.51,PG-13,03 Apr 1998,130 min,"Action, Adventure, Family, Sci-Fi, Thriller",/Lost-in-Space.html,2.0,0.0,10.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,24345.0,14.0,130.0,9.29,1998
+519,519,Lost in Translation,0.78,R,03 Oct 2003,102 min,Drama,/Lost-in-Translation.html,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13793.0,4.0,102.0,25.5,2003
+520,520,Machete,0.66,R,03 Sep 2010,105 min,"Action, Crime, Thriller",/Machete.html,13.0,23.0,1.0,4.0,1.0,10.0,5.0,1.0,0.0,3.0,0.0,15288.0,61.0,105.0,1.72,2010
+521,521,Machine Gun Preacher,0.68,R,02 Nov 2011,129 min,"Action, Biography, Crime, Drama",/Machine-Gun-Preacher.html,11.0,15.0,5.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,29475.0,35.0,129.0,3.69,2011
+522,522,Made,0.64,R,31 Aug 2001,95 min,"Comedy, Crime, Drama, Thriller",/Made.html,76.0,39.0,4.0,2.0,3.0,19.0,0.0,0.0,0.0,0.0,0.0,18760.0,143.0,95.0,0.66,2001
+523,523,Magnolia,0.8,R,07 Jan 2000,188 min,Drama,/Magnolia.html,26.0,107.0,10.0,7.0,9.0,6.0,12.0,3.0,3.0,0.0,0.0,42607.0,183.0,188.0,1.03,2000
+524,524,Major League,0.72,R,07 Apr 1989,107 min,"Comedy, Sport",/Major-League.html,21.0,1.0,8.0,2.0,0.0,5.0,6.0,0.0,0.0,0.0,0.0,25459.0,43.0,107.0,2.49,1989
+525,525,Malcolm X,0.77,PG-13,18 Nov 1992,202 min,"Biography, Drama, History, Romance",/Malcolm-X.html,10.0,0.0,3.0,4.0,0.0,2.0,2.0,0.0,0.0,4.0,0.0,31468.0,25.0,202.0,8.08,1992
+526,526,Malibu's Most Wanted,0.52,PG-13,18 Apr 2003,86 min,"Comedy, Crime",/Malibu's-Most-Wanted.html,6.0,1.0,31.0,8.0,0.0,37.0,0.0,0.0,1.0,0.0,0.0,19489.0,84.0,86.0,1.02,2003
+527,527,The Man in the Iron Mask,0.65,PG-13,13 Mar 1998,132 min,"Action, Adventure, Drama",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,132.0,132.0,1998
+528,528,Man on Fire,0.77,R,23 Apr 2004,146 min,"Action, Crime, Drama, Thriller",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,146.0,146.0,2004
+529,529,Man on the Moon,0.74,R,22 Dec 1999,118 min,"Biography, Comedy, Drama",/Man-on-the-Moon.html,7.0,8.0,2.0,0.0,5.0,5.0,0.0,0.0,1.0,2.0,0.0,26414.0,30.0,118.0,3.93,1999
+530,530,Man Trouble,0.46,PG-13,17 Jul 1992,100 min,"Comedy, Romance",/Man-Trouble.html,9.0,3.0,8.0,5.0,1.0,2.0,1.0,0.0,0.0,3.0,0.0,28401.0,32.0,100.0,3.12,1992
+531,531,Manhattan Murder Mystery,0.74,PG,18 Aug 1993,104 min,"Comedy, Mystery",/Manhattan-Murder-Mystery.html,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40591.0,2.0,104.0,52.0,1993
+532,532,Manhunter,0.72,R,15 Aug 1986,120 min,"Crime, Horror, Mystery, Thriller",/Manhunter.html,5.0,5.0,2.0,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,27880.0,17.0,120.0,7.06,1986
+533,533,Margaret,0.65,R,01 Jun 2012,150 min,Drama,/Margaret.html,8.0,12.0,1.0,1.0,1.0,6.0,0.0,0.0,0.0,0.0,0.0,38050.0,29.0,150.0,5.17,2012
+534,534,Margin Call,0.71,R,29 Sep 2011,107 min,"Drama, Thriller",/Margin-Call.html,11.0,36.0,3.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,19635.0,52.0,107.0,2.06,2011
+535,535,Margot at the Wedding,0.61,R,14 Dec 2007,91 min,"Comedy, Drama",/Margot-at-the-Wedding.html,11.0,13.0,0.0,1.0,1.0,3.0,64.0,0.0,0.0,0.0,0.0,19641.0,93.0,91.0,0.98,2007
+536,536,Marley,0.8,PG-13,20 Apr 2012,144 min,"Documentary, Biography, Music",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,144.0,144.0,2012
+537,537,Martha Marcy May Marlene,0.69,R,21 Dec 2011,102 min,"Drama, Mystery, Thriller",/Martha-Marcy-May-Marlene.html,5.0,8.0,1.0,0.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,13866.0,19.0,102.0,5.37,2011
+538,538,Your Favorite Martian: The Series,0.65,float(0),02 Dec 2011,float(0),"Animation, Comedy, Music",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,1.0,1.0,2011
+539,539,Marty,0.77,NOT RATED,10 Jun 1955,90 min,"Drama, Romance",/Marty.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21078.0,0.0,90.0,inf,1955
+540,540,Mary Poppins,0.78,G,03 Dec 1964,139 min,"Comedy, Family, Fantasy, Musical",/Mary-Poppins.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14931.0,0.0,139.0,inf,1964
+541,541,Behind the Mask: The Rise of Leslie Vernon,0.68,R,13 Oct 2006,92 min,"Comedy, Horror, Thriller",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,92.0,92.0,2006
+542,542,Master and Commander: The Far Side of the World,0.74,PG-13,14 Nov 2003,138 min,"Action, Adventure, Drama, History, War",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,138.0,138.0,2003
+543,543,"The Master, the Wife and the Gangster",0.72,float(0),23 Sep 2011,118 min,"Action, Crime, Drama, Romance, Thriller",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,118.0,118.0,2011
+544,544,The Matrix: The Movie Special,0.74,APPROVED,28 Mar 1999,30 min,Action,float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,30.0,30.0,1999
+545,545,Max Payne,0.54,PG-13,17 Oct 2008,100 min,"Action, Crime, Drama, Mystery, Thriller",/Max-Payne.html,4.0,0.0,1.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,23897.0,9.0,100.0,11.11,2008
+546,546,Mean Streets,0.73,R,14 Oct 1973,112 min,"Crime, Drama, Thriller",/Mean-Streets.html,8.0,6.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,20489.0,24.0,112.0,4.67,1973
+547,547,Meet Joe Black,0.72,PG-13,13 Nov 1998,178 min,"Drama, Fantasy, Romance",/Meet-Joe-Black.html,7.0,0.0,7.0,0.0,1.0,3.0,1.0,0.0,0.0,0.0,0.0,30537.0,19.0,178.0,9.37,1998
+548,548,Meet John Doe,0.77,NOT RATED,03 May 1941,122 min,"Comedy, Drama, Romance",/Meet-John-Doe.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32616.0,0.0,122.0,inf,1941
+549,549,Megamind,0.73,PG,05 Nov 2010,95 min,"Animation, Action, Comedy, Family, Sci-Fi",/Megamind.html,5.0,0.0,3.0,3.0,0.0,8.0,2.0,0.0,1.0,1.0,0.0,24084.0,23.0,95.0,4.13,2010
+550,550,Memento,0.85,R,25 May 2001,113 min,"Mystery, Thriller",/Memento.html,14.0,35.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,33120.0,49.0,113.0,2.31,2001
+551,551,Men in Black,0.73,PG-13,02 Jul 1997,98 min,"Adventure, Comedy, Mystery, Sci-Fi",/Men-in-Black.html,9.0,0.0,10.0,1.0,0.0,4.0,1.0,0.0,0.0,3.0,0.0,25631.0,28.0,98.0,3.5,1997
+552,552,Men in Black 3,0.68,PG-13,25 May 2012,106 min,"Action, Adventure, Comedy, Sci-Fi",/Men-in-Black-3.html,3.0,0.0,8.0,0.0,1.0,9.0,0.0,0.0,0.0,2.0,0.0,20198.0,23.0,106.0,4.61,2012
+553,553,Metro,0.55,R,17 Jan 1997,117 min,"Action, Comedy, Crime, Drama, Thriller",/Metro.html,26.0,24.0,5.0,5.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0,27671.0,65.0,117.0,1.8,1997
+554,554,Miami Vice,0.6,R,28 Jul 2006,134 min,"Action, Crime, Thriller",/Miami-Vice.html,6.0,11.0,1.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,22192.0,22.0,134.0,6.09,2006
+555,555,Midnight Cowboy,0.79,R,16 Jun 1969,113 min,Drama,/Midnight-Cowboy.html,1.0,0.0,2.0,1.0,0.0,4.0,0.0,0.0,0.0,7.0,0.0,23208.0,15.0,113.0,7.53,1969
+556,556,Midnight Express,0.76,R,06 Oct 1978,121 min,"Biography, Crime, Drama, Thriller",/Midnight-Express.html,17.0,29.0,2.0,1.0,4.0,10.0,0.0,0.0,2.0,3.0,0.0,27907.0,68.0,121.0,1.78,1978
+557,557,Midnight in Paris,0.77,PG-13,10 Jun 2011,94 min,"Comedy, Fantasy, Romance",/Midnight-in-Paris.html,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14999.0,4.0,94.0,23.5,2011
+558,558,Mighty Joe Young,0.56,PG,25 Dec 1998,114 min,"Action, Adventure, Family, Fantasy, Thriller",/Mighty-Joe-Young.html,0.0,0.0,3.0,0.0,0.0,3.0,0.0,0.0,0.0,2.0,0.0,28157.0,8.0,114.0,14.25,1998
+559,559,Milk,0.76,R,30 Jan 2009,128 min,"Biography, Drama",/Milk.html,12.0,5.0,2.0,0.0,3.0,2.0,44.0,0.0,2.0,0.0,0.0,24397.0,70.0,128.0,1.83,2009
+560,560,Miller's Crossing,0.78,R,05 Oct 1990,115 min,"Crime, Drama, Thriller",/Miller's-Crossing.html,0.0,0.0,3.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,28908.0,6.0,115.0,19.17,1990
+561,561,Mimic,0.59,R,22 Aug 1997,105 min,"Horror, Sci-Fi",/Mimic.html,17.0,8.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,21548.0,28.0,105.0,3.75,1997
+562,562,Mini's First Time,0.59,R,09 Aug 2007,91 min,"Comedy, Crime, Drama",/Mini's-First-Time.html,6.0,8.0,4.0,8.0,0.0,2.0,4.0,0.0,0.0,0.0,0.0,25046.0,32.0,91.0,2.84,2007
+563,563,Minority Report,0.77,PG-13,21 Jun 2002,145 min,"Action, Crime, Mystery, Sci-Fi, Thriller",/Minority-Report.html,5.0,7.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,28208.0,17.0,145.0,8.53,2002
+564,564,Mirrors,0.62,R,15 Aug 2008,110 min,"Horror, Mystery",/Mirrors.html,4.0,3.0,6.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,26365.0,14.0,110.0,7.86,2008
+565,565,Misery,0.78,R,30 Nov 1990,107 min,"Crime, Drama, Thriller",/Misery.html,4.0,2.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,22401.0,10.0,107.0,10.7,1990
+566,566,Mission: Impossible,0.71,PG-13,22 May 1996,110 min,"Action, Adventure, Thriller",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,110.0,110.0,1996
+567,567,Mission: Impossible II,0.61,PG-13,24 May 2000,123 min,"Action, Adventure, Thriller",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,123.0,123.0,2000
+568,568,Mission to Mars,0.56,PG,10 Mar 2000,114 min,"Adventure, Sci-Fi, Thriller",/Mission-to-Mars.html,2.0,0.0,6.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,29577.0,10.0,114.0,11.4,2000
+569,569,Moneyball,0.76,PG-13,23 Sep 2011,133 min,"Biography, Drama, Sport",/Moneyball.html,7.0,7.0,0.0,1.0,1.0,7.0,2.0,0.0,0.0,0.0,0.0,32246.0,25.0,133.0,5.32,2011
+570,570,Monkeybone,0.47,PG-13,23 Feb 2001,93 min,"Animation, Comedy, Fantasy",/Monkeybone.html,7.0,0.0,4.0,0.0,0.0,15.0,0.0,1.0,0.0,3.0,0.0,27235.0,30.0,93.0,3.1,2001
+571,571,Monster's Ball,0.71,R,01 Mar 2002,111 min,"Drama, Romance",/Monster's-Ball.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0,111.0,inf,2002
+572,572,Monte Carlo,0.58,PG,01 Jul 2011,109 min,"Adventure, Comedy, Family, Romance",/Monte-Carlo.html,0.0,0.0,1.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,25531.0,4.0,109.0,27.25,2011
+573,573,Moon,0.79,R,10 Jul 2009,97 min,"Drama, Mystery, Sci-Fi",/Moon.html,8.0,11.0,1.0,0.0,2.0,1.0,0.0,0.0,0.0,1.0,0.0,21352.0,24.0,97.0,4.04,2009
+574,574,Moonrise Kingdom,0.78,PG-13,29 Jun 2012,94 min,"Adventure, Comedy, Drama, Romance",/Moonrise-Kingdom.html,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25994.0,3.0,94.0,31.33,2012
+575,575,Moonstruck,0.71,PG,15 Jan 1988,102 min,"Comedy, Drama, Romance",/Moonstruck.html,1.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21280.0,4.0,102.0,25.5,1988
+576,576,Mr. Blandings Builds His Dream House,0.73,APPROVED,04 Jun 1948,94 min,"Comedy, Romance",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,94.0,94.0,1948
+577,577,Mr. Deeds Goes to Town,0.8,NOT RATED,12 Apr 1936,115 min,"Comedy, Drama, Romance",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,115.0,115.0,1936
+578,578,Mr. Holland's Opus,0.73,PG,19 Jan 1996,143 min,"Drama, Music",/Mr.-Holland's-Opus.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0,0.0,143.0,inf,1996
+579,579,"Mrs. Brown, You've Got a Lovely Daughter",0.49,G,01 Jan 1968,110 min,"Comedy, Musical",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,110.0,110.0,1968
+580,580,Mud,0.74,PG-13,10 May 2013,130 min,Drama,/Mud.html,25.0,0.0,3.0,3.0,1.0,9.0,1.0,0.0,0.0,0.0,0.0,30751.0,42.0,130.0,3.1,2013
+581,581,Mulan,0.76,G,19 Jun 1998,88 min,"Animation, Adventure, Family, Fantasy, Musical, War",/Mulan.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,17653.0,1.0,88.0,88.0,1998
+582,582,Mulholland Drive,0.8,R,19 Oct 2001,147 min,"Drama, Mystery, Thriller",/Mulholland-Drive.html,1.0,0.0,3.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,22030.0,7.0,147.0,21.0,2001
+583,583,Mumford,0.69,R,24 Sep 1999,112 min,"Comedy, Drama",/Mumford.html,5.0,2.0,2.0,2.0,2.0,2.0,3.0,0.0,0.0,1.0,0.0,26971.0,19.0,112.0,5.89,1999
+584,584,Revenge of the Mummy: The Ride,0.75,float(0),21 May 2004,6 min,"Thriller, Action, Adventure",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,6.0,6.0,2004
+585,585,Music of the Heart,0.68,PG,29 Oct 1999,124 min,"Drama, Music",/Music-of-the-Heart.html,4.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,25713.0,8.0,124.0,15.5,1999
+586,586,Mute Witness,0.68,R,15 Sep 1995,95 min,"Horror, Thriller",/Mute-Witness.html,5.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24606.0,7.0,95.0,13.57,1995
+587,587,My Best Friend's Wedding,0.63,PG-13,20 Jun 1997,105 min,"Comedy, Drama, Romance",/My-Best-Friend's-Wedding.html,21.0,4.0,5.0,3.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,27760.0,37.0,105.0,2.84,1997
+588,588,My Girl,0.69,PG,27 Nov 1991,102 min,"Comedy, Drama, Family, Romance",/My-Girl.html,4.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,15440.0,7.0,102.0,14.57,1991
+589,589,My Mother Dreams the Satan's Disciples in New York,0.73,float(0),01 Oct 1998,30 min,Short,/My-Mother-Dreams-the-Satan's-Disciples-in-New-York.html,2.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,7140.0,4.0,30.0,7.5,1998
+590,590,My Week with Marilyn,0.7,R,23 Dec 2011,99 min,"Biography, Drama",/My-Week-with-Marilyn.html,2.0,5.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,30308.0,11.0,99.0,9.0,2011
+591,591,Mystery Men,0.61,PG-13,06 Aug 1999,121 min,"Action, Comedy, Fantasy, Sci-Fi",/Mystery-Men.html,0.0,0.0,3.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,23219.0,6.0,121.0,20.17,1999
+593,593,Natural Born Killers,0.73,R,26 Aug 1994,118 min,"Crime, Drama",/Natural-Born-Killers.html,28.0,7.0,5.0,8.0,4.0,4.0,6.0,0.0,0.0,0.0,1.0,27568.0,63.0,118.0,1.87,1994
+594,594,Never Been Kissed,0.6,PG-13,09 Apr 1999,107 min,"Comedy, Drama, Romance",/Never-Been-Kissed.html,3.0,0.0,3.0,0.0,0.0,5.0,1.0,0.0,0.0,0.0,0.0,25143.0,12.0,107.0,8.92,1999
+596,596,New York Minute,0.49,PG,07 May 2004,91 min,"Comedy, Crime, Family, Romance",/New-York-Minute.html,3.0,0.0,4.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,20298.0,8.0,91.0,11.38,2004
+597,597,Newsies,0.7,PG,10 Apr 1992,121 min,"Drama, Family, History, Musical",/Newsies.html,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,26179.0,3.0,121.0,40.33,1992
+598,598,Next,0.62,PG-13,27 Apr 2007,96 min,"Action, Sci-Fi, Thriller",/Next.html,5.0,0.0,5.0,2.0,2.0,3.0,1.0,0.0,0.0,3.0,0.0,25707.0,21.0,96.0,4.57,2007
+599,599,Next Friday,0.61,R,12 Jan 2000,98 min,Comedy,/Next-Friday.html,23.0,14.0,27.0,5.0,2.0,42.0,0.0,0.0,0.0,0.0,0.0,17068.0,113.0,98.0,0.87,2000
+600,600,"Ni vu, ni connu",0.61,float(0),07 Nov 2011,100 min,Adventure,float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,100.0,100.0,2011
+601,601,Nick of Time,0.63,R,22 Nov 1995,90 min,"Action, Crime, Drama, Thriller",/Nick-of-Time.html,7.0,8.0,1.0,4.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,20746.0,23.0,90.0,3.91,1995
+602,602,Nightbreed,0.66,R,16 Feb 1990,102 min,"Action, Fantasy, Horror",/Nightbreed.html,17.0,6.0,10.0,0.0,3.0,2.0,0.0,0.0,0.0,4.0,0.0,28186.0,42.0,102.0,2.43,1990
+603,603,Nine,0.58,PG-13,25 Dec 2009,118 min,"Drama, Musical, Romance",/Nine.html,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,18973.0,3.0,118.0,39.33,2009
+604,604,Ninja Assassin,0.64,R,25 Nov 2009,99 min,"Action, Thriller",/Ninja-Assassin.html,6.0,14.0,3.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,21830.0,25.0,99.0,3.96,2009
+605,605,Ninotchka,0.8,NOT RATED,23 Nov 1939,110 min,"Comedy, Romance",/Ninotchka.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,28983.0,0.0,110.0,inf,1939
+606,606,No Country for Old Men,0.81,R,21 Nov 2007,122 min,"Crime, Drama, Thriller",/No-Country-for-Old-Men.html,1.0,0.0,3.0,1.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,23018.0,10.0,122.0,12.2,2007
+607,607,No Strings Attached,0.62,R,21 Jan 2011,108 min,"Comedy, Romance",/No-Strings-Attached.html,10.0,20.0,0.0,5.0,1.0,4.0,10.0,1.0,2.0,0.0,0.0,21083.0,53.0,108.0,2.04,2011
+608,608,Notting Hill,0.71,PG-13,28 May 1999,124 min,"Comedy, Drama, Romance",/Notting-Hill.html,4.0,2.0,4.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,17417.0,13.0,124.0,9.54,1999
+609,609,Nurse Betty,0.62,R,08 Sep 2000,110 min,"Comedy, Crime, Drama, Romance",/Nurse-Betty.html,25.0,27.0,8.0,4.0,5.0,4.0,3.0,0.0,0.0,1.0,0.0,31905.0,77.0,110.0,1.43,2000
+610,610,Oblivion,0.7,PG-13,19 Apr 2013,124 min,"Action, Adventure, Mystery, Sci-Fi",/Oblivion.html,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24116.0,4.0,124.0,31.0,2013
+611,611,Observe and Report,0.58,R,10 Apr 2009,86 min,"Comedy, Crime, Drama",/Observe-and-Report.html,46.0,42.0,2.0,9.0,1.0,19.0,5.0,2.0,1.0,0.0,1.0,24907.0,128.0,86.0,0.67,2009
+612,612,Obsessed,0.49,PG-13,24 Apr 2009,108 min,"Drama, Romance, Thriller",/Obsessed.html,2.0,4.0,4.0,4.0,5.0,2.0,1.0,0.0,1.0,0.0,0.0,19891.0,23.0,108.0,4.7,2009
+613,613,Ocean's Eleven,0.78,PG-13,07 Dec 2001,116 min,"Crime, Thriller",/Ocean's-Eleven.html,14.0,2.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,30838.0,19.0,116.0,6.11,2001
+614,614,Ocean's Twelve,0.65,PG-13,10 Dec 2004,125 min,"Crime, Thriller",/Ocean's-Twelve.html,2.0,0.0,4.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,23821.0,9.0,125.0,13.89,2004
+615,615,Office Space,0.78,R,19 Feb 1999,89 min,Comedy,/Office-Space.html,22.0,3.0,2.0,3.0,3.0,13.0,0.0,4.0,0.0,1.0,0.0,12763.0,51.0,89.0,1.75,1999
+616,616,The Omega Man,0.66,GP,01 Aug 1971,98 min,"Action, Sci-Fi, Thriller",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,98.0,98.0,1971
+617,617,One Flew Over the Cuckoo's Nest,0.87,R,19 Nov 1975,133 min,Drama,/One-Flew-Over-the-Cuckoo's-Nest.html,6.0,2.0,1.0,2.0,2.0,13.0,0.0,1.0,1.0,1.0,0.0,26237.0,29.0,133.0,4.59,1975
+618,618,Only God Forgives,0.57,R,22 May 2013,90 min,"Crime, Drama",/Only-God-Forgives.html,1.0,12.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,20323.0,15.0,90.0,6.0,2013
+619,619,Ordinary People,0.78,R,26 Feb 1981,124 min,Drama,/Ordinary-People.html,12.0,10.0,3.0,1.0,0.0,8.0,1.0,0.0,1.0,1.0,0.0,20863.0,37.0,124.0,3.35,1981
+620,620,Orgy of the Dead,0.28,UNRATED,01 Jun 1965,92 min,"Fantasy, Horror",/Orgy-of-the-Dead.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6385.0,0.0,92.0,inf,1965
+621,621,Orphan,0.7,R,24 Jul 2009,123 min,"Horror, Mystery, Thriller",/Orphan.html,8.0,3.0,1.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,31049.0,16.0,123.0,7.69,2009
+622,622,Out of Sight,0.7,R,26 Jun 1998,123 min,"Crime, Drama, Romance, Thriller",/Out-of-Sight.html,39.0,19.0,2.0,0.0,4.0,10.0,11.0,3.0,0.0,1.0,0.0,31560.0,89.0,123.0,1.38,1998
+623,623,Pandorum,0.68,R,25 Sep 2009,108 min,"Action, Horror, Mystery, Sci-Fi, Thriller",/Pandorum.html,10.0,3.0,5.0,1.0,2.0,1.0,0.0,0.0,0.0,3.0,0.0,29029.0,25.0,108.0,4.32,2009
+624,624,Panic Room,0.68,R,29 Mar 2002,112 min,"Crime, Drama, Thriller",/Panic-Room.html,11.0,21.0,6.0,1.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,23523.0,44.0,112.0,2.55,2002
+625,625,Papadopoulos & Sons,0.61,NOT RATED,05 Apr 2013,105 min,"Comedy, Drama",/Papadopoulos-&-Sons.html,4.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14959.0,10.0,105.0,10.5,2013
+626,626,ParaNorman,0.7,PG,17 Aug 2012,92 min,"Animation, Adventure, Comedy, Family, Fantasy",/ParaNorman.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,23714.0,0.0,92.0,inf,2012
+627,627,Pariah,0.72,R,20 Jan 2011,86 min,Drama,/Pariah.html,13.0,6.0,10.0,0.0,0.0,8.0,1.0,4.0,0.0,0.0,0.0,20473.0,42.0,86.0,2.05,2011
+628,628,Paul,0.7,R,18 Mar 2011,104 min,"Adventure, Comedy, Sci-Fi",/Paul.html,18.0,8.0,4.0,2.0,0.0,3.0,0.0,0.0,0.0,2.0,0.0,22578.0,37.0,104.0,2.81,2011
+629,629,Pearl Harbor,0.61,PG-13,25 May 2001,183 min,"Action, Drama, History, Romance, War",/Pearl-Harbor.html,23.0,5.0,0.0,6.0,1.0,4.0,0.0,0.0,1.0,1.0,0.0,34020.0,41.0,183.0,4.46,2001
+630,630,Peeping Tom,0.77,NOT RATED,15 May 1962,101 min,"Crime, Drama, Horror, Thriller",/Peeping-Tom.html,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,27819.0,1.0,101.0,101.0,1962
+631,631,Peggy Sue Got Married,0.63,PG-13,10 Oct 1986,103 min,"Comedy, Drama, Fantasy, Romance",/Peggy-Sue-Got-Married.html,2.0,0.0,5.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,24695.0,10.0,103.0,10.3,1986
+632,632,Perfect Creature,0.55,R,18 Oct 2007,90 min,"Action, Drama, Fantasy",/Perfect-Creature.html,3.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24579.0,8.0,90.0,11.25,2007
+633,633,Pet Sematary,0.66,R,21 Apr 1989,103 min,"Horror, Thriller",/Pet-Sematary.html,10.0,1.0,4.0,2.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,31425.0,21.0,103.0,4.9,1989
+634,634,Pet Sematary II,0.48,R,28 Aug 1992,100 min,"Fantasy, Horror",/Pet-Sematary-II.html,10.0,4.0,5.0,0.0,0.0,10.0,0.0,2.0,0.0,2.0,0.0,23875.0,33.0,100.0,3.03,1992
+635,635,Petulia,0.73,R,10 Jun 1968,105 min,"Drama, Romance",/Petulia.html,0.0,0.0,7.0,1.0,0.0,1.0,1.0,0.0,1.0,3.0,0.0,22335.0,14.0,105.0,7.5,1968
+636,636,Philadelphia,0.77,PG-13,14 Jan 1994,125 min,Drama,/Philadelphia.html,11.0,6.0,1.0,1.0,3.0,3.0,3.0,0.0,0.0,0.0,0.0,23587.0,28.0,125.0,4.46,1994
+637,637,Phone Booth,0.71,R,04 Apr 2003,81 min,"Crime, Thriller",/Phone-Booth.html,16.0,13.0,7.0,2.0,3.0,7.0,0.0,0.0,0.0,4.0,0.0,18004.0,52.0,81.0,1.56,2003
+638,638,Pi,0.74,R,10 Jul 1998,84 min,"Drama, Horror, Mystery, Sci-Fi, Thriller",/Pi.html,3.0,3.0,9.0,0.0,0.0,1.0,0.0,0.0,0.0,3.0,0.0,15413.0,19.0,84.0,4.42,1998
+639,639,Piano: The Melody of a Young Girl's Heart,0.66,float(0),01 Jan 2002,24 min,"Animation, Romance",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,24.0,24.0,2002
+640,640,Pineapple Express,0.7,R,06 Aug 2008,111 min,"Action, Comedy, Crime",/Pineapple-Express.html,61.0,94.0,1.0,5.0,5.0,5.0,3.0,0.0,2.0,2.0,2.0,23015.0,180.0,111.0,0.62,2008
+641,641,Pirates of the Caribbean: The Curse of the Black Pearl,0.8,PG-13,09 Jul 2003,143 min,"Action, Adventure, Fantasy",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,143.0,143.0,2003
+642,642,Pitch Black,0.71,R,18 Feb 2000,109 min,"Horror, Sci-Fi",/Pitch-Black.html,7.0,8.0,0.0,0.0,2.0,9.0,0.0,0.0,1.0,0.0,0.0,20176.0,27.0,109.0,4.04,2000
+643,643,Platinum Blonde,0.69,PASSED,31 Oct 1931,89 min,"Comedy, Romance",/Platinum-Blonde.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,25152.0,1.0,89.0,89.0,1931
+644,644,Platoon,0.81,R,06 Feb 1987,120 min,"Drama, War",/Platoon.html,99.0,37.0,1.0,7.0,6.0,34.0,6.0,8.0,0.0,2.0,0.0,29845.0,200.0,120.0,0.6,1987
+645,645,Pleasantville,0.75,PG-13,23 Oct 1998,124 min,"Comedy, Drama, Fantasy",/Pleasantville.html,1.0,0.0,1.0,1.0,0.0,0.0,104.0,0.0,0.0,1.0,0.0,32979.0,108.0,124.0,1.15,1998
+646,646,Point Break,0.72,R,12 Jul 1991,122 min,"Action, Crime, Thriller",/Point-Break.html,28.0,20.0,4.0,5.0,5.0,9.0,6.0,1.0,0.0,1.0,0.0,30103.0,79.0,122.0,1.54,1991
+648,648,The Power of One: The Pokemon 2000 Movie Special,0.81,float(0),16 Jul 2000,30 min,float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,30.0,30.0,2000
+649,649,Precious,0.73,R,20 Nov 2009,110 min,Drama,/Precious.html,13.0,5.0,6.0,20.0,0.0,22.0,0.0,0.0,0.0,0.0,0.0,23726.0,66.0,110.0,1.67,2009
+650,650,Predator,0.78,R,12 Jun 1987,107 min,"Action, Adventure, Sci-Fi, Thriller",/Predator.html,9.0,1.0,2.0,4.0,0.0,3.0,0.0,0.0,0.0,1.0,0.0,25166.0,20.0,107.0,5.35,1987
+651,651,Pretty Woman,0.7,R,23 Mar 1990,119 min,"Comedy, Romance",/Pretty-Woman.html,10.0,1.0,1.0,2.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,22611.0,21.0,119.0,5.67,1990
+652,652,Pride and Prejudice,0.89,TV-PG,14 Jan 1996,327 min,"Drama, Romance",/Pride-and-Prejudice.html,0.0,0.0,5.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,25647.0,6.0,327.0,54.5,1996
+653,653,Priest,0.57,PG-13,13 May 2011,87 min,"Action, Adventure, Horror, Sci-Fi",/Priest.html,6.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,25012.0,9.0,87.0,9.67,2011
+654,654,Prom Night,0.39,PG-13,11 Apr 2008,88 min,"Horror, Mystery",/Prom-Night.html,0.0,0.0,4.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,15926.0,7.0,88.0,12.57,2008
+655,655,Prometheus,0.7,R,08 Jun 2012,124 min,"Adventure, Mystery, Sci-Fi",/Prometheus.html,2.0,1.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25523.0,8.0,124.0,15.5,2012
+656,656,Psycho,0.85,R,08 Sep 1960,109 min,"Horror, Mystery, Thriller",/Psycho.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,29736.0,0.0,109.0,inf,1960
+657,657,Public Enemies,0.7,R,01 Jul 2009,140 min,"Biography, Crime, Drama, History, Romance",/Public-Enemies.html,2.0,1.0,5.0,3.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,27213.0,15.0,140.0,9.33,2009
+658,658,Pulp Fiction,0.89,R,14 Oct 1994,154 min,"Crime, Drama",/Pulp-Fiction.html,69.0,34.0,4.0,13.0,2.0,38.0,0.0,0.0,0.0,1.0,0.0,28976.0,161.0,154.0,0.96,1994
+659,659,Punch-Drunk Love,0.73,R,01 Nov 2002,95 min,"Comedy, Drama, Romance, Thriller",/Punch-Drunk-Love.html,6.0,17.0,4.0,0.0,2.0,0.0,2.0,2.0,1.0,0.0,0.0,16532.0,34.0,95.0,2.79,2002
+660,660,Purple Rain,0.65,R,27 Jul 1984,111 min,"Drama, Music, Musical, Romance",/Purple-Rain.html,10.0,8.0,3.0,1.0,2.0,6.0,2.0,0.0,0.0,2.0,0.0,23203.0,34.0,111.0,3.26,1984
+661,661,Quantum Project,0.59,float(0),05 May 2000,40 min,"Short, Adventure, Drama",/Quantum-Project.html,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6039.0,1.0,40.0,40.0,2000
+662,662,Queen of the Damned,0.53,R,22 Feb 2002,101 min,"Drama, Fantasy, Horror",/Queen-of-the-Damned.html,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,28559.0,3.0,101.0,33.67,2002
+663,663,Prom Queen: The Marc Hall Story,0.67,float(0),01 Jun 2004,92 min,"Comedy, Drama",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,92.0,92.0,2004
+664,664,Rachel Getting Married,0.67,R,07 Nov 2008,113 min,"Drama, Romance",/Rachel-Getting-Married.html,7.0,3.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,1.0,0.0,19011.0,16.0,113.0,7.06,2008
+665,665,Raging Bull,0.82,R,19 Dec 1980,129 min,"Biography, Drama, Sport",/Raging-Bull.html,4.0,19.0,0.0,1.0,1.0,9.0,0.0,0.0,3.0,0.0,0.0,23211.0,37.0,129.0,3.49,1980
+666,666,Raising Arizona,0.74,PG-13,17 Apr 1987,94 min,"Comedy, Crime",/Raising-Arizona.html,11.0,0.0,13.0,6.0,0.0,5.0,2.0,0.0,0.0,0.0,0.0,25889.0,37.0,94.0,2.54,1987
+667,667,Rambling Rose,0.67,R,20 Sep 1991,112 min,Drama,/Rambling-Rose.html,3.0,0.0,12.0,11.0,0.0,4.0,0.0,0.0,0.0,3.0,0.0,34589.0,33.0,112.0,3.39,1991
+668,668,Real Genius,0.7,PG,07 Aug 1985,108 min,"Comedy, Romance, Sci-Fi",/Real-Genius.html,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,22798.0,10.0,108.0,10.8,1985
+669,669,Rear Window,0.85,PG,01 Sep 1954,112 min,"Mystery, Thriller",/Rear-Window.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,37778.0,0.0,112.0,inf,1954
+670,670,Rebel Without a Cause,0.78,PG-13,29 Oct 1955,111 min,Drama,float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,111.0,111.0,1955
+671,671,Red Planet,0.57,PG-13,10 Nov 2000,106 min,"Action, Sci-Fi, Thriller",/Red-Planet.html,4.0,12.0,17.0,4.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,23319.0,40.0,106.0,2.65,2000
+672,672,Red Riding Hood,0.55,PG-13,11 Mar 2011,100 min,"Fantasy, Horror, Mystery, Romance, Thriller",/Red-Riding-Hood.html,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,0.0,28439.0,4.0,100.0,25.0,2011
+673,673,Reindeer Games,0.57,R,25 Feb 2000,104 min,"Action, Adventure, Crime, Drama, Thriller",/Reindeer-Games.html,14.0,19.0,6.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,27011.0,42.0,104.0,2.48,2000
+674,674,Remember Me,0.71,PG-13,12 Mar 2010,113 min,"Drama, Romance",/Remember-Me.html,7.0,2.0,2.0,1.0,6.0,6.0,1.0,0.0,0.0,0.0,0.0,20722.0,25.0,113.0,4.52,2010
+675,675,Repo Man,0.69,R,02 Mar 1984,92 min,"Comedy, Crime, Sci-Fi, Thriller",/Repo-Man.html,28.0,21.0,17.0,0.0,7.0,2.0,0.0,2.0,0.0,1.0,1.0,12908.0,79.0,92.0,1.16,1984
+676,676,Reservoir Dogs,0.83,R,02 Sep 1992,99 min,"Crime, Drama, Thriller",/Reservoir-Dogs.html,55.0,62.0,1.0,9.0,7.0,20.0,20.0,5.0,0.0,8.0,0.0,20443.0,187.0,99.0,0.53,1992
+677,677,Resident Evil,0.67,R,15 Mar 2002,100 min,"Action, Horror, Sci-Fi",/Resident-Evil.html,30.0,6.0,6.0,0.0,3.0,6.0,0.0,0.0,0.0,0.0,0.0,24091.0,51.0,100.0,1.96,2002
+678,678,Revolutionary Road,0.73,R,23 Jan 2009,119 min,"Drama, Romance",/Revolutionary-Road.html,1.0,5.0,12.0,0.0,0.0,3.0,0.0,0.0,0.0,1.0,0.0,17846.0,22.0,119.0,5.41,2009
+679,679,Ringu,0.73,NOT RATED,31 Jan 1998,96 min,"Horror, Mystery",/Ringu.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16823.0,0.0,96.0,inf,1998
+680,680,Rise of the Guardians,0.73,PG,21 Nov 2012,97 min,"Animation, Adventure, Family, Fantasy, Thriller",/Rise-of-the-Guardians.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,28717.0,0.0,97.0,inf,2012
+681,681,Rise of the Planet of the Apes,0.76,PG-13,05 Aug 2011,105 min,"Action, Drama, Sci-Fi, Thriller",/Rise-of-the-Planet-of-the-Apes.html,0.0,0.0,3.0,2.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,23142.0,8.0,105.0,13.12,2011
+682,682,RKO 281,0.71,R,20 Nov 1999,86 min,"Biography, Drama",/RKO-281.html,9.0,16.0,4.0,3.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,23968.0,34.0,86.0,2.53,1999
+683,683,Revelation Road: The Beginning of the End,0.5,NOT RATED,01 Mar 2013,88 min,Action,float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,88.0,88.0,2013
+684,684,Rock the Kasbah,0.55,R,23 Oct 2015,106 min,"Comedy, Music, War",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,106.0,106.0,2015
+685,685,RocknRolla,0.73,R,31 Oct 2008,114 min,"Action, Crime, Thriller",/RocknRolla.html,11.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,7.0,0.0,25114.0,30.0,114.0,3.8,2008
+686,686,Rocky,0.81,PG,03 Dec 1976,120 min,"Drama, Sport",/Rocky.html,0.0,1.0,7.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,22955.0,11.0,120.0,10.91,1976
+687,687,Romeo,0.71,float(0),13 Apr 1990,94 min,Drama,float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,94.0,94.0,1990
+688,688,Ronin,0.73,R,25 Sep 1998,122 min,"Action, Adventure, Crime, Thriller",/Ronin.html,9.0,13.0,1.0,5.0,1.0,6.0,0.0,0.0,0.0,1.0,0.0,28386.0,36.0,122.0,3.39,1998
+689,689,Room,0.82,R,22 Jan 2016,118 min,"Drama, Thriller",/Room.html,3.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,23547.0,7.0,118.0,16.86,2016
+690,690,My Roommate the,0.85,float(0),01 Mar 2010,8 min,Comedy,float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,8.0,8.0,2010
+691,691,Roughshod,0.67,PASSED,11 May 1949,88 min,"Action, Adventure, Drama",/Roughshod.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,29860.0,0.0,88.0,inf,1949
+692,692,City of Ruins: The Halifax Explosion,0.67,float(0),28 Oct 2003,60 min,Documentary,float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,60.0,60.0,2003
+693,693,Runaway Bride,0.55,PG,30 Jul 1999,116 min,"Comedy, Romance",/Runaway-Bride.html,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,25732.0,4.0,116.0,29.0,1999
+694,694,Rush,0.81,R,27 Sep 2013,123 min,"Action, Biography, Drama, Sport",/Rush.html,2.0,5.0,0.0,0.0,11.0,2.0,0.0,0.0,0.0,1.0,0.0,22306.0,21.0,123.0,5.86,2013
+695,695,Rush Hour,0.7,PG-13,18 Sep 1998,98 min,"Action, Comedy, Crime, Thriller",/Rush-Hour.html,26.0,8.0,6.0,3.0,13.0,6.0,0.0,0.0,0.0,1.0,0.0,27818.0,63.0,98.0,1.56,1998
+696,696,Rush Hour 2,0.66,PG-13,03 Aug 2001,90 min,"Action, Comedy, Crime, Thriller",/Rush-Hour-2.html,21.0,0.0,6.0,1.0,0.0,17.0,1.0,0.0,0.0,1.0,0.0,19347.0,47.0,90.0,1.91,2001
+697,697,Rust and Bone,0.75,R,17 May 2012,120 min,"Drama, Romance",/Rust-and-Bone.html,11.0,10.0,1.0,3.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,21883.0,29.0,120.0,4.14,2012
+698,698,S. Darko,0.36,R,21 Aug 2009,103 min,"Mystery, Sci-Fi, Thriller",/S.-Darko.html,14.0,19.0,0.0,2.0,2.0,5.0,0.0,0.0,0.0,2.0,0.0,24310.0,44.0,103.0,2.34,2009
+700,700,Save the Last Dance,0.62,PG-13,12 Jan 2001,112 min,"Drama, Music, Romance",/Save-the-Last-Dance.html,53.0,17.0,4.0,12.0,4.0,22.0,1.0,0.0,0.0,0.0,0.0,26713.0,113.0,112.0,0.99,2001
+701,701,Saving Mr. Banks,0.75,PG-13,20 Dec 2013,125 min,"Biography, Comedy, Drama, Family, Music",/Saving-Mr.-Banks.html,0.0,0.0,1.0,0.0,0.0,0.0,128.0,0.0,0.0,0.0,0.0,24174.0,129.0,125.0,0.97,2013
+702,702,Saving Private Ryan,0.86,R,24 Jul 1998,169 min,"Drama, War",/Saving-Private-Ryan.html,10.0,8.0,8.0,4.0,2.0,5.0,0.0,0.0,0.0,5.0,0.0,23201.0,42.0,169.0,4.02,1998
+703,703,Saw,0.76,R,29 Oct 2004,103 min,"Horror, Mystery",/Saw.html,13.0,18.0,2.0,2.0,2.0,0.0,0.0,0.0,0.0,8.0,0.0,25580.0,45.0,103.0,2.29,2004
+704,704,Scarface,0.83,R,09 Dec 1983,170 min,"Crime, Drama",/Scarface.html,35.0,67.0,0.0,1.0,4.0,18.0,1.0,3.0,1.0,0.0,0.0,37231.0,130.0,170.0,1.31,1983
+705,705,Schindler's List,0.89,R,04 Feb 1994,195 min,"Biography, Drama, History",/Schindler's-List.html,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30532.0,2.0,195.0,97.5,1994
+706,706,Scott Pilgrim vs. the World,0.75,PG-13,13 Aug 2010,112 min,"Action, Comedy, Fantasy, Romance",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,112.0,112.0,2010
+707,707,Scream,0.72,R,20 Dec 1996,111 min,"Horror, Mystery",/Scream.html,24.0,18.0,2.0,4.0,3.0,5.0,0.0,0.0,0.0,0.0,0.0,22777.0,56.0,111.0,1.98,1996
+708,708,Scream 2,0.61,R,12 Dec 1997,120 min,"Horror, Mystery",/Scream-2.html,23.0,2.0,0.0,5.0,2.0,4.0,0.0,0.0,0.0,0.0,0.0,21245.0,36.0,120.0,3.33,1997
+709,709,Scream 3,0.56,R,04 Feb 2000,116 min,"Horror, Mystery",/Scream-3.html,29.0,14.0,7.0,3.0,2.0,5.0,0.0,1.0,1.0,2.0,0.0,19101.0,64.0,116.0,1.81,2000
+710,710,Se7en,0.86,R,22 Sep 1995,127 min,"Crime, Drama, Mystery, Thriller",/Se7en.html,6.0,25.0,4.0,3.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,35452.0,41.0,127.0,3.1,1995
+711,711,Semi-Pro,0.58,R,29 Feb 2008,91 min,"Comedy, Sport",/Semi-Pro.html,25.0,12.0,9.0,1.0,6.0,10.0,3.0,1.0,1.0,0.0,0.0,24217.0,68.0,91.0,1.34,2008
+712,712,Sense and Sensibility,0.77,PG,26 Jan 1996,136 min,"Drama, Romance",/Sense-and-Sensibility.html,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,28230.0,2.0,136.0,68.0,1996
+713,713,Serenity,0.79,PG-13,30 Sep 2005,119 min,"Action, Adventure, Sci-Fi, Thriller",/Serenity.html,1.0,0.0,3.0,0.0,0.0,3.0,0.0,0.0,0.0,1.0,0.0,26853.0,8.0,119.0,14.88,2005
+714,714,Serial Mom,0.67,R,13 Apr 1994,95 min,"Comedy, Crime, Thriller",/Serial-Mom.html,4.0,8.0,3.0,4.0,2.0,0.0,1.0,7.0,2.0,1.0,0.0,20013.0,32.0,95.0,2.97,1994
+715,715,Sex and the City,0.56,R,30 May 2008,145 min,"Comedy, Drama, Romance",/Sex-and-the-City.html,6.0,3.0,1.0,1.0,1.0,3.0,5.0,0.0,0.0,0.0,0.0,31958.0,20.0,145.0,7.25,2008
+716,716,"Sex, Lies, and Videotape",0.72,R,22 Sep 1989,100 min,Drama,float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,100.0,100.0,1989
+717,717,Sexual Life,0.51,R,19 Jun 2004,96 min,"Comedy, Drama",/Sexual-Life.html,5.0,5.0,2.0,0.0,1.0,4.0,0.0,0.0,5.0,0.0,0.0,16881.0,22.0,96.0,4.36,2004
+718,718,Shakespeare in Love,0.71,R,08 Jan 1999,123 min,"Comedy, Drama, History, Romance",/Shakespeare-in-Love.html,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,23744.0,1.0,123.0,123.0,1999
+719,719,Shallow Grave,0.73,R,10 Feb 1995,89 min,"Crime, Thriller",/Shallow-Grave.html,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,14165.0,3.0,89.0,29.67,1995
+720,720,Shame,0.72,NC-17,13 Jan 2012,101 min,Drama,/Shame.html,6.0,27.0,0.0,1.0,3.0,7.0,1.0,1.0,1.0,0.0,0.0,16141.0,47.0,101.0,2.15,2012
+721,721,Shampoo,0.63,R,13 Mar 1975,109 min,"Comedy, Drama",/Shampoo.html,14.0,17.0,2.0,4.0,1.0,5.0,0.0,0.0,1.0,3.0,0.0,24171.0,47.0,109.0,2.32,1975
+722,722,She's Out of My League,0.64,R,12 Mar 2010,104 min,"Comedy, Romance",/She's-Out-of-My-League.html,28.0,17.0,3.0,6.0,0.0,10.0,6.0,2.0,1.0,1.0,1.0,24021.0,75.0,104.0,1.39,2010
+723,723,Sherlock Holmes,0.76,PG-13,25 Dec 2009,128 min,"Action, Adventure, Crime, Mystery, Thriller",/Sherlock-Holmes.html,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,31451.0,3.0,128.0,42.67,2009
+724,724,Shifty,0.65,UNRATED,24 Apr 2009,85 min,Thriller,/Shifty.html,10.0,58.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15835.0,68.0,85.0,1.25,2009
+726,726,Shivers,0.65,R,06 Jul 1976,87 min,"Horror, Sci-Fi",/Shivers.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20607.0,0.0,87.0,inf,1976
+727,727,Shrek,0.79,PG,18 May 2001,90 min,"Animation, Adventure, Comedy, Family, Fantasy",/Shrek.html,0.0,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,13530.0,4.0,90.0,22.5,2001
+728,728,Shrek the Third,0.61,PG,18 May 2007,93 min,"Animation, Adventure, Comedy, Family, Fantasy",/Shrek-the-Third.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22305.0,0.0,93.0,inf,2007
+729,729,Sicario,0.76,R,02 Oct 2015,121 min,"Action, Crime, Drama, Mystery, Thriller",/Sicario.html,8.0,13.0,2.0,0.0,0.0,3.0,0.0,0.0,1.0,0.0,0.0,20732.0,27.0,121.0,4.48,2015
+730,730,Sideways,0.75,R,21 Jan 2005,127 min,"Comedy, Drama, Romance",/Sideways.html,11.0,31.0,2.0,2.0,3.0,3.0,1.0,0.0,2.0,1.0,0.0,25684.0,56.0,127.0,2.27,2005
+731,731,Signs,0.67,PG-13,02 Aug 2002,106 min,"Drama, Mystery, Sci-Fi, Thriller",/Signs.html,1.0,0.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,0.0,3.0,23175.0,9.0,106.0,11.78,2002
+732,732,Silence of the Lambs,0.71,float(0),07 May 2002,float(0),Documentary,/Silence-of-the-Lambs.html,9.0,3.0,4.0,4.0,1.0,1.0,1.0,1.0,3.0,2.0,0.0,31730.0,29.0,1.0,0.03,2002
+733,733,Silver Bullet,0.64,R,11 Oct 1985,95 min,Horror,/Silver-Bullet.html,10.0,3.0,7.0,1.0,0.0,5.0,0.0,0.0,0.0,9.0,0.0,27458.0,35.0,95.0,2.71,1985
+734,734,Silver Linings Playbook,0.77,R,25 Dec 2012,122 min,"Comedy, Drama, Romance",/Silver-Linings-Playbook.html,20.0,23.0,2.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,26686.0,49.0,122.0,2.49,2012
+735,735,Simone,0.59,NOT RATED,24 Jun 2013,72 min,"Biography, Drama",/Simone.html,1.0,0.0,4.0,3.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,26872.0,9.0,72.0,8.0,2013
+736,736,Single White Female,0.63,R,14 Aug 1992,107 min,"Drama, Thriller",/Single-White-Female.html,3.0,1.0,1.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,29443.0,9.0,107.0,11.89,1992
+737,737,Sister Act,0.63,PG,29 May 1992,100 min,"Comedy, Crime, Family, Music",/Sister-Act.html,0.0,1.0,4.0,3.0,1.0,3.0,0.0,0.0,0.0,1.0,0.0,26461.0,13.0,100.0,7.69,1992
+738,738,Six Degrees of Separation,0.69,R,08 Dec 1993,112 min,"Comedy, Drama, Mystery",/Six-Degrees-of-Separation.html,2.0,6.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,27540.0,11.0,112.0,10.18,1993
+739,739,Sleepless in Seattle,0.68,PG,25 Jun 1993,105 min,"Comedy, Drama, Romance",/Sleepless-in-Seattle.html,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20926.0,2.0,105.0,52.5,1993
+740,740,Sleepy Hollow,0.74,R,19 Nov 1999,105 min,"Fantasy, Horror, Mystery",/Sleepy-Hollow.html,0.0,0.0,10.0,2.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,25461.0,15.0,105.0,7.0,1999
+741,741,Sling Blade,0.8,R,14 Mar 1997,135 min,Drama,/Sling-Blade.html,11.0,2.0,5.0,6.0,1.0,8.0,1.0,2.0,0.0,2.0,0.0,22453.0,38.0,135.0,3.55,1997
+742,742,Slither,0.65,R,31 Mar 2006,95 min,"Comedy, Horror, Sci-Fi",/Slither.html,18.0,8.0,6.0,3.0,1.0,3.0,0.0,2.0,0.0,2.0,0.0,23397.0,43.0,95.0,2.21,2006
+743,743,Slumdog Millionaire,0.8,R,25 Dec 2008,120 min,"Drama, Romance",/Slumdog-Millionaire.html,11.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,26855.0,15.0,120.0,8.0,2008
+744,744,Smashed,0.68,R,14 Dec 2012,81 min,Drama,/Smashed.html,16.0,22.0,4.0,6.0,2.0,2.0,1.0,3.0,0.0,1.0,0.0,18501.0,57.0,81.0,1.42,2012
+745,745,Smokin' Aces,0.67,R,26 Jan 2007,108 min,"Action, Crime, Drama, Thriller",/Smokin'-Aces.html,42.0,22.0,9.0,4.0,2.0,14.0,0.0,7.0,2.0,2.0,0.0,30452.0,104.0,108.0,1.04,2007
+746,746,Snatch,0.83,R,19 Jan 2001,102 min,"Comedy, Crime",/Snatch.html,9.0,40.0,0.0,0.0,0.0,1.0,2.0,3.0,0.0,15.0,0.0,23730.0,70.0,102.0,1.46,2001
+747,747,Sneakers,0.71,PG-13,11 Sep 1992,126 min,"Comedy, Crime, Drama, Mystery, Thriller",/Sneakers.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,0.0,126.0,inf,1992
+748,748,Snow Falling on Cedars,0.68,PG-13,07 Jan 2000,127 min,"Drama, Mystery, Romance",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,127.0,127.0,2000
+749,749,Snow White and the Huntsman,0.61,PG-13,01 Jun 2012,127 min,"Action, Adventure, Drama, Fantasy",/Snow-White-and-the-Huntsman.html,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,26659.0,4.0,127.0,31.75,2012
+750,750,So I Married an Axe Murderer,0.64,PG-13,30 Jul 1993,93 min,"Comedy, Romance",/So-I-Married-an-Axe-Murderer.html,6.0,1.0,1.0,4.0,3.0,5.0,0.0,0.0,0.0,1.0,0.0,20583.0,21.0,93.0,4.43,1993
+751,751,Solaris,0.62,PG-13,27 Nov 2002,99 min,"Drama, Mystery, Romance, Sci-Fi",/Solaris.html,1.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,12857.0,7.0,99.0,14.14,2002
+752,752,Soldier,0.6,R,23 Oct 1998,99 min,"Action, Drama, Sci-Fi",/Soldier.html,10.0,4.0,4.0,0.0,0.0,11.0,0.0,1.0,0.0,0.0,0.0,33070.0,30.0,99.0,3.3,1998
+753,753,Someone to Watch Over Me,0.61,R,09 Oct 1987,106 min,"Crime, Drama, Romance",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,106.0,106.0,1987
+754,754,Something's Gotta Give,0.67,PG-13,12 Dec 2003,128 min,"Comedy, Drama, Romance",/Something's-Gotta-Give.html,5.0,3.0,2.0,2.0,0.0,7.0,1.0,0.0,0.0,0.0,0.0,27732.0,20.0,128.0,6.4,2003
+755,755,Source Code,0.75,PG-13,01 Apr 2011,93 min,"Sci-Fi, Thriller",/Source-Code.html,5.0,3.0,1.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,22819.0,13.0,93.0,7.15,2011
+756,756,South Park,0.87,TV-MA,13 Aug 1997,22 min,"Animation, Comedy",/South-Park.html,23.0,44.0,13.0,20.0,3.0,24.0,2.0,3.0,5.0,5.0,0.0,26547.0,142.0,22.0,0.15,1997
+757,757,Space Milkshake,0.68,NOT RATED,15 Feb 2013,85 min,"Comedy, Sci-Fi",/Space-Milkshake.html,1.0,1.0,3.0,2.0,0.0,1.0,0.0,1.0,0.0,2.0,0.0,18184.0,11.0,85.0,7.73,2013
+758,758,Spanglish,0.64,PG-13,17 Dec 2004,131 min,"Comedy, Drama, Romance",/Spanglish.html,2.0,0.0,10.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,29203.0,15.0,131.0,8.73,2004
+759,759,Spare Me,0.67,float(0),03 Sep 1994,float(0),Thriller,/Spare-Me.html,2.0,6.0,0.0,1.0,0.0,2.0,1.0,0.0,0.0,1.0,0.0,16831.0,13.0,1.0,0.08,1994
+760,760,Spartan,0.66,R,12 Mar 2004,106 min,"Action, Crime, Drama, Mystery, Thriller",/Spartan.html,2.0,14.0,0.0,4.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,30372.0,22.0,106.0,4.82,2004
+761,761,Speed,0.72,R,10 Jun 1994,116 min,"Action, Adventure, Crime, Thriller",/Speed.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,0.0,116.0,inf,1994
+762,762,Speed Racer,0.6,PG,09 May 2008,135 min,"Action, Adventure, Comedy, Drama, Family, Sci-Fi, Sport",/Speed-Racer.html,0.0,0.0,1.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,29939.0,7.0,135.0,19.29,2008
+763,763,Sphere,0.61,PG-13,13 Feb 1998,134 min,"Drama, Horror, Mystery, Sci-Fi, Thriller",/Sphere.html,13.0,5.0,13.0,1.0,0.0,1.0,1.0,2.0,0.0,1.0,0.0,24193.0,37.0,134.0,3.62,1998
+764,764,Spider-Man,0.73,PG-13,03 May 2002,121 min,"Action, Adventure, Sci-Fi",/Spider-Man.html,1.0,0.0,6.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,26289.0,9.0,121.0,13.44,2002
+765,765,St. Elmo's Fire,0.64,R,28 Jun 1985,110 min,"Drama, Romance",/St.-Elmo's-Fire.html,15.0,3.0,1.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,22465.0,23.0,110.0,4.78,1985
+766,766,Star Trek,0.8,PG-13,08 May 2009,127 min,"Action, Adventure, Sci-Fi",/Star-Trek.html,11.0,3.0,12.0,2.0,0.0,7.0,0.0,0.0,0.0,3.0,0.0,33222.0,38.0,127.0,3.34,2009
+767,767,Starman,0.7,PG,14 Dec 1984,115 min,"Romance, Sci-Fi",/Starman.html,9.0,0.0,4.0,1.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,30391.0,18.0,115.0,6.39,1984
+768,768,Starship Troopers,0.72,R,07 Nov 1997,129 min,"Action, Adventure, Sci-Fi, Thriller",/Starship-Troopers.html,0.0,0.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,24285.0,4.0,129.0,32.25,1997
+769,769,State and Main,0.68,R,12 Jan 2001,105 min,"Comedy, Drama",/State-and-Main.html,2.0,3.0,2.0,1.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,22953.0,13.0,105.0,8.08,2001
+770,770,Station West,0.67,APPROVED,16 Oct 1948,87 min,"Action, Mystery, Romance",/Station-West.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25705.0,0.0,87.0,inf,1948
+771,771,Stepmom,0.67,PG-13,25 Dec 1998,125 min,"Comedy, Drama",/Stepmom.html,7.0,4.0,5.0,3.0,2.0,2.0,3.0,0.0,0.0,0.0,0.0,28482.0,26.0,125.0,4.81,1998
+773,773,Stir of Echoes,0.7,R,10 Sep 1999,99 min,"Horror, Mystery, Thriller",/Stir-of-Echoes.html,10.0,11.0,3.0,3.0,3.0,5.0,0.0,0.0,0.0,0.0,0.0,26515.0,35.0,99.0,2.83,1999
+774,774,Storytelling,0.69,R,08 Nov 2001,87 min,"Comedy, Drama, Romance",/Storytelling.html,5.0,19.0,1.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,9125.0,29.0,87.0,3.0,2001
+775,775,Straight Outta Compton,0.79,R,14 Aug 2015,147 min,"Biography, Drama, History, Music",/Straight-Outta-Compton.html,150.0,96.0,20.0,6.0,2.0,35.0,4.0,7.0,0.0,11.0,0.0,33230.0,331.0,147.0,0.44,2015
+776,776,Strange Days,0.72,R,13 Oct 1995,145 min,"Action, Crime, Drama, Sci-Fi, Thriller",/Strange-Days.html,31.0,13.0,6.0,6.0,2.0,7.0,0.0,1.0,0.0,1.0,0.0,36167.0,67.0,145.0,2.16,1995
+777,777,Strangers on a Train,0.8,PG,30 Jun 1951,101 min,"Crime, Film-Noir, Thriller",/Strangers-on-a-Train.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,29058.0,0.0,101.0,inf,1951
+778,778,Sugar,0.72,R,24 Apr 2009,114 min,"Drama, Sport",/Sugar.html,14.0,5.0,2.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,25027.0,24.0,114.0,4.75,2009
+779,779,Sugar and Spice,0.81,float(0),06 Apr 1989,25 min,"Comedy, Drama, Family",/Sugar-and-Spice.html,27.0,6.0,1.0,5.0,0.0,19.0,1.0,0.0,0.0,1.0,0.0,18508.0,60.0,25.0,0.42,1989
+781,781,Sunshine Cleaning,0.69,R,17 Apr 2009,91 min,"Comedy, Drama",/Sunshine-Cleaning.html,17.0,5.0,5.0,0.0,1.0,4.0,1.0,1.0,0.0,7.0,0.0,22711.0,41.0,91.0,2.22,2009
+782,782,Super 8,0.7,PG-13,10 Jun 2011,112 min,"Mystery, Sci-Fi, Thriller",/Super-8.html,19.0,2.0,3.0,1.0,2.0,4.0,2.0,4.0,0.0,0.0,1.0,26518.0,38.0,112.0,2.95,2011
+783,783,Superbad,0.76,R,17 Aug 2007,113 min,Comedy,/Superbad.html,67.0,51.0,2.0,6.0,5.0,21.0,19.0,10.0,3.0,3.0,3.0,23919.0,190.0,113.0,0.59,2007
+785,785,Supergirl,0.65,TV-PG,26 Oct 2015,43 min,"Action, Adventure, Drama, Sci-Fi",/Supergirl.html,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,26289.0,2.0,43.0,21.5,2015
+786,786,Surrogates,0.63,PG-13,25 Sep 2009,89 min,"Action, Sci-Fi, Thriller",/Surrogates.html,1.0,0.0,5.0,1.0,2.0,5.0,0.0,0.0,0.0,1.0,0.0,24929.0,15.0,89.0,5.93,2009
+787,787,Suspect Zero,0.59,R,27 Aug 2004,99 min,"Crime, Horror, Mystery, Thriller",/Suspect-Zero.html,11.0,13.0,2.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,30652.0,30.0,99.0,3.3,2004
+788,788,Sweet Smell of Success,0.82,NOT RATED,04 Jul 1957,96 min,"Drama, Film-Noir",/Sweet-Smell-of-Success.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,37942.0,0.0,96.0,inf,1957
+789,789,Swingers,0.73,R,11 Apr 1997,96 min,"Comedy, Drama",/Swingers.html,22.0,9.0,2.0,26.0,12.0,4.0,3.0,0.0,0.0,0.0,0.0,17915.0,78.0,96.0,1.23,1997
+790,790,Swordfish,0.65,R,08 Jun 2001,99 min,"Action, Crime, Thriller",/Swordfish.html,16.0,14.0,1.0,2.0,1.0,10.0,2.0,0.0,2.0,0.0,0.0,20964.0,48.0,99.0,2.06,2001
+791,791,"Synecdoche, New York",0.75,R,21 Nov 2008,124 min,"Comedy, Drama","/Synecdoche,-New-York.html",5.0,19.0,0.0,0.0,1.0,4.0,0.0,2.0,0.0,0.0,0.0,28291.0,31.0,124.0,4.0,2008
+792,792,Syriana,0.69,R,09 Dec 2005,128 min,"Drama, Thriller",/Syriana.html,12.0,8.0,2.0,0.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,29622.0,26.0,128.0,4.92,2005
+793,793,Take Shelter,0.74,R,10 Nov 2011,120 min,"Drama, Horror, Thriller",/Take-Shelter.html,11.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,20887.0,14.0,120.0,8.57,2011
+794,794,Taking Lives,0.62,R,19 Mar 2004,103 min,"Crime, Mystery, Thriller",/Taking-Lives.html,11.0,5.0,2.0,2.0,3.0,3.0,2.0,0.0,0.0,0.0,0.0,22071.0,28.0,103.0,3.68,2004
+795,795,Taking Sides,0.72,NOT RATED,07 Mar 2002,108 min,"Drama, Music, War",/Taking-Sides.html,4.0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,15737.0,10.0,108.0,10.8,2002
+796,796,Tall in the Saddle,0.71,APPROVED,29 Sep 1944,87 min,"Mystery, Romance, Western",/Tall-in-the-Saddle.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30789.0,0.0,87.0,inf,1944
+797,797,Tamara Drewe,0.62,R,10 Sep 2010,107 min,"Comedy, Drama, Romance",/Tamara-Drewe.html,11.0,22.0,1.0,2.0,2.0,0.0,1.0,0.0,2.0,5.0,0.0,24297.0,46.0,107.0,2.33,2010
+798,798,Taxi Driver,0.83,R,08 Feb 1976,114 min,"Crime, Drama",/Taxi-Driver.html,8.0,13.0,7.0,2.0,2.0,2.0,0.0,3.0,1.0,1.0,0.0,25631.0,39.0,114.0,2.92,1976
+799,799,Ted,0.69,R,29 Jun 2012,106 min,"Comedy, Fantasy, Romance",/Ted.html,39.0,31.0,0.0,1.0,11.0,8.0,2.0,1.0,4.0,2.0,1.0,27892.0,100.0,106.0,1.06,2012
+801,801,Terminator Salvation,0.66,PG-13,21 May 2009,115 min,"Action, Adventure, Sci-Fi",/Terminator-Salvation.html,5.0,2.0,4.0,1.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,25096.0,15.0,115.0,7.67,2009
+802,802,Thelma,0.7,NOT RATED,15 Sep 2017,116 min,"Drama, Fantasy, Horror, Mystery, Romance, Thriller",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,116.0,116.0,2017
+803,803,There's Something About Mary,0.71,R,15 Jul 1998,119 min,"Comedy, Romance",/There's-Something-About-Mary.html,21.0,23.0,2.0,4.0,2.0,7.0,2.0,2.0,3.0,0.0,0.0,23732.0,66.0,119.0,1.8,1998
+804,804,They,0.48,PG-13,27 Nov 2002,89 min,"Horror, Mystery, Thriller",/They.html,7.0,3.0,3.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,23317.0,16.0,89.0,5.56,2002
+805,805,Next Big Thing: The 2 Skinnee J's Farewell Show,0.82,float(0),18 Jul 2005,120 min,Music,float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,120.0,120.0,2005
+806,806,Thirteen Days,0.73,PG-13,12 Jan 2001,145 min,"Drama, History, Thriller",/Thirteen-Days.html,12.0,0.0,5.0,0.0,1.0,9.0,0.0,0.0,0.0,2.0,0.0,34918.0,29.0,145.0,5.0,2001
+807,807,This Boy's Life,0.73,R,23 Apr 1993,115 min,"Biography, Drama",/This-Boy's-Life.html,10.0,9.0,11.0,2.0,0.0,6.0,2.0,6.0,0.0,1.0,0.0,27551.0,47.0,115.0,2.45,1993
+808,808,This Is 40,0.62,R,21 Dec 2012,134 min,"Comedy, Romance",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,134.0,134.0,2012
+809,809,Thor,0.7,PG-13,06 May 2011,115 min,"Action, Adventure, Fantasy, Sci-Fi",/Thor.html,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,32066.0,4.0,115.0,28.75,2011
+810,810,Thor: Ragnarok,0.79,PG-13,03 Nov 2017,130 min,"Action, Adventure, Comedy, Fantasy, Sci-Fi",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,130.0,130.0,2017
+811,811,Three Kings,0.71,R,01 Oct 1999,114 min,"Action, Adventure, Comedy, Drama, War",/Three-Kings.html,17.0,18.0,3.0,1.0,0.0,14.0,4.0,0.0,0.0,0.0,0.0,26367.0,57.0,114.0,2.0,1999
+813,813,Thunderbirds,0.42,PG,30 Jul 2004,95 min,"Action, Adventure, Comedy",/Thunderbirds.html,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,12433.0,3.0,95.0,31.67,2004
+814,814,Thunderheart,0.68,R,03 Apr 1992,119 min,"Crime, Mystery, Thriller",/Thunderheart.html,19.0,12.0,5.0,1.0,1.0,10.0,0.0,0.0,0.0,0.0,0.0,31283.0,48.0,119.0,2.48,1992
+815,815,Ticker,0.36,R,23 Jun 2001,92 min,"Action, Crime, Thriller",/Ticker.html,11.0,10.0,2.0,2.0,1.0,0.0,0.0,2.0,0.0,1.0,0.0,16061.0,29.0,92.0,3.17,2001
+816,816,Timber Falls,0.53,R,23 May 2008,100 min,"Horror, Thriller",/Timber-Falls.html,6.0,19.0,4.0,3.0,2.0,3.0,0.0,0.0,0.0,1.0,0.0,22026.0,38.0,100.0,2.63,2008
+818,818,Tin Cup,0.63,R,16 Aug 1996,135 min,"Comedy, Drama, Romance, Sport",/Tin-Cup.html,16.0,7.0,11.0,1.0,2.0,21.0,1.0,2.0,0.0,1.0,0.0,27495.0,62.0,135.0,2.18,1996
+819,819,Tin Men,0.65,R,13 Mar 1987,112 min,"Comedy, Drama",/Tin-Men.html,10.0,8.0,11.0,14.0,4.0,11.0,0.0,0.0,0.0,0.0,0.0,32194.0,58.0,112.0,1.93,1987
+820,820,Tinker Tailor Soldier Spy,0.71,R,06 Jan 2012,122 min,"Drama, Mystery, Thriller",/Tinker-Tailor-Soldier-Spy.html,0.0,3.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,26724.0,14.0,122.0,8.71,2012
+821,821,Titanic,0.78,PG-13,19 Dec 1997,194 min,"Drama, Romance",/Titanic.html,9.0,0.0,7.0,1.0,0.0,1.0,0.0,0.0,0.0,4.0,0.0,44596.0,22.0,194.0,8.82,1997
+822,822,TMNT,0.63,PG,23 Mar 2007,103 min,"Animation, Action, Adventure, Comedy, Family, Fantasy, Sci-Fi",/TMNT.html,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,1.0,0.0,0.0,23482.0,5.0,103.0,20.6,2007
+823,823,To Sleep with Anger,0.71,PG,12 Oct 1990,102 min,Drama,/To-Sleep-with-Anger.html,0.0,0.0,9.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,23779.0,14.0,102.0,7.29,1990
+824,824,Tombstone,0.78,R,25 Dec 1993,130 min,"Action, Biography, Drama, History, Romance, Western",/Tombstone.html,1.0,0.0,23.0,5.0,0.0,4.0,1.0,0.0,0.0,4.0,0.0,31705.0,38.0,130.0,3.42,1993
+825,825,Tomorrow Never Dies,0.65,PG-13,19 Dec 1997,119 min,"Action, Adventure, Thriller",/Tomorrow-Never-Dies.html,0.0,0.0,5.0,0.0,0.0,1.0,0.0,0.0,0.0,3.0,0.0,34361.0,9.0,119.0,13.22,1997
+826,826,Top Gun,0.69,PG,16 May 1986,110 min,"Action, Drama",/Top-Gun.html,14.0,0.0,5.0,5.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,25428.0,27.0,110.0,4.07,1986
+827,827,Total Recall,0.75,R,01 Jun 1990,113 min,"Action, Sci-Fi, Thriller",/Total-Recall.html,4.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,0.0,19750.0,10.0,113.0,11.3,1990
+828,828,Toy Story,0.83,G,22 Nov 1995,81 min,"Animation, Adventure, Comedy, Family, Fantasy",/Toy-Story.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22506.0,0.0,81.0,inf,1995
+829,829,Traffic,0.76,R,05 Jan 2001,147 min,"Crime, Drama, Thriller",/Traffic.html,12.0,22.0,3.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,30910.0,39.0,147.0,3.77,2001
+830,830,Training Day,0.77,R,05 Oct 2001,122 min,"Crime, Drama, Thriller",/Training-Day.html,91.0,49.0,4.0,11.0,5.0,34.0,5.0,2.0,0.0,1.0,0.0,21170.0,202.0,122.0,0.6,2001
+831,831,Trainspotting,0.82,R,09 Aug 1996,93 min,Drama,/Trainspotting.html,5.0,25.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,3.0,0.0,17871.0,35.0,93.0,2.66,1996
+832,832,Tremors,0.72,PG-13,19 Jan 1990,96 min,"Comedy, Horror",/Tremors.html,8.0,4.0,28.0,8.0,4.0,15.0,0.0,0.0,0.0,5.0,0.0,25893.0,72.0,96.0,1.33,1990
+833,833,Tristan and Isolde,0.66,float(0),15 Jan 1982,84 min,"Adventure, Romance",/Tristan-and-Isolde.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8180.0,0.0,84.0,inf,1982
+834,834,TRON,0.68,PG,09 Jul 1982,96 min,"Action, Adventure, Sci-Fi",/TRON.html,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25368.0,2.0,96.0,48.0,1982
+835,835,Tropic Thunder,0.7,R,13 Aug 2008,107 min,"Action, Adventure, Comedy, War",/Tropic-Thunder.html,23.0,18.0,1.0,4.0,1.0,20.0,1.0,4.0,1.0,3.0,0.0,22428.0,76.0,107.0,1.41,2008
+836,836,True Grit,0.76,PG-13,22 Dec 2010,110 min,"Adventure, Drama, Western",/True-Grit.html,0.0,0.0,6.0,3.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,25570.0,13.0,110.0,8.46,2010
+837,837,True Lies,0.72,R,15 Jul 1994,141 min,"Action, Comedy, Thriller",/True-Lies.html,13.0,1.0,4.0,14.0,0.0,2.0,0.0,1.0,0.0,1.0,0.0,31951.0,36.0,141.0,3.92,1994
+838,838,True Romance,0.79,R,10 Sep 1993,119 min,"Crime, Drama, Romance, Thriller",/True-Romance.html,57.0,50.0,2.0,13.0,8.0,35.0,182.0,21.0,0.0,1.0,1.0,28059.0,370.0,119.0,0.32,1993
+839,839,Twilight,0.52,PG-13,21 Nov 2008,122 min,"Drama, Fantasy, Romance",/Twilight.html,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,22892.0,2.0,122.0,61.0,2008
+840,840,Twin Peaks,0.88,TV-MA,08 Apr 1990,47 min,"Crime, Drama, Mystery, Thriller",/Twin-Peaks.html,5.0,1.0,9.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,25029.0,16.0,47.0,2.94,1990
+841,841,Twins,0.6,PG,09 Dec 1988,107 min,"Comedy, Crime",/Twins.html,12.0,1.0,3.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,24666.0,20.0,107.0,5.35,1988
+842,842,Two for the Money,0.62,R,07 Oct 2005,122 min,"Drama, Sport, Thriller",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,122.0,122.0,2005
+843,843,U Turn,0.68,R,03 Oct 1997,125 min,"Crime, Drama, Thriller",/U-Turn.html,24.0,28.0,11.0,10.0,5.0,13.0,1.0,5.0,0.0,3.0,0.0,28503.0,100.0,125.0,1.25,1997
+844,844,Unbreakable,0.73,PG-13,22 Nov 2000,106 min,"Drama, Mystery, Sci-Fi, Thriller",/Unbreakable.html,4.0,0.0,2.0,1.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,25129.0,10.0,106.0,10.6,2000
+845,845,Under Fire,0.71,R,21 Oct 1983,128 min,"Drama, War",/Under-Fire.html,4.0,13.0,7.0,2.0,0.0,4.0,1.0,0.0,1.0,3.0,0.0,28487.0,35.0,128.0,3.66,1983
+846,846,Unknown,0.69,PG-13,18 Feb 2011,113 min,"Action, Mystery, Thriller",/Unknown.html,1.0,1.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,27563.0,6.0,113.0,18.83,2011
+847,847,Up,0.83,PG,29 May 2009,96 min,"Animation, Adventure, Comedy, Family",/Up.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17679.0,0.0,96.0,inf,2009
+848,848,Up in the Air,0.74,R,23 Dec 2009,109 min,"Drama, Romance",/Up-in-the-Air.html,8.0,16.0,0.0,0.0,3.0,5.0,0.0,1.0,0.0,0.0,0.0,20947.0,33.0,109.0,3.3,2009
+849,849,V for Vendetta,0.82,R,17 Mar 2006,132 min,"Action, Drama, Sci-Fi, Thriller",/V-for-Vendetta.html,2.0,5.0,7.0,1.0,0.0,1.0,0.0,0.0,1.0,7.0,0.0,26947.0,24.0,132.0,5.5,2006
+850,850,Valkyrie,0.71,PG-13,25 Dec 2008,121 min,"Drama, History, Thriller, War",/Valkyrie.html,4.0,2.0,5.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,24870.0,13.0,121.0,9.31,2008
+851,851,Vanilla Sky,0.69,R,14 Dec 2001,136 min,"Fantasy, Mystery, Romance, Sci-Fi, Thriller",/Vanilla-Sky.html,6.0,15.0,0.0,2.0,2.0,0.0,1.0,0.0,0.0,1.0,0.0,20840.0,27.0,136.0,5.04,2001
+852,852,Vertigo,0.83,PG,21 Jul 1958,128 min,"Mystery, Romance, Thriller",/Vertigo.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,0.0,128.0,inf,1958
+853,853,Very Bad Things,0.63,R,25 Nov 1998,100 min,"Comedy, Crime, Thriller",/Very-Bad-Things.html,7.0,14.0,1.0,1.0,3.0,5.0,0.0,0.0,0.0,1.0,0.0,19312.0,32.0,100.0,3.12,1998
+854,854,Virtuosity,0.56,R,04 Aug 1995,106 min,"Action, Crime, Sci-Fi, Thriller",/Virtuosity.html,9.0,1.0,1.0,8.0,2.0,4.0,0.0,0.0,0.0,1.0,0.0,27151.0,26.0,106.0,4.08,1995
+855,855,Wag the Dog,0.71,R,09 Jan 1998,97 min,"Comedy, Drama",/Wag-the-Dog.html,5.0,20.0,0.0,0.0,0.0,1.0,3.0,0.0,0.0,0.0,0.0,28076.0,29.0,97.0,3.34,1998
+857,857,Walking Tall,0.63,PG-13,02 Apr 2004,86 min,"Action, Crime",/Walking-Tall.html,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,6989.0,4.0,86.0,21.5,2004
+858,858,Wall Street,0.74,R,11 Dec 1987,126 min,"Crime, Drama",/Wall-Street.html,4.0,1.0,5.0,5.0,1.0,6.0,3.0,0.0,0.0,0.0,0.0,31607.0,25.0,126.0,5.04,1987
+859,859,WALLÂ·E,0.84,G,27 Jun 2008,98 min,"Animation, Adventure, Family, Sci-Fi",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,98.0,98.0,2008
+860,860,Wanted,0.67,R,27 Jun 2008,110 min,"Action, Crime, Fantasy, Thriller",/Wanted.html,8.0,14.0,12.0,4.0,0.0,10.0,1.0,0.0,1.0,2.0,0.0,24968.0,52.0,110.0,2.12,2008
+861,861,War for the Planet of the Apes,0.75,PG-13,14 Jul 2017,140 min,"Action, Adventure, Drama, Sci-Fi, Thriller",/War-for-the-Planet-of-the-Apes.html,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,31195.0,3.0,140.0,46.67,2017
+862,862,War Horse,0.72,PG-13,25 Dec 2011,146 min,"Drama, History, War",/War-Horse.html,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,25438.0,4.0,146.0,36.5,2011
+863,863,War of the Worlds,0.65,PG-13,29 Jun 2005,116 min,"Adventure, Sci-Fi, Thriller",/War-of-the-Worlds.html,10.0,0.0,5.0,0.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,17205.0,19.0,116.0,6.11,2005
+864,864,Warm Springs,0.76,NOT RATED,30 Apr 2005,121 min,"Biography, Drama",/Warm-Springs.html,0.0,0.0,6.0,3.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,21977.0,10.0,121.0,12.1,2005
+865,865,Warrior,0.82,PG-13,09 Sep 2011,140 min,"Drama, Sport",/Warrior.html,13.0,1.0,1.0,0.0,0.0,1.0,5.0,0.0,2.0,0.0,0.0,24349.0,23.0,140.0,6.09,2011
+866,866,Watchmen,0.76,R,06 Mar 2009,162 min,"Action, Drama, Mystery, Sci-Fi",/Watchmen.html,4.0,0.0,8.0,2.0,3.0,0.0,1.0,0.0,0.0,2.0,0.0,28245.0,20.0,162.0,8.1,2009
+867,867,Water for Elephants,0.69,PG-13,22 Apr 2011,120 min,"Drama, Romance",/Water-for-Elephants.html,7.0,0.0,5.0,0.0,0.0,3.0,7.0,0.0,0.0,0.0,0.0,29466.0,22.0,120.0,5.45,2011
+868,868,We Own the Night,0.69,R,12 Oct 2007,117 min,"Crime, Drama, Thriller",/We-Own-the-Night.html,12.0,11.0,0.0,0.0,0.0,5.0,2.0,3.0,0.0,0.0,0.0,32315.0,33.0,117.0,3.55,2007
+869,869,What Lies Beneath,0.66,PG-13,21 Jul 2000,130 min,"Drama, Fantasy, Horror, Mystery, Thriller",/What-Lies-Beneath.html,3.0,1.0,1.0,2.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,19511.0,10.0,130.0,13.0,2000
+870,870,When a Stranger Calls,0.51,PG-13,03 Feb 2006,87 min,"Horror, Thriller",/When-a-Stranger-Calls.html,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20091.0,1.0,87.0,87.0,2006
+871,871,When Harry Met Sally...,0.76,R,21 Jul 1989,95 min,"Comedy, Drama, Romance",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,95.0,95.0,1989
+872,872,While She Was Out,0.48,R,26 Mar 2009,86 min,"Crime, Drama, Horror, Thriller",/While-She-Was-Out.html,14.0,5.0,4.0,12.0,2.0,11.0,1.0,5.0,0.0,2.0,0.0,23387.0,56.0,86.0,1.54,2009
+873,873,White Christmas,0.76,NOT RATED,14 Oct 1954,120 min,"Comedy, Musical, Romance",/White-Christmas.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16943.0,0.0,120.0,inf,1954
+874,874,White Squall,0.66,PG-13,02 Feb 1996,129 min,"Adventure, Drama",/White-Squall.html,9.0,3.0,7.0,7.0,0.0,1.0,2.0,0.0,0.0,2.0,0.0,28571.0,31.0,129.0,4.16,1996
+875,875,Whiteout,0.55,R,11 Sep 2009,101 min,"Action, Crime, Horror, Mystery, Thriller",/Whiteout.html,7.0,2.0,4.0,2.0,0.0,4.0,0.0,0.0,0.0,1.0,0.0,21920.0,20.0,101.0,5.05,2009
+876,876,Who's Your Daddy?,0.48,R,20 Jan 2004,105 min,Comedy,float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,105.0,105.0,2004
+877,877,Wild at Heart,0.72,R,17 Aug 1990,125 min,"Comedy, Crime, Drama, Thriller",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,125.0,125.0,1990
+878,878,Wild Hogs,0.59,PG-13,02 Mar 2007,100 min,"Adventure, Comedy",/Wild-Hogs.html,12.0,0.0,9.0,8.0,3.0,10.0,0.0,0.0,1.0,1.0,0.0,26527.0,44.0,100.0,2.27,2007
+879,879,Wild Things,0.65,R,20 Mar 1998,108 min,"Crime, Drama, Mystery, Thriller",/Wild-Things.html,22.0,8.0,1.0,6.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,26205.0,45.0,108.0,2.4,1998
+880,880,Wild Wild West,0.49,PG-13,30 Jun 1999,106 min,"Action, Comedy, Sci-Fi, Western",/Wild-Wild-West.html,4.0,1.0,9.0,0.0,0.0,9.0,0.0,0.0,0.0,1.0,0.0,29864.0,24.0,106.0,4.42,1999
+881,881,Willow,0.73,PG,20 May 1988,126 min,"Action, Adventure, Drama, Fantasy, Romance",/Willow.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24080.0,0.0,126.0,inf,1988
+882,882,Win Win,0.72,R,15 Apr 2011,106 min,"Comedy, Drama, Sport",/Win-Win.html,30.0,10.0,3.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,20729.0,46.0,106.0,2.3,2011
+883,883,Wind Chill,0.59,R,03 Aug 2007,91 min,"Drama, Horror, Thriller",/Wind-Chill.html,10.0,1.0,2.0,0.0,4.0,4.0,0.0,0.0,0.0,2.0,0.0,21630.0,23.0,91.0,3.96,2007
+884,884,Witness,0.74,R,08 Feb 1985,112 min,"Crime, Drama, Romance, Thriller",/Witness.html,5.0,2.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,22932.0,12.0,112.0,9.33,1985
+886,886,Wonder Boys,0.74,R,25 Feb 2000,107 min,"Comedy, Drama",/Wonder-Boys.html,10.0,4.0,2.0,1.0,0.0,2.0,2.0,0.0,0.0,1.0,0.0,25898.0,22.0,107.0,4.86,2000
+887,887,American Wrestler: The Wizard,0.73,PG-13,16 May 2017,117 min,"Drama, Sport",float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,117.0,117.0,2017
+888,888,X-Men,0.74,PG-13,14 Jul 2000,104 min,"Action, Adventure, Sci-Fi",/X-Men.html,0.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,27706.0,3.0,104.0,34.67,2000
+889,889,xXx,0.59,PG-13,09 Aug 2002,124 min,"Action, Adventure, Thriller",/xXx.html,12.0,0.0,8.0,4.0,0.0,10.0,1.0,0.0,0.0,2.0,0.0,25542.0,37.0,124.0,3.35,2002
+890,890,Year One,0.49,PG-13,19 Jun 2009,97 min,"Adventure, Comedy",/Year-One.html,4.0,0.0,2.0,0.0,1.0,7.0,1.0,0.0,1.0,0.0,0.0,24227.0,16.0,97.0,6.06,2009
+891,891,Yes Man,0.68,PG-13,19 Dec 2008,104 min,"Comedy, Romance",/Yes-Man.html,9.0,2.0,0.0,2.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,22832.0,16.0,104.0,6.5,2008
+892,892,You Can Count on Me,0.77,R,22 Dec 2000,111 min,Drama,float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),float(0),1.0,111.0,111.0,2000
+893,893,You've Got Mail,0.66,PG,18 Dec 1998,119 min,"Comedy, Drama, Romance",/You've-Got-Mail.html,5.0,4.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,25300.0,14.0,119.0,8.5,1998
+894,894,Youth in Revolt,0.65,R,08 Jan 2010,90 min,"Comedy, Drama, Romance",/Youth-in-Revolt.html,5.0,3.0,5.0,0.0,4.0,5.0,1.0,1.0,2.0,1.0,0.0,26709.0,27.0,90.0,3.33,2010
+895,895,Zero Dark Thirty,0.74,R,11 Jan 2013,157 min,"Drama, Thriller",/Zero-Dark-Thirty.html,3.0,14.0,1.0,1.0,1.0,3.0,1.0,0.0,0.0,0.0,0.0,22200.0,24.0,157.0,6.54,2013
+896,896,Zerophilia,0.63,float(0),13 Oct 2006,90 min,"Comedy, Romance",/Zerophilia.html,4.0,12.0,6.0,3.0,4.0,5.0,0.0,0.0,0.0,1.0,0.0,15061.0,35.0,90.0,2.57,2006
+897,897,Zootopia,0.8,PG,04 Mar 2016,108 min,"Animation, Adventure, Comedy, Crime, Family, Mystery",/Zootopia.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20601.0,0.0,108.0,inf,2016
