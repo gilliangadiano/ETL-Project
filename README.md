@@ -32,6 +32,7 @@ Contains each team member's Jupyter Notebook that contains code used for later p
    * `safwan_new.ipynb` - code to pull genre, release date, run time, MPAA rating, and IMDB review score from OMDBApi website 
    * `zach_notebook.ipynb` - code that plots pie chart and pushes final combined csv file (with no nulls) into MySQL database 
    * `Sarah_visualization.ipynb` - MatPlotLib graphs used for analysis
+   *  `csvload.sql` - code to import CSV to SQL 
 
 ### Output Folder
 Contains output CSV files from Jupyter notebooks
@@ -40,6 +41,9 @@ Contains output CSV files from Jupyter notebooks
    * `movie_counts.csv` - contains the count of each of the 11 bad words found in each of the movie scripts. 
    * `result.csv` - added genre, release date, run time, MPAA rating, and IMDB review score `
    * `result2.csv` - cleaned up result file 
+
+### Figures
+Contains `.PNG` files used for presentation
 
 #### PowerPoint presentation : 
 `ETL Presentation.pptx` 
